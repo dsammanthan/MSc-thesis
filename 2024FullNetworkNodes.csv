@@ -1,0 +1,1597 @@
+Node ID,Name,Longitude,Latitude,Hop_ID,system_ID,Country
+pt_54.5747_11.9311,"Gedser, Denmark",11.9311,54.5747,1,2000.1,Denmark
+pt_54.0833_12.1333,"Rostock, Germany",12.1333,54.0833,2,2000.1,Germany
+pt_59.4372_24.745,"Tallinn, Estonia",24.745,59.4372,3,2000.11,Estonia
+pt_60.1708_24.9375,"Helsinki, Finland",24.9375,60.1708,4,2000.11,Finland
+pt_54.5_11.2167,"Puttgarden, Germany",11.2167,54.5,5,2000.12,Germany
+pt_54.6631_11.36,"Rõdbyhavn, Denmark",11.36,54.6631,6,2000.12,Denmark
+pt_39.603509_-74.338118,"Tuckerton, United States",-74.3381182,39.6035094,7,2000.13,United States
+pt_32.304027_-64.756309,"Bermuda, Bermuda",-64.7563086,32.3040273,8,2000.13,Bermuda
+pt_-3.730451_-38.525,"Fortaleza, Brazil",-38.525,-3.7304512,9,2000.13,Brazil
+pt_-22.9111_-43.2056,"Rio de Janeiro, Brazil",-43.2056,-22.9111,10,2000.13,Brazil
+pt_-3.7275_-38.5275,"Fortaleza, Brazil",-38.5275,-3.7275,11,2000.13,Brazil
+pt_39.6032_-74.3402,"Tuckerton, United States",-74.3402,39.6032,12,2000.13,United States
+pt_26.3686_-80.1,"Boca Raton, United States",-80.1,26.3686,13,2000.13,United States
+pt_10.328435_-64.460483,"Punta Gorda, Venezuela",-64.4604832,10.3284352,14,2000.13,Venezuela
+grid_-3.724337_-38.524337,grid_-3.724337_-38.524337,-38.52433668,-3.724336679,15,2000.13,grid_-3.724337_-38.524337
+pt_35.3792_-120.8533,"Morro Bay, United States",-120.8533,35.3792,16,2000.14,United States
+pt_21.4706_-158.2142,"Makaha, nan",-158.2142,21.4706,17,2000.14,Hawaii
+pt_34.3282_136.8297,"Shima, Japan",136.8297,34.3282,18,2000.14,Japan
+grid_34.9_140.4,grid_34.9_140.4,140.4,34.9,19,2000.14,grid_34.9_140.4
+pt_36.8019_140.751,"Kitaibaraki, Japan",140.751,36.8019,20,2000.14,Japan
+pt_38.9089_-123.6931,"Point Arena, United States",-123.6931,38.9089,21,2000.14,United States
+grid_36.7_141.4,grid_36.7_141.4,141.4,36.7,22,2000.14,grid_36.7_141.4
+pt_35.0218_139.962,"Maruyama, Japan",139.962,35.0218,23,2000.14,Japan
+grid_34.85_140.3,grid_34.85_140.3,140.3,34.849999999999994,24,2000.14,grid_34.85_140.3
+pt_40.779265_-72.915383,"Brookhaven, United States",-72.9153827,40.7792653,25,2000.15,United States
+pt_26.011201_-80.14949,"Hollywood, United States",-80.1494901,26.0112014,26,2000.15,United States
+pt_17.732_-64.748,"St Croix, US Virgin Islands , nan",-64.748,17.732,27,2000.15,United States Virgin Islands
+pt_18.37_-64.955,"US Virgin Islands, United States Virgin Islands",-64.955,18.37,28,2000.15,United States Virgin Islands
+pt_9.525_-75.5817,"Tolu, Colombia",-75.5817,9.525,29,2000.16,Colombia
+grid_11.6_-77.4,grid_11.6_-77.4,-77.4,11.6,30,2000.16,grid_11.6_-77.4
+grid_13.7_-78.6,grid_13.7_-78.6,-78.6,13.7,31,2000.16,grid_13.7_-78.6
+grid_20.1_-80.6,grid_20.1_-80.6,-80.6,20.1,32,2000.16,grid_20.1_-80.6
+pt_26.011201_-80.14949,"Hollywood, United States",-80.1494901,26.0112014,33,2000.16,United States
+pt_21.1614_-86.8248,"Cancun, Mexico",-86.8248,21.1614,34,2000.16,Mexico
+pt_10.0022_-83.084,"Puerto Limon, Costa Rica",-83.084,10.0022,35,2000.16,Costa Rica
+pt_9.443_-79.7545,"Maria Chiquita, Panama",-79.7545,9.443,36,2000.16,Panama
+pt_37.654_12.589,"Mazara, Italy",12.589,37.654,37,2000.17,Italy
+pt_32.8854_13.1802,"Tripoli, Libya",13.1802,32.8854,38,2000.17,Libya
+pt_35.1208_-120.6194,"Grover Beach, United States",-120.6194,35.1208,39,2000.18,United States
+grid_30.9_-120.3,grid_30.9_-120.3,-120.3,30.9,40,2000.18,grid_30.9_-120.3
+grid_19.5_-106.8,grid_19.5_-106.8,-106.8,19.5,41,2000.18,grid_19.5_-106.8
+pt_9.0794_-79.9139,"Amador, Panama",-79.9139,9.0794,42,2000.18,Panama
+pt_10.722251_-62.478069,"Puerto Viejo, Venezuela",-62.4780691,10.7222514,43,2000.18,Venezuela
+pt_8.9333_-79.55,"Amador, Panama",-79.55,8.9333,44,2000.18,Panama
+pt_17.732_-64.748,"St Croix, nan",-64.748,17.732,45,2000.18,United States Virgin Islands
+pt_32.5364_-117.0372,"Tijuana, Mexico",-117.0372,32.5364,46,2000.18,Mexico
+pt_23.2414_-106.4097,"Mazatlan, Mexico",-106.4097,23.2414,47,2000.18,Mexico
+pt_36.2306_140.3643,"Ajigaura, Japan",140.3643,36.2306,48,2000.19,Japan
+grid_44.8_159.0,grid_44.8_159.0,159,44.8,49,2000.19,grid_44.8_159.0
+pt_47.9161_-122.3031,"Harbour Pointe, United States",-122.3031,47.9161,50,2000.19,United States
+pt_34.3282_136.8297,"Shima, Japan",136.8297,34.3282,51,2000.19,Japan
+pt_35.1208_-120.6194,"Grover Beach, United States",-120.6194,35.1208,52,2000.19,United States
+pt_40.7569_-72.9417,"Bellport, United States",-72.9417,40.7569,53,2000.1,United States
+pt_50.7833_-4.5833,"Widemouth Bay, Great Britain",-4.5833,50.7833,54,2000.1,United Kingdom
+pt_55.4147_8.37955,"Måde, Denmark",8.37955,55.4147,55,2000.21,Denmark
+pt_54.6186_-1.0686,"Redcar, Great Britain",-1.0686,54.6186,56,2000.21,United Kingdom
+pt_52.4864_4.6572,"Beverwijk, Netherlands",4.6572,52.4864,57,2000.22,Netherlands
+pt_52.48_1.75,"Lowestoft, Great Britain",1.75,52.48,58,2000.22,United Kingdom
+pt_51.2336_2.9756,"Bredene, Belgium",2.9756,51.2336,59,2000.23,Belgium
+pt_51.3589_1.4394,"Dumpton Gap, Great Britain",1.4394,51.3589,60,2000.23,United Kingdom
+pt_50.77_0.1,"Seaford, Great Britain",0.1,50.77,61,2000.23,United Kingdom
+pt_49.8736_0.7994,"Veules les Roses, France",0.7994,49.8736,62,2000.23,France
+pt_54.3_-5.55,"Ballyhornan, nan",-5.55,54.3,63,2000.24,United Kingdom
+pt_54.221_-4.691,"Peel, nan",-4.691,54.221,64,2000.24,United Kingdom
+pt_28.0457_-16.5372,"El Medano, nan",-16.5372,28.0457,65,2000.25,Canary Islands
+pt_36.2756_-6.0877,"Conil, Spain",-6.0877,36.2756,66,2000.25,Spain
+pt_-33.0461_-71.6197,"Valparaiso, Chile",-71.6197,-33.0461,67,2000.27,Chile
+pt_-12.238906_-76.784493,"Lurin, Peru",-76.7844926,-12.2389059,68,2000.27,Peru
+pt_8.9333_-79.55,"Amador, Panama",-79.55,8.9333,69,2000.27,Panama
+pt_-23.9608_-46.3339,"Santos, Brazil",-46.3339,-23.9608,70,2000.27,Brazil
+pt_-36.4833_-56.7,"Las Toninas, Argentina",-56.7,-36.4833,71,2000.27,Argentina
+pt_-22.9111_-43.2056,"Rio de Janeiro, Brazil",-43.2056,-22.9111,72,2000.27,Brazil
+pt_-3.7275_-38.5275,"Fortaleza, Brazil",-38.5275,-3.7275,73,2000.27,Brazil
+pt_17.732_-64.748,"St Croix, US Virgin Islands , nan",-64.748,17.732,74,2000.27,United States Virgin Islands
+pt_10.722251_-62.478069,"Puerto Viejo, Venezuela",-62.4780691,10.7222514,75,2000.27,Venezuela
+pt_56.0424_12.721,"Helsingborg, Sweden",12.721,56.0424,76,2000.28,Sweden
+pt_56.036_12.6106,"Helsingõr, Denmark",12.6106,56.036,77,2000.28,Denmark
+pt_55.5448_12.9237,"Brunkeflostrand, Sweden",12.9237,55.5448,78,2000.29,Sweden
+pt_55.5925_12.6722,"Dragõr, Denmark",12.6722,55.5925,79,2000.29,Denmark
+pt_41.3133_19.4458,"Durres, Albania",19.4458,41.3133,80,2000.2,Albania
+pt_39.6239_19.82,"Corfu, Greece",19.82,39.6239,81,2000.2,Greece
+pt_54.7136_-5.8075,"Carrickfergus, Great Britain",-5.8075,54.7136,82,2000.3,United Kingdom
+pt_55.6352_-4.7896,"Saltcoats, Great Britain",-4.7896,55.6352,83,2000.3,United Kingdom
+pt_53.3497_-6.2603,"Dublin, Ireland",-6.2603,53.3497,84,2000.31,Ireland
+pt_53.8167_-3.05,"Blackpool, Great Britain",-3.05,53.8167,85,2000.31,United Kingdom
+pt_52.1667_-6.5833,"Kilmore Quay, Ireland",-6.5833,52.1667,86,2000.32,Ireland
+pt_51.5467_-4.2122,"Port Eynon Beach, Great Britain",-4.2122,51.5467,87,2000.32,United Kingdom
+pt_-36.787_174.622,"Whenuapai, New Zealand",174.622,-36.787,88,2000.33,New Zealand
+pt_-33.9022_151.2004,"Alexandria, Australia, Australia",151.2004,-33.9022,89,2000.33,Australia
+pt_-36.787_174.772,"Takapuna, New Zealand",174.772,-36.787,90,2000.33,New Zealand
+grid_-29.9_161.5,grid_-29.9_161.5,161.5,-29.9,91,2000.33,grid_-29.9_161.5
+grid_-29.4_162.25,grid_-29.4_162.25,162.25,-29.4,92,2000.33,grid_-29.4_162.25
+grid_-28.9_163.0,grid_-28.9_163.0,163,-28.9,93,2000.33,grid_-28.9_163.0
+pt_20.024_-155.822,"Spencer Beach, nan",-155.822,20.024,94,2000.33,Hawaii
+pt_35.3792_-120.8533,"Morro Bay, United States",-120.8533,35.3792,95,2000.33,United States
+pt_45.5228_-122.9897,"Hillsboro, United States",-122.9897,45.5228,96,2000.33,United States
+pt_21.354973_-158.130271,"Kahe Point, nan",-158.1302707,21.354973,97,2000.33,Hawaii
+pt_45.644_-123.94,"Nedonna Beach, United States",-123.94,45.644,98,2000.33,United States
+pt_-18.1333_178.4333,"Suva, nan",178.4333,-18.1333,99,2000.33,Fiji
+grid_-16.8_-173.65,grid_-16.8_-173.65,-173.65,-16.8,100,2000.33,grid_-16.8_-173.65
+grid_-16.4_-173.45,grid_-16.4_-173.45,-173.45,-16.4,101,2000.33,grid_-16.4_-173.45
+grid_-16.0_-173.25,grid_-16.0_-173.25,-173.25,-16,102,2000.33,grid_-16.0_-173.25
+pt_-33.765_151.2678,"Brookvale, Australia",151.2678,-33.765,103,2000.33,Australia
+grid_-16.792613_-173.646307,grid_-16.792613_-173.646307,-173.6463066,-16.79261316,104,2000.33,grid_-16.792613_-173.646307
+grid_-16.392724_-173.446362,grid_-16.392724_-173.446362,-173.4463621,-16.39272424,105,2000.33,grid_-16.392724_-173.446362
+grid_-28.924058_162.963913,grid_-28.924058_162.963913,162.9639132248644,-28.92405785,106,2000.33,grid_-28.924058_162.963913
+grid_-29.424684_162.212975,grid_-29.424684_162.212975,162.21297455152273,-29.42468363,107,2000.33,grid_-29.424684_162.212975
+pt_51.2258_2.9194,"Ostende, Belgium",2.9194,51.2258,108,2000.35,Belgium
+pt_51.3589_1.4394,"Broadstairs, Great Britain",1.4394,51.3589,109,2000.35,United Kingdom
+pt_52.1833_-6.5544,"Ballygrangans, Ireland",-6.5544,52.1833,110,2000.36,Ireland
+grid_52.0_-5.8,grid_52.0_-5.8,-5.8,52,111,2000.36,grid_52.0_-5.8
+pt_51.8909_-5.2931,"Whitesands Bay, Great Britain",-5.2931,51.8909,112,2000.36,United Kingdom
+pt_50.824_-4.542,"Crooklets, Great Britain",-4.542,50.824,113,2000.36,United Kingdom
+pt_52.4036_-6.3572,"Ballinesker, Ireland",-6.3572,52.4036,114,2000.36,Ireland
+pt_26.011201_-80.14949,"Hollywood, United States",-80.1494901,26.0112014,115,2000.3,United States
+pt_18.453889_-66.0825,"Miramar, Puerto Rico",-66.0825,18.453889,116,2000.3,Puerto Rico
+pt_17.732_-64.748,"St Croix, US Virgin Islands , nan",-64.748,17.732,117,2000.3,United States Virgin Islands
+pt_-3.7275_-38.5275,"Fortaleza, Brazil",-38.5275,-3.7275,118,2000.3,Brazil
+grid_8.2_-50.1,grid_8.2_-50.1,-50.1,8.2,119,2000.3,grid_8.2_-50.1
+grid_14.0_-58.8,grid_14.0_-58.8,-58.8,14,120,2000.3,grid_14.0_-58.8
+grid_15.0_-60.3,grid_15.0_-60.3,-60.3,15,121,2000.3,grid_15.0_-60.3
+grid_16.6_-62.6,grid_16.6_-62.6,-62.6,16.6,122,2000.3,grid_16.6_-62.6
+pt_14.6153_-61.0019,"Le Lamentin, Martinique, nan",-61.0019,14.6153,123,2000.3,Martinique
+pt_10.6833_-61.6333,"Chaguaramas, nan",-61.6333,10.6833,124,2000.3,Trinidad and Tobago
+pt_4.9386_-52.335,"Cayenne, nan",-52.335,4.9386,125,2000.3,French Guiana
+pt_10.620656_-66.715195,"Camuri, Venezuela",-66.7151951,10.6206563,126,2000.3,Venezuela
+grid_11.2_-66.5,grid_11.2_-66.5,-66.5,11.2,127,2000.3,grid_11.2_-66.5
+pt_12.108_-68.935,"Willemstad , nan",-68.935,12.108,128,2000.3,Curacao
+pt_14.9177_-23.5092,"Praia, nan",-23.5092,14.9177,129,2000.5,Cape Verde
+grid_-4.0_-28.5,grid_-4.0_-28.5,-28.5,-4,130,2000.5,grid_-4.0_-28.5
+pt_-36.4833_-56.7,"Las Toninas, Argentina",-56.7,-36.4833,131,2000.5,Argentina
+pt_14.916281_-23.50951,"Praia, nan",-23.5095095,14.9162811,132,2000.5,Cape Verde
+grid_15.0_-23.4,grid_15.0_-23.4,-23.4,15,133,2000.5,grid_15.0_-23.4
+grid_28.2_-17.0,grid_28.2_-17.0,-17,28.2,134,2000.5,grid_28.2_-17.0
+pt_38.707751_-9.136592,"Lisbon, Portugal",-9.1365919,38.7077507,135,2000.5,Portugal
+pt_14.7319_-17.4572,"Dakar, Senegal",-17.4572,14.7319,136,2000.5,Senegal
+pt_-3.7275_-38.5275,"Fortaleza, Brazil",-38.5275,-3.7275,137,2000.5,Brazil
+pt_28.0457_-16.5372,"El Medano, nan",-16.5372,28.0457,138,2000.5,Canary Islands
+pt_60.1708_24.9375,"Helsinki, Finland",24.9375,60.1708,139,2000.6,Finland
+pt_60.4667_26.9458,"Kotka, Finland",26.9458,60.4667,140,2000.6,Finland
+pt_59.806618_28.494532,"Logi, Russia",28.494532,59.806618,141,2000.6,Russia
+pt_43.2114_27.9111,"Varna, Bulgaria",27.9111,43.2114,142,2000.7,Bulgaria
+grid_44.6_31.1,grid_44.6_31.1,31.1,44.6,143,2000.7,grid_44.6_31.1
+pt_46.4775_30.7326,"Odessa, Ukraine",30.7326,46.4775,144,2000.7,Ukraine
+pt_44.7167_37.7667,"Novorossijsk, Russia",37.7667,44.7167,145,2000.7,Russia
+pt_26.011201_-80.14949,"Hollywood, United States",-80.1494901,26.0112014,146,2001.11,United States
+pt_25.0781_-77.3386,"Nassau, nan",-77.3386,25.0781,147,2001.11,Bahamas
+pt_11.5442_-72.9069,"Rio Hacha, Colombia",-72.9069,11.5442,148,2001.11,Colombia
+pt_11.7167_-70.1833,"Punto Fijo, Venezuela",-70.1833,11.7167,149,2001.11,Venezuela
+pt_10.4236_-75.5253,"Cartagena, Colombia",-75.5253,10.4236,150,2001.11,Colombia
+pt_9.13_-77.93,"Ustupo, Panama",-77.93,9.13,151,2001.11,Panama
+pt_9.443_-79.7545,"Maria Chiquita, Panama",-79.7545,9.443,152,2001.11,Panama
+pt_10.0022_-83.084,"Puerto Limon, Costa Rica",-83.084,10.0022,153,2001.11,Costa Rica
+pt_12.0131_-83.7649,"Bluefields, Nicaragua",-83.7649,12.0131,154,2001.11,Nicaragua
+pt_14.0297_-83.3833,"Puerto Cabezas, Nicaragua",-83.3833,14.0297,155,2001.11,Nicaragua
+pt_15.2664_-83.7725,"Puerto Lempira, Honduras",-83.7725,15.2664,156,2001.11,Honduras
+pt_15.9186_-85.9533,"Trujillo, Honduras",-85.9533,15.9186,157,2001.11,Honduras
+pt_15.8514_-87.9427,"Puerto Cortes, Honduras",-87.9427,15.8514,158,2001.11,Honduras
+pt_24.435324_-75.536051,"Cat Island, nan",-75.536051,24.435324,159,2001.11,Bahamas
+pt_15.73_-88.6,"Puerto Barrios, Guatemala",-88.6,15.73,160,2001.11,Guatemala
+pt_17.4986_-88.1886,"Belize City, nan",-88.1886,17.4986,161,2001.11,Belize
+pt_20.2175_-87.4627,"Tulum, Mexico",-87.4627,20.2175,162,2001.11,Mexico
+pt_21.1614_-86.8248,"Cancun, Mexico",-86.8248,21.1614,163,2001.11,Mexico
+pt_25.9303_-80.1697,"North Miami Beach, United States",-80.1697,25.9303,164,2001.11,United States
+pt_22.685583_-74.185642,"Crooked Island, nan",-74.185642,22.685583,165,2001.11,Bahamas
+pt_21.779512_-72.225489,"Providenciales, nan",-72.225489,21.779512,166,2001.11,Turks and Caicos Islands
+pt_19.7958_-70.6944,"Puerto Plata, Dominican Republic",-70.6944,19.7958,167,2001.11,Dominican Republic
+pt_18.5586_-68.3694,"Punta Cana, Dominican Republic",-68.3694,18.5586,168,2001.11,Dominican Republic
+pt_18.4653_-66.1167,"San Juan, Puerto Rico",-66.1167,18.4653,169,2001.11,Puerto Rico
+pt_12.108_-68.935,"Willemstad, nan",-68.935,12.108,170,2001.11,Curacao
+pt_22.3124_114.175294,"nan, Hong Kong",114.175294,22.3124,171,2001.15,China
+pt_25.154089_121.392922,"Pa Li, Taiwan",121.392922,25.154089,172,2001.15,Taiwan
+pt_36.83459_126.194528,"Shindu Ri, South Korea",126.19452832107433,36.834590003953686,173,2001.15,South Korea
+pt_36.385565_140.616861,"Ajigaura, Japan",140.616861,36.385565,174,2001.15,Japan
+pt_34.3282_136.8297,"Shima, Japan",136.8297,34.3282,175,2001.15,Japan
+pt_34.3282_136.8297,"Shima, Japan",136.8297,34.3282,176,2001.16,Japan
+pt_34.95_139.95,"Chikura, Japan",139.95,34.95,177,2001.16,Japan
+pt_14.352874_120.789294,"Capipisa, Philippines",120.789294,14.352874,178,2001.16,Philippines
+pt_22.3124_114.175294,"nan, Hong Kong",114.175294,22.3124,179,2001.16,China
+pt_35.172971_129.071611,"Pusan, South Korea",129.071611,35.172971,180,2001.16,South Korea
+pt_30.898341_121.919541,"Nanhui, China",121.919541,30.898341,181,2001.16,China
+pt_25.1667_121.4333,"Tamshui, Taiwan",121.4333,25.1667,182,2001.16,Taiwan
+pt_22.6333_120.35,"Fangshan, Taiwan",120.35,22.6333,183,2001.16,Taiwan
+pt_1.353925_103.974697,"Changi, Singapore",103.9746973,1.3539247,184,2001.16,Singapore
+grid_34.56_139.84,grid_34.56_139.84,139.84,34.56,185,2001.16,grid_34.56_139.84
+pt_22.228_113.933,"Tong Fuk, Hong Kong",113.933,22.228,186,2001.17,China
+grid_26.3_126.0,grid_26.3_126.0,126,26.3,187,2001.17,grid_26.3_126.0
+pt_35.172971_129.071611,"Pusan, South Korea",129.071611,35.172971,188,2001.17,South Korea
+pt_35.0432_139.84,"Wada, Japan",139.84,35.0432,189,2001.17,Japan
+pt_24.85_121.8167,"Toucheng, Taiwan",121.8167,24.85,190,2001.17,Taiwan
+pt_26.577433_-78.857533,"Hawksbill, nan",-78.857533,26.577433,191,2001.2,Bahamas
+pt_26.3686_-80.1,"Boca Raton, United States",-80.1,26.3686,192,2001.2,United States
+pt_26.719713_-78.010855,"Riding Point, nan",-78.010855,26.719713,193,2001.2,Bahamas
+pt_26.9125_-77.8219,"Crown Haven, nan",-77.8219,26.9125,194,2001.2,Bahamas
+pt_26.00529_-77.405494,"Sandy Point, nan",-77.405494,26.00529,195,2001.2,Bahamas
+pt_25.405513_-76.79067,"Current, nan",-76.79067,25.405513,196,2001.2,Bahamas
+pt_25.069512_-77.450444,"Caves Point, nan",-77.450444,25.069512,197,2001.2,Bahamas
+pt_27.3225_-80.3342,"Spanish River Park, United States",-80.3342,27.3225,198,2001.2,United States
+pt_43.2114_27.9111,"Varna, Bulgaria",27.9111,43.2114,199,2001.21,Bulgaria
+grid_44.6_31.1,grid_44.6_31.1,31.1,44.6,200,2001.21,grid_44.6_31.1
+pt_46.4775_30.7326,"Odessa, Ukraine",30.7326,46.4775,201,2001.21,Ukraine
+pt_44.7167_37.7667,"Novorossijsk, Russia",37.7667,44.7167,202,2001.21,Russia
+pt_57.245803_10.546856,"Lyngas, Denmark",10.546856,57.245803,203,2001.23,Denmark
+pt_57.287929_10.91751,"Vestero, Denmark",10.91751,57.287929,204,2001.23,Denmark
+pt_57.321261_11.13045,"Osterby, Denmark",11.13045,57.321261,205,2001.23,Denmark
+pt_56.683507_12.680755,"Skalvik, Sweden",12.680755,56.683507,206,2001.23,Sweden
+pt_57.3327_10.5267,"Saeby, Denmark",10.5267,57.3327,207,2001.26,Denmark
+pt_57.4875_12.0764,"Kungsbacka, Sweden",12.0764,57.4875,208,2001.26,Sweden
+pt_55.2047_-6.6522,"Portrush, Great Britain",-6.6522,55.2047,209,2001.2,United Kingdom
+pt_53.6469_-3.0081,"Ainsdale Sands, Great Britain",-3.0081,53.6469,210,2001.2,United Kingdom
+pt_44.5711_-63.5583,"Halifax, Canada",-63.5583,44.5711,211,2001.2,Canada
+grid_55.6_-14.2,grid_55.6_-14.2,-14.2,55.6,212,2001.2,grid_55.6_-14.2
+pt_53.3965_-6.1266,"Baldoyle, Ireland",-6.1266,53.3965,213,2001.2,Ireland
+pt_42.4667_-70.95,"Lynn, United States",-70.95,42.4667,214,2001.2,United States
+pt_63.442_-18.914,"nan, Iceland",-18.914,63.442,215,2001.2,Iceland
+pt_32.08_34.78,"Tel Aviv, Israel",34.78,32.08,216,2001.3,Israel
+pt_37.5027_15.0873,"Catania, Italy",15.0873,37.5027,217,2001.3,Italy
+pt_35.5167_24.0167,"Chania, Greece",24.0167,35.5167,218,2001.3,Greece
+pt_32.8192_34.9992,"Haifa, Israel",34.9992,32.8192,219,2001.3,Israel
+grid_33.3_33.2,grid_33.3_33.2,33.2,33.3,220,2001.3,grid_33.3_33.2
+grid_35.8_24.6,grid_35.8_24.6,24.6,35.8,221,2001.3,grid_35.8_24.6
+pt_37.9842_23.7281,"Athens, Greece",23.7281,37.9842,222,2001.3,Greece
+pt_34.9167_33.6333,"Pentaskhinos, Cyprus",33.6333,34.9167,223,2001.3,Cyprus
+pt_41.01_28.9603,"Istanbul, Turkey",28.9603,41.01,224,2001.3,Turkey
+grid_38.2_24.6,grid_38.2_24.6,24.6,38.2,225,2001.3,grid_38.2_24.6
+pt_35.0432_139.84,"Maruyama, Japan",139.84,35.0432,226,2001.6,Japan
+grid_34.5_140.1,grid_34.5_140.1,140.1,34.5,227,2001.6,grid_34.5_140.1
+grid_13.9_146.8,grid_13.9_146.8,146.8,13.9,228,2001.6,grid_13.9_146.8
+pt_-33.74_151.2428,"Oxford Falls, Australia",151.2428,-33.74,229,2001.6,Australia
+pt_-33.869844_151.208285,"Sydney, Australia",151.2082848,-33.8698439,230,2001.6,Australia
+pt_34.3282_136.8297,"Shima, Japan",136.8297,34.3282,231,2001.6,Japan
+pt_13.54325_144.808333,"Tanguisson, nan",144.8083333,13.54325,232,2001.6,Guam
+pt_13.511_144.809,"Tumon, nan",144.809,13.511,233,2001.6,Guam
+grid_35.026471_139.82451,grid_35.026471_139.82451,139.8245098039216,35.02647059,234,2001.6,grid_35.026471_139.82451
+pt_51.293166_-3.013273,"Brean, Great Britain",-3.013273,51.293166,235,2001.7,United Kingdom
+pt_40.1914_-74.0151,"Avon, United States",-74.0151,40.1914,236,2001.7,United States
+pt_51.092962_-4.227454,"Saunton Sands, Great Britain",-4.227454,51.092962,237,2001.7,United Kingdom
+pt_40.1186_-74.0447,"Manasquan, United States",-74.0447,40.1186,238,2001.7,United States
+pt_40.9028_-73.3442,"Northport, United States",-73.3442,40.9028,239,2001.9,United States
+pt_50.0759_-5.7024,"Sennen Cove, Great Britain",-5.7024,50.0759,240,2001.9,United Kingdom
+pt_50.043_-5.654,"Porthcurno, Great Britain",-5.654,50.043,241,2001.9,United Kingdom
+pt_48.5344_-2.7708,"Plerin, France",-2.7708,48.5344,242,2001.9,France
+pt_40.6031_-73.6569,"Island Park, United States",-73.6569,40.6031,243,2001.9,United States
+pt_35.172971_129.071611,"Pusan, South Korea",129.071611,35.172971,244,2002.11,South Korea
+pt_33.8834_130.8752,"Kitakyushu, Japan",130.8752,33.8834,245,2002.11,Japan
+pt_33.602194_130.396449,"Fukoka, Japan",130.396449,33.602194,246,2002.11,Japan
+pt_34.95_139.95,"Chikura, Japan",139.95,34.95,247,2002.1,Japan
+pt_36.8019_140.751,"Kitaibaraki, Japan",140.751,36.8019,248,2002.1,Japan
+grid_26.3_126.0,grid_26.3_126.0,126,26.3,249,2002.1,grid_26.3_126.0
+pt_25.1667_121.4333,"Tamshui, Taiwan",121.4333,25.1667,250,2002.1,Taiwan
+pt_23.3735_116.6941,"Shantou, China",116.6941,23.3735,251,2002.1,China
+grid_20.5_116.4,grid_20.5_116.4,116.4,20.5,252,2002.1,grid_20.5_116.4
+grid_15.5_113.7,grid_15.5_113.7,113.7,15.5,253,2002.1,grid_15.5_113.7
+pt_1.299009_103.904039,"Katong, Singapore",103.904039,1.299009,254,2002.1,Singapore
+pt_3.8167_103.3333,"Kuantan, Malaysia",103.3333,3.8167,255,2002.1,Malaysia
+grid_22.0_114.0,grid_22.0_114.0,114,22,256,2002.1,grid_22.0_114.0
+pt_22.260362_113.947319,"Lantau, Hong Kong",113.947319,22.260362,257,2002.1,China
+pt_31.51602_121.871545,"Chongming, China",121.871545,31.51602,258,2002.1,China
+pt_13.741086_121.051681,"Batangas, Philippines",121.051681,13.741086,259,2002.1,Philippines
+pt_54.1818_-0.3175,"Hunmanby, Great Britain",-0.3175,54.1818,260,2002.3,United Kingdom
+pt_53.4483_6.8311,"Eemshaven, Netherlands",6.8311,53.4483,261,2002.3,Netherlands
+pt_51.293166_-3.013273,"Brean, Great Britain",-3.013273,51.293166,262,2002.4,United Kingdom
+grid_48.2_-8.2,grid_48.2_-8.2,-8.2,48.2,263,2002.4,grid_48.2_-8.2
+pt_38.642977_-9.096926,"Seixal, Portugal",-9.096926,38.642977,264,2002.4,Portugal
+pt_51.092962_-4.227454,"Saunton Sands, Great Britain",-4.227454,51.092962,265,2002.4,United Kingdom
+pt_43.3814_-2.9822,"Sopelana, Spain",-2.9822,43.3814,266,2002.4,Spain
+pt_4.05_9.7,"Douala, Cameroon",9.7,4.05,267,2002.5,Cameroon
+grid_2.5_8.0,grid_2.5_8.0,8,2.5,268,2002.5,grid_2.5_8.0
+grid_-10.1_7.1,grid_-10.1_7.1,7.1,-10.1,269,2002.5,grid_-10.1_7.1
+pt_-33.7333_18.4333,"Melkbosstrand, South Africa",18.4333,-33.7333,270,2002.5,South Africa
+pt_38.46045_-9.10498,"Sesimbra, Portugal",-9.104980469,38.46045,271,2002.5,Portugal
+grid_36.9_-10.0,grid_36.9_-10.0,-10,36.9,272,2002.5,grid_36.9_-10.0
+grid_29.0_-16.4,grid_29.0_-16.4,-16.4,29,273,2002.5,grid_29.0_-16.4
+grid_14.6_-20.5,grid_14.6_-20.5,-20.5,14.6,274,2002.5,grid_14.6_-20.5
+grid_1.0_-4.4,grid_1.0_-4.4,-4.4,1,275,2002.5,grid_1.0_-4.4
+grid_1.0_0.8,grid_1.0_0.8,0.8,1,276,2002.5,grid_1.0_0.8
+grid_1.0_2.6,grid_1.0_2.6,2.6,1,277,2002.5,grid_1.0_2.6
+pt_-8.8383_13.2344,"Luanda, Angola",13.2344,-8.8383,278,2002.5,Angola
+pt_0.3901_9.4544,"Libreville, Gabon",9.4544,0.3901,279,2002.5,Gabon
+pt_6.45_3.4,"Lagos, Nigeria",3.4,6.45,280,2002.5,Nigeria
+pt_6.3667_2.4167,"Cotonou, nan",2.4167,6.3667,281,2002.5,Benin
+pt_5.5461_-0.2067,"Accra, Ghana",-0.2067,5.5461,282,2002.5,Ghana
+pt_5.316568_-4.018893,"Abidjan, Ivory Coast",-4.018893,5.316568,283,2002.5,Ivory Coast
+pt_14.7319_-17.4572,"Dakar, Senegal",-17.4572,14.7319,284,2002.5,Senegal
+pt_27.9586_-15.5925,"Alta Vista, nan",-15.5925,27.9586,285,2002.5,Canary Islands
+pt_36.7357_-6.4348,"Chipiona, Spain",-6.4348,36.7357,286,2002.5,Spain
+pt_36.804409_2.898389,"El Djamila, Algeria",2.898389,36.804409,287,2002.6,Algeria
+pt_39.354685_2.970715,"Ses Covetes, Spain",2.970715,39.354685,288,2002.6,Spain
+pt_-33.9253_18.4239,"Cape Town, South Africa",18.4239,-33.9253,289,2002.7,South Africa
+grid_-34.2_34.4,grid_-34.2_34.4,34.4,-34.2,290,2002.7,grid_-34.2_34.4
+grid_-21.8_56.1,grid_-21.8_56.1,56.1,-21.8,291,2002.7,grid_-21.8_56.1
+pt_-20.501153_57.446471,"Baie Jacotet, nan",57.446471,-20.501153,292,2002.7,Mauritius
+pt_-21.0097_55.2697,"Saint Paul, nan",55.2697,-21.0097,293,2002.7,Reunion
+grid_-19.8_56.4,grid_-19.8_56.4,56.4,-19.8,294,2002.7,grid_-19.8_56.4
+grid_7.1_73.0,grid_7.1_73.0,73,7.1,295,2002.7,grid_7.1_73.0
+pt_9.9667_76.2833,"Cochin, India",76.2833,9.9667,296,2002.7,India
+pt_-29.8583_31.025,"Durban, South Africa",31.025,-29.8583,297,2002.7,South Africa
+pt_5.389789_100.370614,"Penang, Malaysia",100.370614,5.389789,298,2002.7,Malaysia
+pt_13.0825_80.275,"Chennai, India",80.275,13.0825,299,2002.8,India
+pt_1.297617_103.619334,"Tuas, Singapore",103.619334,1.297617,300,2002.8,Singapore
+pt_35.0432_139.84,"Emi, Japan",139.84,35.0432,301,2002.9,Japan
+grid_45.6_-124.1,grid_45.6_-124.1,-124.1,45.6,302,2002.9,grid_45.6_-124.1
+pt_45.644_-123.94,"Nedonna Beach, United States",-123.94,45.644,303,2002.9,United States
+pt_34.7692_137.3915,"Toyohashi, Japan",137.3915,34.7692,304,2002.9,Japan
+pt_13.4608_144.6908,"Piti, nan",144.6908,13.4608,305,2002.9,Guam
+pt_45.5978_-123.9447,"Twin Rocks, United States",-123.9447,45.5978,306,2002.9,United States
+pt_33.8664_-118.3997,"Hermosa Beach, United States",-118.3997,33.8664,307,2002.9,United States
+pt_50.7833_-4.5833,"Widemouth Bay, Bude, Great Britain",-4.5833,50.7833,308,2003.2,United Kingdom
+pt_40.7792_-72.9153,"Brookhaven, United States",-72.9153,40.7792,309,2003.2,United States
+pt_40.1186_-74.0447,"Manasquan, United States",-74.0447,40.1186,310,2003.2,United States
+pt_48.7325_-3.4553,"Lannion, France",-3.4553,48.7325,311,2003.2,France
+pt_21.5428_39.1728,"Jeddah, Saudi Arabia",39.1728,21.5428,312,2003.7,Saudi Arabia
+pt_19.6158_37.2164,"Port Sudan, Sudan",37.2164,19.6158,313,2003.7,Sudan
+pt_57.415914_21.57,"Ventspils, Latvia",21.57,57.415914,314,2004.1,Latvia
+pt_57.8551_19.0394,"Farosund, Stavnas, Sweden",19.0394,57.8551,315,2004.1,Sweden
+pt_18.4394_-66.01,"Isla Verde, Puerto Rico",-66.01,18.4394,316,2004.11,Puerto Rico
+pt_18.0242_-63.0433,"St. Maarten, Netherlands, St. Maarten",-63.0433,18.0242,317,2004.11,St. Martin
+pt_39.6239_19.82,"Corfu, Greece",19.82,39.6239,318,2004.13,Greece
+pt_41.1253_16.8667,"Bari, Italy",16.8667,41.1253,319,2004.13,Italy
+pt_37.5027_15.0873,"Catania, Italy",15.0873,37.5027,320,2004.15,Italy
+pt_35.925739_14.487893,"St. George's Bay, Malta",14.487893,35.925739,321,2004.15,Malta
+pt_65.15_-13.6,"Seydisfjordur, Iceland",-13.6,65.15,322,2004.16,Iceland
+pt_62.2381_-6.9289,"Funningsfjordur, nan",-6.9289,62.2381,323,2004.16,Faroe Islands
+pt_58.62_-3.34,"Dunnet Bay, Great Britain",-3.34,58.62,324,2004.16,United Kingdom
+pt_25.775_55.96,"nan, United Arab Emirates",55.96,25.775,325,2004.3,United Arab Emirates
+pt_27.18_56.28,"nan, Iran",56.28,27.18,326,2004.3,Iran
+pt_1.297617_103.619334,"Tuas, Singapore",103.619334,1.297617,327,2004.4,Singapore
+pt_13.0825_80.275,"Chennai, India",80.275,13.0825,328,2004.4,India
+pt_25.302555_51.515,"Doha, Qatar",51.515,25.302555,329,2004.5,Qatar
+pt_25.675203_52.409404,"Halul, Qatar",52.409404,25.675203,330,2004.5,Qatar
+pt_25.149988_52.873422,"Das Island, United Arab Emirates",52.873422,25.149988,331,2004.5,United Arab Emirates
+pt_24.4511_54.3969,"Abu Dhabi, United Arab Emirates",54.3969,24.4511,332,2004.5,United Arab Emirates
+pt_1.297617_103.619334,"Tuas, Singapore",103.619334,1.297617,333,2005.3,Singapore
+grid_3.6_91.7,grid_3.6_91.7,91.7,3.6,334,2005.3,grid_3.6_91.7
+grid_10.9_84.4,grid_10.9_84.4,84.4,10.9,335,2005.3,grid_10.9_84.4
+pt_13.0825_80.275,"Chennai, India",80.275,13.0825,336,2005.3,India
+pt_6.9167_79.8333,"Colombo, Sri Lanka",79.8333,6.9167,337,2005.3,Sri Lanka
+pt_19.0758_72.8775,"Mumbai, India",72.8775,19.0758,338,2005.3,India
+pt_21.5428_39.1728,"Jeddah, Saudi Arabia",39.1728,21.5428,339,2005.3,Saudi Arabia
+grid_16.3_64.2,grid_16.3_64.2,64.2,16.3,340,2005.3,grid_16.3_64.2
+grid_17.2_66.9,grid_17.2_66.9,66.9,17.2,341,2005.3,grid_17.2_66.9
+pt_29.9667_32.5333,"Suez, Egypt",32.5333,29.9667,342,2005.3,Egypt
+pt_37.2744_9.8739,"Bizerte, Tunisia",9.8739,37.2744,343,2005.3,Tunisia
+grid_37.6_10.4,grid_37.6_10.4,10.4,37.6,344,2005.3,grid_37.6_10.4
+grid_37.3_11.2,grid_37.3_11.2,11.2,37.3,345,2005.3,grid_37.3_11.2
+pt_31.1975_29.8925,"Alexandria, Egypt",29.8925,31.1975,346,2005.3,Egypt
+pt_2.208142_102.241153,"Melaka, Malaysia",102.241153,2.208142,347,2005.3,Malaysia
+pt_6.786188_99.869598,"Satun, Thailand",99.869598,6.786188,348,2005.3,Thailand
+pt_21.5833_92.0167,"Cox's Bazar, Bangladesh",92.0167,21.5833,349,2005.3,Bangladesh
+pt_24.86_67.01,"Karachi, Pakistan",67.01,24.86,350,2005.3,Pakistan
+pt_25.133318_56.348522,"Fujairah, United Arab Emirates",56.348522,25.133318,351,2005.3,United Arab Emirates
+pt_43.2967_5.3764,"Marseille, France",5.3764,43.2967,352,2005.3,France
+grid_38.4_9.0,grid_38.4_9.0,9,38.4,353,2005.3,grid_38.4_9.0
+pt_38.1157_13.3613,"Palermo, Italy",13.3613,38.1157,354,2005.3,Italy
+pt_36.9_7.7667,"Annaba, Algeria",7.7667,36.9,355,2005.3,Algeria
+pt_43.2967_5.3764,"Marseille, France",5.3764,43.2967,356,2005.8,France
+grid_38.3_7.5,grid_38.3_7.5,7.5,38.3,357,2005.8,grid_38.3_7.5
+pt_36.9_7.7667,"Annaba, Algeria",7.7667,36.9,358,2005.8,Algeria
+pt_36.7764_3.0586,"Algiers, Algeria",3.0586,36.7764,359,2005.8,Algeria
+pt_35.6969_-0.6331,"Oran, Algeria",-0.6331,35.6969,360,2005.8,Algeria
+pt_1.6667_101.45,"Dumai, Indonesia",101.45,1.6667,361,2005.9,Indonesia
+pt_2.208142_102.241153,"Melaka, Malaysia",102.241153,2.208142,362,2005.9,Malaysia
+pt_4.2167_73.5333,"Hulhumalé, nan",73.5333,4.2167,363,2006.1,Maldives
+pt_6.9167_79.8333,"Colombo, Sri Lanka",79.8333,6.9167,364,2006.1,Sri Lanka
+pt_3.0333_101.45,"Bandar Bukit Tinggi, Malaysia",101.45,3.0333,365,2006.11,Malaysia
+pt_1.6667_101.45,"Dumai, Indonesia",101.45,1.6667,366,2006.11,Indonesia
+pt_-2.75_107.75,"Tanjung Pandan, Indonesia",107.75,-2.75,367,2006.11,Indonesia
+pt_-0.0206_109.3414,"Pontianak, Indonesia",109.3414,-0.0206,368,2006.11,Indonesia
+pt_-5.978045_107.123735,"Tanjung Pakis, Indonesia",107.123735,-5.978045,369,2006.11,Indonesia
+pt_-6.130492_106.839314,"Jakarta, Indonesia",106.839314,-6.130492,370,2006.11,Indonesia
+pt_-5.4294_105.2625,"Bandar Lampung, Indonesia",105.2625,-5.4294,371,2006.11,Indonesia
+pt_-4.115735_104.17077,"Baturaja, Indonesia",104.17077,-4.115735,372,2006.11,Indonesia
+pt_-2.9833_104.7644,"Palembang, Indonesia",104.7644,-2.9833,373,2006.11,Indonesia
+pt_-1.598268_103.611744,"Jambi, Indonesia",103.611744,-1.598268,374,2006.11,Indonesia
+pt_0.5333_101.45,"Pekanbaru, Indonesia",101.45,0.5333,375,2006.11,Indonesia
+pt_-0.9556_100.3606,"Padang, Indonesia",100.3606,-0.9556,376,2006.11,Indonesia
+pt_1.7425_98.7792,"Sibolga, Indonesia",98.7792,1.7425,377,2006.11,Indonesia
+pt_3.5894_98.6739,"Medan, Indonesia",98.6739,3.5894,378,2006.11,Indonesia
+pt_3.3283_99.1625,"Teping Tinggi, Indonesia",99.1625,3.3283,379,2006.11,Indonesia
+pt_1.13_104.0531,"Batam, Indonesia",104.0531,1.13,380,2006.11,Indonesia
+pt_42.8167_132.8833,"Nakhodka, Russia",132.8833,42.8167,381,2006.12,Russia
+pt_37.1479_138.2361,"Naoetsu, Japan",138.2361,37.1479,382,2006.12,Japan
+pt_7.2061_100.5967,"Songkhla, Thailand",100.5967,7.2061,383,2006.13,Thailand
+pt_1.13_104.0531,"Batam, Indonesia",104.0531,1.13,384,2006.13,Indonesia
+pt_13.0825_80.275,"Chennai, India",80.275,13.0825,385,2006.14,India
+pt_22.8167_89.55,"Khulna, Bangladesh",89.55,22.8167,386,2006.14,Bangladesh
+pt_29.582065_50.502997,"Gavaneh, Iran",50.502997,29.582065,387,2006.15,Iran
+grid_29.5_49.9,grid_29.5_49.9,49.9,29.5,388,2006.15,grid_29.5_49.9
+grid_29.5_49.5,grid_29.5_49.5,49.5,29.5,389,2006.15,grid_29.5_49.5
+pt_29.375_47.98,"Kuwait City, Kuwait",47.98,29.375,390,2006.15,Kuwait
+pt_28.997_49.52476,"Soroosh Platform, Iran",49.52476,28.997,391,2006.15,Iran
+pt_29.241655_50.314476,"Kharg Island, Iran",50.314476,29.241655,392,2006.15,Iran
+pt_26.577433_-78.857533,"Hawksbill, nan",-78.857533,26.577433,393,2006.16,Bahamas
+pt_26.002456_-77.386938,"Sandy Point, nan",-77.386938,26.002456,394,2006.16,Bahamas
+pt_25.0781_-77.3386,"Nassau, nan",-77.3386,25.0781,395,2006.16,Bahamas
+pt_24.711091_-77.789765,"Fresh Creek, nan",-77.789765,24.711091,396,2006.16,Bahamas
+pt_25.2_-76.5,"Governors Harbour, nan",-76.5,25.2,397,2006.16,Bahamas
+pt_23.509728_-75.780626,"Georgetown, nan",-75.780626,23.509728,398,2006.16,Bahamas
+pt_23.650755_-74.843819,"Port Nelson, nan",-74.843819,23.650755,399,2006.16,Bahamas
+pt_23.1_-74.9828,"Clarence Town, nan",-74.9828,23.1,400,2006.16,Bahamas
+pt_24.056999_-74.532648,"Cockburn Town, nan",-74.532648,24.056999,401,2006.16,Bahamas
+pt_22.197858_-75.72483,"Duncan Town, nan",-75.72483,22.197858,402,2006.16,Bahamas
+pt_24.41123_-75.519066,"Cat Island, Bahamas, Bahamas",-75.519066,24.41123,403,2006.16,Bahamas
+pt_22.621724_-73.994096,"Crooked Island, Bahamas, Bahamas",-73.994096,22.621724,404,2006.16,Bahamas
+pt_22.384061_-72.948666,"Mayaguana Island, Bahamas, Bahamas",-72.948666,22.384061,405,2006.16,Bahamas
+pt_20.95_-73.6667,"Matthew Town, nan",-73.6667,20.95,406,2006.16,Bahamas
+pt_18.5425_-72.3386,"Port-au-Prince, Haiti",-72.3386,18.5425,407,2006.16,Haiti
+grid_25.133497_-77.366503,grid_25.133497_-77.366503,-77.366503,25.13349699945444,408,2006.16,grid_25.133497_-77.366503
+pt_23.6667_58.1617,"Al Seeb, Oman",58.1617,23.6667,409,2006.17,Oman
+grid_13.0_52.6,grid_13.0_52.6,52.6,13,410,2006.17,grid_13.0_52.6
+grid_14.5_42.2,grid_14.5_42.2,42.2,14.5,411,2006.17,grid_14.5_42.2
+grid_20.4_38.9,grid_20.4_38.9,38.9,20.4,412,2006.17,grid_20.4_38.9
+grid_21.0_38.5,grid_21.0_38.5,38.5,21,413,2006.17,grid_21.0_38.5
+grid_28.7_33.4,grid_28.7_33.4,33.4,28.7,414,2006.17,grid_28.7_33.4
+pt_29.9667_32.5333,"Suez, Egypt",32.5333,29.9667,415,2006.17,Egypt
+pt_26.1833_56.25,"Khasab, Oman",56.25,26.1833,416,2006.17,Oman
+pt_25.165029_55.229622,"Dubai, United Arab Emirates",55.229622,25.165029,417,2006.17,United Arab Emirates
+pt_25.578_51.483,"Sumaisma, Qatar",51.483,25.578,418,2006.17,Qatar
+pt_26.225_50.5775,"Manama, nan",50.5775,26.225,419,2006.17,Bahrain
+pt_26.3_50.2167,"Al Khobar, Saudi Arabia",50.2167,26.3,420,2006.17,Saudi Arabia
+pt_29.375_47.98,"Kuwait City, Kuwait",47.98,29.375,421,2006.17,Kuwait
+pt_27.2_56.25,"Bandar Abbas, Iran",56.25,27.2,422,2006.17,Iran
+grid_24.7_60.5,grid_24.7_60.5,60.5,24.7,423,2006.17,grid_24.7_60.5
+pt_25.2919_60.6431,"Chabahar, Iran",60.6431,25.2919,424,2006.17,Iran
+pt_29.5322_35.0061,"Aqaba, Jordan",35.0061,29.5322,425,2006.17,Jordan
+pt_21.5428_39.1728,"Jeddah, Saudi Arabia",39.1728,21.5428,426,2006.17,Saudi Arabia
+pt_19.6158_37.2164,"Port Sudan, Sudan",37.2164,19.6158,427,2006.17,Sudan
+pt_14.8022_42.9511,"Al Hudaydah, Yemen",42.9511,14.8022,428,2006.17,Yemen
+pt_16.2_52.1667,"Al Ghaydah, Yemen",52.1667,16.2,429,2006.17,Yemen
+pt_19.0758_72.8775,"Mumbai, India",72.8775,19.0758,430,2006.17,India
+pt_26.1833_56.25,"Khasab, Oman",56.25,26.1833,431,2006.17,Oman
+pt_23.6667_58.1617,"Al Seeb, Oman",58.1617,23.6667,432,2006.17,Oman
+pt_25.165029_55.229622,"Dubai, United Arab Emirates",55.229622,25.165029,433,2006.17,United Arab Emirates
+pt_25.578_51.483,"Sumaisma, Qatar",51.483,25.578,434,2006.17,Qatar
+pt_26.225_50.5775,"Manama, nan",50.5775,26.225,435,2006.17,Bahrain
+pt_26.3_50.2167,"Al Khobar, Saudi Arabia",50.2167,26.3,436,2006.17,Saudi Arabia
+pt_29.375_47.98,"Kuwait City, Kuwait",47.98,29.375,437,2006.17,Kuwait
+pt_27.2_56.25,"Bandar Abbas, Iran",56.25,27.2,438,2006.17,Iran
+grid_24.7_60.5,grid_24.7_60.5,60.5,24.7,439,2006.17,grid_24.7_60.5
+pt_25.2919_60.6431,"Chabahar, Iran",60.6431,25.2919,440,2006.17,Iran
+pt_19.0758_72.8775,"Mumbai, India",72.8775,19.0758,441,2006.17,India
+pt_18.4653_-66.1167,"San Juan, Puerto Rico",-66.1167,18.4653,442,2006.18,Puerto Rico
+grid_17.8_-64.8,grid_17.8_-64.8,-64.8,17.8,443,2006.18,grid_17.8_-64.8
+pt_17.732_-64.748,"St. Croix, nan",-64.748,17.732,444,2006.18,United States Virgin Islands
+pt_14.085641_-60.953627,"Rodney Bay, nan",-60.953627,14.085641,445,2006.18,St. Lucia
+grid_14.2_-61.0,grid_14.2_-61.0,-61,14.2,446,2006.18,grid_14.2_-61.0
+pt_14.6153_-61.0019,"Le Lemantin, nan",-61.0019,14.6153,447,2006.18,Martinique
+pt_17.8986_-62.8492,"Gustavia, nan",-62.8492,17.8986,448,2006.18,St. Barthelemy
+pt_15.9536_-61.3192,"St. Louis, nan",-61.3192,15.9536,449,2006.18,Guadeloupe
+pt_17.1211_-61.8447,"St. John's, nan",-61.8447,17.1211,450,2006.18,Antigua and Barbuda
+grid_16.1_-61.8,grid_16.1_-61.8,-61.8,16.1,451,2006.18,grid_16.1_-61.8
+pt_16.0211_-61.7467,"Baillif, nan",-61.7467,16.0211,452,2006.18,Guadeloupe
+pt_13.1667_-61.2333,"Kingstown, nan",-61.2333,13.1667,453,2006.18,St. Vincent and the Grenadines
+pt_12.0444_-61.7417,"St. George's, nan",-61.7417,12.0444,454,2006.18,St. Vincent and the Grenadines
+pt_10.6833_-61.6333,"Chaguaramas, nan",-61.6333,10.6833,455,2006.18,Trinidad and Tobago
+pt_16.2675_-61.5869,"Baie-Mauhault, nan",-61.5869,16.2675,456,2006.18,Guadeloupe
+pt_15.3375_-61.3903,"Canefield, nan",-61.3903,15.3375,457,2006.18,Dominica
+pt_13.078778_-59.612358,"Needham's Point, nan",-59.612358,13.078778,458,2006.18,Barbados
+pt_17.2983_-62.7342,"Basseterre, nan",-62.7342,17.2983,459,2006.18,St. Kitts and Nevis
+grid_16.733333_-61.833333,grid_16.733333_-61.833333,-61.83333333,16.73333333333333,460,2006.18,grid_16.733333_-61.833333
+grid_16.061418_-61.722836,grid_16.061418_-61.722836,-61.72283619,16.061418092909538,461,2006.18,grid_16.061418_-61.722836
+pt_24.86_67.01,"Karachi, Pakistan",67.01,24.86,462,2006.19,Pakistan
+grid_24.1_58.5,grid_24.1_58.5,58.5,24.1,463,2006.19,grid_24.1_58.5
+pt_23.6667_58.1617,"Al Seeb, Oman",58.1617,23.6667,464,2006.19,Oman
+pt_25.133318_56.348522,"Fujairah, United Arab Emirates",56.348522,25.133318,465,2006.19,United Arab Emirates
+pt_8.7833_78.1333,"Tuticorin, India",78.1333,8.7833,466,2006.1,India
+pt_6.8397_79.8758,"Mount Lavina, Sri Lanka",79.8758,6.8397,467,2006.1,Sri Lanka
+pt_54.0833_12.1333,"Rostock, Germany",12.1333,54.0833,468,2006.21,Germany
+pt_54.5747_11.9311,"Gedser, Denmark",11.9311,54.5747,469,2006.21,Denmark
+pt_50.043_-5.654,"Porthcurno, Great Britain",-5.654,50.043,470,2006.2,United Kingdom
+pt_51.676_-4.9158,"Pembroke, Great Britain",-4.9158,51.676,471,2006.2,United Kingdom
+pt_48.7325_-3.4553,"Lannion, France",-3.4553,48.7325,472,2006.2,France
+pt_49.420988_-2.563997,"Saints Bay, nan",-2.563997,49.420988,473,2006.2,United Kingdom
+pt_49.25_-2.202,"Greve de Lecq, Jersey, Channel Islands",-2.202,49.25,474,2006.3,United Kingdom
+pt_49.42_-2.56,"Saints Bay, Guernsey, Channel Islands",-2.56,49.42,475,2006.3,United Kingdom
+pt_49.4_-1.78,"nan, France",-1.78,49.4,476,2006.3,France
+pt_49.46_-2.5336,"Guernsey, Great Britain, Channel Islands",-2.5336,49.46,477,2006.3,United Kingdom
+pt_19.7958_-70.6944,"Puerto Plata, Dominican Republic",-70.6944,19.7958,478,2006.5,Dominican Republic
+grid_19.9_-73.7,grid_19.9_-73.7,-73.7,19.9,479,2006.5,grid_19.9_-73.7
+pt_17.95_-76.6667,"Bull Bay, Kingston, Jamaica",-76.6667,17.95,480,2006.5,Jamaica
+pt_18.3994_-77.1031,"Ocho Rios, Jamaica",-77.1031,18.3994,481,2006.5,Jamaica
+pt_18.4667_-77.9167,"Montego Bay, Jamaica",-77.9167,18.4667,482,2006.5,Jamaica
+pt_18.872311_-72.615888,"Kaliko, Haiti",-72.615888,18.872311,483,2006.5,Haiti
+pt_-33.8678_151.21,"Sydney, Australia",151.21,-33.8678,484,2006.6,Australia
+pt_-9.4789_147.1494,"Port Moresby, Papua New Guinea",147.1494,-9.4789,485,2006.6,Papua New Guinea
+pt_8.7833_78.1333,"Tutitocorin, India",78.1333,8.7833,486,2006.7,India
+pt_6.8397_79.8758,"Mt. Lavinia, Sri Lanka",79.8758,6.8397,487,2006.7,Sri Lanka
+pt_59.4372_24.745,"Talinn, Estonia",24.745,59.4372,488,2006.8,Estonia
+pt_60.1708_24.9375,"Helsinki, Finland",24.9375,60.1708,489,2006.8,Finland
+pt_14.0167_-60.9833,"Port Castries, nan",-60.9833,14.0167,490,2006.9,St. Lucia
+pt_17.768438_-64.872576,"Hams Bluff, nan",-64.872576,17.768438,491,2006.9,United States Virgin Islands
+pt_13.0975_-59.6167,"Bridgetown, nan",-59.6167,13.0975,492,2006.9,Barbados
+grid_14.025856_-60.987072,grid_14.025856_-60.987072,-60.9870718,14.025856396361524,493,2006.9,grid_14.025856_-60.987072
+pt_32.359207_-64.663384,"St. Davids, Devonshire, nan",-64.6633843,32.3592072,494,2007.1,Bermuda
+pt_40.1186_-74.0447,"Manasquan, United States",-74.0447,40.1186,495,2007.1,United States
+pt_6.9167_79.8333,"Colombo, Sri Lanka",79.8333,6.9167,496,2007.1,Sri Lanka
+pt_4.176487_73.508168,"Male, nan",73.508168,4.176487,497,2007.1,Maldives
+pt_12.108_-68.935,"Willemstad, nan",-68.935,12.108,498,2007.4,Curacao
+pt_10.6833_-61.6333,"Chaguaramas, nan",-61.6333,10.6833,499,2007.4,Trinidad and Tobago
+pt_43.2967_5.3764,"Marseille, France",5.3764,43.2967,500,2007.5,France
+pt_35.4667_-6.0333,"Asilah, Morocco",-6.0333,35.4667,501,2007.5,Morocco
+pt_1.13_104.0531,"Batam, Indonesia",104.0531,1.13,502,2007.6,Indonesia
+pt_1.355307_104.225057,"Sungai Rengit, Malaysia",104.225057,1.355307,503,2007.6,Malaysia
+pt_34.7619_32.45135,"Yeroskipos, Cyprus",32.45135,34.7619,504,2008.12,Cyprus
+grid_34.7_30.9,grid_34.7_30.9,30.9,34.7,505,2008.12,grid_34.7_30.9
+pt_37.653729_12.588691,"Mazara del Vallo, Italy",12.5886912,37.6537292,506,2008.12,Italy
+pt_37.502361_15.087372,"Catania, Italy",15.0873718,37.5023612,507,2008.12,Italy
+pt_34.750381_33.405516,"Pentaskhinos, Cyprus",33.40551585216968,34.75038107671081,508,2008.12,Cyprus
+pt_42.15_41.6667,"Poti, Georgia",41.6667,42.15,509,2008.14,Georgia
+pt_43.2114_27.9111,"Varna, Bulgaria",27.9111,43.2114,510,2008.14,Bulgaria
+pt_57.5009_-134.5835,"Angoon, United States",-134.5835,57.5009,511,2008.15,United States
+grid_57.4_-134.6,grid_57.4_-134.6,-134.6,57.4,512,2008.15,grid_57.4_-134.6
+pt_57.055849_-135.331306,"Sitka, United States",-135.331306,57.055849,513,2008.15,United States
+pt_58.125627_-134.754778,"Hawk Inlet, United States",-134.754778,58.125627,514,2008.15,United States
+pt_58.300025_-134.421542,"Juneau, United States",-134.421542,58.300025,515,2008.15,United States
+pt_56.8044_-132.9419,"Petersburg, United States",-132.9419,56.8044,516,2008.15,United States
+pt_56.472741_-132.384191,"Wrangell, United States",-132.384191,56.472741,517,2008.15,United States
+pt_55.3431_-131.6467,"Ketchikan, United States",-131.6467,55.3431,518,2008.15,United States
+pt_1.353925_103.974697,"Changi, Singapore",103.9746973,1.3539247,519,2008.16,Singapore
+pt_1.13_104.0531,"Batam, Indonesia",104.0531,1.13,520,2008.16,Indonesia
+pt_32.274853_-64.780026,"Paget, nan",-64.780026,32.274853,521,2008.17,Bermuda
+pt_41.3853_-71.6681,"Charlestown, United States",-71.6681,41.3853,522,2008.17,United States
+pt_45.417_141.6677,"nan, Japan",141.6677,45.417,523,2008.1,Japan
+pt_46.68_141.87,"Nevelsk, Russia",141.87,46.68,524,2008.1,Russia
+pt_26.3686_-80.1,"Boca Raton, United States",-80.1,26.3686,525,2008.2,United States
+grid_17.3_-79.6,grid_17.3_-79.6,-79.6,17.3,526,2008.2,grid_17.3_-79.6
+pt_10.4236_-75.5253,"Cartagena, Colombia",-75.5253,10.4236,527,2008.2,Colombia
+pt_17.9149_-76.1882,"Morant Point, Jamaica",-76.1882,17.9149,528,2008.2,Jamaica
+pt_1.353925_103.974697,"Changi, Singapore",103.9746973,1.3539247,529,2008.3,Singapore
+pt_-6.130492_106.839314,"Jakarta, Indonesia",106.839314,-6.130492,530,2008.3,Indonesia
+pt_-22.2667_166.45,"Nouméa, nan",166.45,-22.2667,531,2008.4,New Caledonia
+pt_-33.8678_151.21,"Sydney, Australia",151.21,-33.8678,532,2008.4,Australia
+pt_-20.722116_166.430431,"Mouli Island, nan",166.430431,-20.722116,533,2008.4,New Caledonia
+pt_-20.9333_165.3333,"Poindimié, nan",165.3333,-20.9333,534,2008.4,New Caledonia
+pt_-20.9_167.2667,"Lifou, Loyalty Islands, nan",167.2667,-20.9,535,2008.4,New Caledonia
+pt_45.644_-123.94,"Nedonna Beach, United States",-123.94,45.644,536,2008.6,United States
+grid_29.7_127.5,grid_29.7_127.5,127.5,29.7,537,2008.6,grid_29.7_127.5
+grid_31.2_122.5,grid_31.2_122.5,122.5,31.2,538,2008.6,grid_31.2_122.5
+pt_31.521874_121.847891,"Chongming, China",121.847891,31.521874,539,2008.6,China
+pt_25.1667_121.4333,"Tamshui, Taiwan",121.4333,25.1667,540,2008.6,Taiwan
+pt_36.1167_120.4,"Qingdao, China",120.4,36.1167,541,2008.6,China
+pt_34.866084_128.640772,"Keoje, South Korea",128.640772,34.866084,542,2008.6,South Korea
+pt_35.0432_139.84,"Shin Maruyama, Japan",139.84,35.0432,543,2008.6,Japan
+pt_21.550171_-158.243155,"Keawaula, nan",-158.243155,21.550171,544,2008.7,Hawaii
+pt_-33.868_151.20924,"Sydney, Australia",151.20924,-33.868,545,2008.7,Australia
+pt_57.66657_-2.530403,"Banf, Great Britain",-2.530403,57.66657,546,2008.8,United Kingdom
+pt_58.826934_-2.939422,"Ayre of Cara, Orkney Islands, Great Britain",-2.939422,58.826934,547,2008.8,United Kingdom
+pt_59.9972_-1.2233,"Sandwick, Shetland Islands, Great Britain",-1.2233,59.9972,548,2008.8,United Kingdom
+pt_62.0_-6.7833,"Torshavn, nan",-6.7833,62,549,2008.8,Faroe Islands
+pt_60.005071_-1.324235,"Maywick, Shetland Islands, Great Britain",-1.324235,60.005071,550,2008.8,United Kingdom
+pt_1.353925_103.974697,"Changi, Singapore",103.9746973,1.3539247,551,2009.11,Singapore
+pt_2.43_103.83,"Mersing, Malaysia",103.83,2.43,552,2009.11,Malaysia
+pt_22.240025_113.935646,"Lantau, China",113.935646,22.240025,553,2009.11,China
+grid_20.6_114.2,grid_20.6_114.2,114.2,20.6,554,2009.11,grid_20.6_114.2
+grid_9.5_110.0,grid_9.5_110.0,110,9.5,555,2009.11,grid_9.5_110.0
+grid_8.0_109.5,grid_8.0_109.5,109.5,8,556,2009.11,grid_8.0_109.5
+grid_5.6_107.7,grid_5.6_107.7,107.7,5.6,557,2009.11,grid_5.6_107.7
+pt_16.555172_120.33562,"La Union, Philippines",120.33562,16.555172,558,2009.11,Philippines
+pt_13.544909_144.809382,"Tanguisson, nan",144.809382,13.544909,559,2009.11,Guam
+pt_21.550171_-158.243155,"Keawaula, nan",-158.243155,21.550171,560,2009.11,Hawaii
+pt_35.2742_-120.6631,"San Luis Obispo, United States",-120.6631,35.2742,561,2009.11,United States
+pt_13.1744_100.9306,"Sri Racha, Thailand",100.9306,13.1744,562,2009.11,Thailand
+pt_4.971273_114.87746,"Tungku, nan",114.87746,4.971273,563,2009.11,Brunei
+pt_10.4042_107.1417,"Vung Tau, Vietnam",107.1417,10.4042,564,2009.11,Vietnam
+pt_-20.907575_55.542525,"St. Marie, nan",55.542525,-20.907575,565,2009.12,Reunion
+pt_-18.155_49.41,"Toamasina, Madagascar",49.41,-18.155,566,2009.12,Madagascar
+pt_-20.122253_57.522389,"Terre Rouge, nan",57.522389,-20.122253,567,2009.12,Mauritius
+pt_1.13_104.0531,"Batam, Indonesia",104.0531,1.13,568,2009.15,Indonesia
+pt_1.353925_103.974697,"Changi, Singapore",103.9746973,1.3539247,569,2009.15,Singapore
+pt_2.194324_102.251331,"Melaka, Malaysia",102.251331,2.194324,570,2009.18,Malaysia
+pt_1.6667_101.45,"Dumai, Indonesia",101.45,1.6667,571,2009.18,Indonesia
+pt_1.13_104.0531,"Batam, Indonesia",104.0531,1.13,572,2009.18,Indonesia
+pt_-13.8333_-171.8333,"Apia, nan",-171.8333,-13.8333,573,2009.19,Samoa
+pt_-14.2794_-170.7006,"Pago Pago, nan",-170.7006,-14.2794,574,2009.19,American Samoa
+pt_63.705311_-20.594039,"Landeyjarsandur, Iceland",-20.594039,63.705311,575,2009.1,Iceland
+pt_55.7794_8.2894,"Blaabjerg, Denmark",8.2894,55.7794,576,2009.1,Denmark
+pt_35.9388_14.4537,"Bahar ic-Caghaq, Malta",14.4537,35.9388,577,2009.2,Malta
+pt_36.7303_14.8467,"Pozzalio, Italy",14.8467,36.7303,578,2009.2,Italy
+pt_25.133318_56.348522,"Fujairah, United Arab Emirates",56.348522,25.133318,579,2009.21,United Arab Emirates
+pt_-4.05_39.6667,"Mombasa, Kenya",39.6667,-4.05,580,2009.21,Kenya
+pt_64.175_-51.7333,"Nuuk, nan",-51.7333,64.175,581,2009.22,Greenland
+pt_48.2199_-53.96,"Milton, Canada",-53.96,48.2199,582,2009.22,Canada
+pt_63.7262_-20.633393,"Landeyarsandur, Iceland",-20.633393,63.7262,583,2009.22,Iceland
+grid_59.6_-48.7,grid_59.6_-48.7,-48.7,59.6,584,2009.22,grid_59.6_-48.7
+pt_60.7167_-46.0333,"Qaqortoq, nan",-46.0333,60.7167,585,2009.22,Greenland
+pt_1.297617_103.619334,"Tuas, Singapore",103.619334,1.297617,586,2009.2,Singapore
+grid_0.8_103.9,grid_0.8_103.9,103.9,0.8,587,2009.2,grid_0.8_103.9
+grid_-2.2_105.9,grid_-2.2_105.9,105.9,-2.2,588,2009.2,grid_-2.2_105.9
+pt_-6.130492_106.839314,"Jakarta, Indonesia",106.839314,-6.130492,589,2009.2,Indonesia
+pt_-0.0206_109.3414,"Ponitianak, Indonesia",109.3414,-0.0206,590,2009.2,Indonesia
+pt_1.13_104.0531,"nan, Indonesia",104.0531,1.13,591,2009.2,Indonesia
+pt_35.948322_14.395578,"St. Pauls Bay, Malta",14.395578,35.948322,592,2009.3,Malta
+pt_37.6517_12.5875,"Mazara del Vallo, Italy",12.5875,37.6517,593,2009.3,Italy
+pt_-33.8678_151.21,"Sydney, Australia",151.21,-33.8678,594,2009.4,Australia
+grid_0.6_150.3,grid_0.6_150.3,150.3,0.6,595,2009.4,grid_0.6_150.3
+pt_13.4608_144.6908,"Piti, nan",144.6908,13.4608,596,2009.4,Guam
+pt_-5.2167_145.8,"Madang, Papua New Guinea",145.8,-5.2167,597,2009.4,Papua New Guinea
+pt_11.59791_43.149044,"Djibouti, Djibouti",43.149044,11.59791,598,2009.6,Djibouti
+grid_13.0_51.6,grid_13.0_51.6,51.6,13,599,2009.6,grid_13.0_51.6
+pt_19.0758_72.8775,"Mumbai, India",72.8775,19.0758,600,2009.6,India
+pt_29.5989_32.6797,"Ras Sidr, Egypt",32.6797,29.5989,601,2009.6,Egypt
+grid_21.0_38.5,grid_21.0_38.5,38.5,21,602,2009.6,grid_21.0_38.5
+pt_31.1975_29.8925,"Alexandria, Egypt",29.8925,31.1975,603,2009.6,Egypt
+pt_43.2967_5.3764,"Marseille, France",5.3764,43.2967,604,2009.6,France
+pt_-6.805019_39.283459,"Dar es Salaam, Tanzania",39.283459,-6.805019,605,2009.6,Tanzania
+grid_-6.8_40.1,grid_-6.8_40.1,40.1,-6.8,606,2009.6,grid_-6.8_40.1
+grid_-6.6_42.2,grid_-6.6_42.2,42.2,-6.6,607,2009.6,grid_-6.6_42.2
+pt_21.5428_39.1728,"Jeddah, Saudi Arabia",39.1728,21.5428,608,2009.6,Saudi Arabia
+pt_-4.05_39.6667,"Mombasa, Kenya",39.6667,-4.05,609,2009.6,Kenya
+pt_-28.95_31.75,"Mtunzi, South Africa",31.75,-28.95,610,2009.6,South Africa
+grid_-27.7_36.9,grid_-27.7_36.9,36.9,-27.7,611,2009.6,grid_-27.7_36.9
+grid_-23.1_39.3,grid_-23.1_39.3,39.3,-23.1,612,2009.6,grid_-23.1_39.3
+pt_-23.35_43.6667,"Toliari, Madagascar",43.6667,-23.35,613,2009.6,Madagascar
+pt_-25.951815_32.589394,"Maputo, Mozambique",32.589394,-25.951815,614,2009.6,Mozambique
+pt_1.297617_103.619334,"Tuas, Singapore",103.619334,1.297617,615,2009.7,Singapore
+grid_9.3_110.8,grid_9.3_110.8,110.8,9.3,616,2009.7,grid_9.3_110.8
+grid_19.0_121.4,grid_19.0_121.4,121.4,19,617,2009.7,grid_19.0_121.4
+pt_18.4108_121.5169,"Ballesteros, Philippines",121.5169,18.4108,618,2009.7,Philippines
+pt_10.4042_107.1417,"Vung Tau, Vietnam",107.1417,10.4042,619,2009.7,Vietnam
+pt_13.4608_144.6908,"Piti, nan",144.6908,13.4608,620,2009.7,Guam
+pt_22.246895_114.184357,"Deep Water Bay, China",114.184357,22.246895,621,2009.7,China
+pt_37.654_12.589,"Mazara, Italy",12.589,37.654,622,2009.8,Italy
+pt_36.8475_11.0939,"Kelibia, Tunisia",11.0939,36.8475,623,2009.8,Tunisia
+pt_4.75_7.0,"Port Harcourt, Nigeria",7,4.75,624,2010.1,Nigeria
+grid_3.1_5.1,grid_3.1_5.1,5.1,3.1,625,2010.1,grid_3.1_5.1
+grid_2.0_1.0,grid_2.0_1.0,1,2,626,2010.1,grid_2.0_1.0
+grid_1.4_-4.4,grid_1.4_-4.4,-4.4,1.4,627,2010.1,grid_1.4_-4.4
+grid_14.6_-20.5,grid_14.6_-20.5,-20.5,14.6,628,2010.1,grid_14.6_-20.5
+grid_28.5_-16.8,grid_28.5_-16.8,-16.8,28.5,629,2010.1,grid_28.5_-16.8
+grid_35.9_-11.5,grid_35.9_-11.5,-11.5,35.9,630,2010.1,grid_35.9_-11.5
+pt_38.644624_-9.096583,"Seixal, Portugal",-9.096583,38.644624,631,2010.1,Portugal
+pt_-8.844_13.2465,"nan, Angola",13.2465,-8.844,632,2010.1,Angola
+pt_6.55_3.355,"nan, Nigeria",3.355,6.55,633,2010.1,Nigeria
+pt_-33.93_18.53,"nan, South Africa",18.53,-33.93,634,2010.1,South Africa
+pt_33.5992_-7.62,"Casablanca, Morocco",-7.62,33.5992,635,2010.1,Morocco
+pt_28.2686_-16.6056,"Tenerife, nan",-16.6056,28.2686,636,2010.1,Canary Islands
+pt_14.7319_-17.4572,"Dakar, Senegal",-17.4572,14.7319,637,2010.1,Senegal
+pt_5.260247_-4.003358,"Abidjan, Ivory Coast",-4.003358,5.260247,638,2010.1,Ivory Coast
+pt_5.5461_-0.2067,"Accra, Ghana",-0.2067,5.5461,639,2010.1,Ghana
+pt_6.45_3.4,"Lagos, Nigeria",3.4,6.45,640,2010.1,Nigeria
+grid_2.1125_3.125,grid_2.1125_3.125,3.125,2.1125000000000003,641,2010.1,grid_2.1125_3.125
+pt_-36.4833_-56.7,"Las Toninas, Argentina",-56.7,-36.4833,642,2010.13,Argentina
+pt_-34.9088_-54.9581,"Maldonado, Uruguay",-54.9581,-34.9088,643,2010.13,Uruguay
+pt_10.301146_-61.004419,"Trinidad, Trinidad and Tobago, Trinidad and Tobago",-61.004419,10.301146,644,2010.15,Trinidad and Tobago
+grid_8.1_-56.1,grid_8.1_-56.1,-56.1,8.1,645,2010.15,grid_8.1_-56.1
+pt_5.857967_-55.164,"nan, Suriname",-55.164,5.85796747,646,2010.15,Suriname
+pt_6.755_-58.1342,"nan, Guyana",-58.1342,6.755,647,2010.15,Guyana
+pt_50.824_-4.542,"Bude, Cornwall, Great Britain",-4.542,50.824,648,2010.19,United Kingdom
+grid_42.5_-11.7,grid_42.5_-11.7,-11.7,42.5,649,2010.19,grid_42.5_-11.7
+grid_37.7_-12.9,grid_37.7_-12.9,-12.9,37.7,650,2010.19,grid_37.7_-12.9
+grid_34.9_-12.9,grid_34.9_-12.9,-12.9,34.9,651,2010.19,grid_34.9_-12.9
+grid_18.6_-16.2,grid_18.6_-16.2,-16.2,18.6,652,2010.19,grid_18.6_-16.2
+grid_14.3_-17.9,grid_14.3_-17.9,-17.9,14.3,653,2010.19,grid_14.3_-17.9
+grid_4.2_2.8,grid_4.2_2.8,2.8,4.2,654,2010.19,grid_4.2_2.8
+pt_6.45_3.4,"Lagos, Nigeria",3.4,6.45,655,2010.19,Nigeria
+pt_42.2358_-8.7267,"Vigo, Spain",-8.7267,42.2358,656,2010.19,Spain
+pt_38.46045_-9.10498,"Sesimbra, Portugal",-9.104980469,38.46045,657,2010.19,Portugal
+pt_33.5992_-7.62,"Casablanca, Morocco",-7.62,33.5992,658,2010.19,Morocco
+pt_18.0858_-15.9785,"Nouakchott, Mauretania",-15.9785,18.0858,659,2010.19,Mauritania
+pt_14.7319_-17.4572,"Dakar, Senegal",-17.4572,14.7319,660,2010.19,Senegal
+pt_5.5461_-0.2067,"Accra, Ghana",-0.2067,5.5461,661,2010.19,Ghana
+pt_7.062433_171.260852,"Majuro, nan",171.260852,7.062433,662,2010.1,Marshall Islands
+grid_8.2_167.6,grid_8.2_167.6,167.6,8.2,663,2010.1,grid_8.2_167.6
+grid_10.4_158.9,grid_10.4_158.9,158.9,10.4,664,2010.1,grid_10.4_158.9
+grid_11.8_153.3,grid_11.8_153.3,153.3,11.8,665,2010.1,grid_11.8_153.3
+pt_13.511_144.809,"Tumon, nan",144.809,13.511,666,2010.1,Guam
+pt_6.875051_158.199523,"Pohnpei, nan",158.199523,6.875051,667,2010.1,Micronesia
+pt_8.782974_167.737547,"Ebeye, Regan Test Site, Kwajalein, nan",167.737547,8.782974,668,2010.1,Marshall Islands
+pt_7.378574_151.864388,"Chuuk, nan",151.864388,7.378574,669,2010.1,Micronesia
+pt_31.1975_29.8925,"Alexandria, Egypt",29.8925,31.1975,670,2010.2,Egypt
+grid_31.7_29.5,grid_31.7_29.5,29.5,31.7,671,2010.2,grid_31.7_29.5
+pt_43.2967_5.3764,"Marseille, France",5.3764,43.2967,672,2010.2,France
+pt_34.9167_33.6333,"Pentaskhinos, Cyprus",33.6333,34.9167,673,2010.2,Cyprus
+pt_43.2967_5.3764,"Marseille, France",5.3764,43.2967,674,2010.22,France
+grid_35.4_15.0,grid_35.4_15.0,15,35.4,675,2010.22,grid_35.4_15.0
+grid_31.7_29.5,grid_31.7_29.5,29.5,31.7,676,2010.22,grid_31.7_29.5
+pt_31.1975_29.8925,"Alexandria, Egypt",29.8925,31.1975,677,2010.22,Egypt
+pt_29.9667_32.5333,"Suez, Egypt",32.5333,29.9667,678,2010.22,Egypt
+pt_19.0758_72.8775,"Mumbai, India",72.8775,19.0758,679,2010.22,India
+grid_21.6_64.3,grid_21.6_64.3,64.3,21.6,680,2010.22,grid_21.6_64.3
+grid_25.4_56.3,grid_25.4_56.3,56.3,25.4,681,2010.22,grid_25.4_56.3
+grid_30.0_34.9,grid_30.0_34.9,34.9,30,682,2010.22,grid_30.0_34.9
+pt_37.5027_15.0873,"Catania, Italy",15.0873,37.5027,683,2010.22,Italy
+pt_34.4367_35.8344,"Tripoli, Lebanon",35.8344,34.4367,684,2010.22,Lebanon
+pt_21.5428_39.1728,"Jeddah, Saudi Arabia",39.1728,21.5428,685,2010.22,Saudi Arabia
+pt_25.133318_56.348522,"Fujairah, United Arab Emirates",56.348522,25.133318,686,2010.22,United Arab Emirates
+pt_24.86_67.01,"Karachi, Pakistan",67.01,24.86,687,2010.22,Pakistan
+pt_43.2967_5.3764,"Marseille, France",5.3764,43.2967,688,2010.24,France
+pt_32.08_34.78,"Tel Aviv, Israel",34.78,32.08,689,2010.24,Israel
+pt_-0.820333_103.5,"Kuala Tungkai, Indonesia",103.5,-0.8203332,690,2010.28,Indonesia
+pt_1.13_104.0531,"Batam, Indonesia",104.0531,1.13,691,2010.28,Indonesia
+pt_1.26454_103.71057,"Sakra Island, Singapore",103.7105702,1.26454,692,2010.28,Singapore
+pt_33.8664_-118.3997,"Hermosa Beach, Los Angeles, United States",-118.3997,33.8664,693,2010.2,United States
+pt_34.95_139.95,"Chikura, Japan",139.95,34.95,694,2010.2,Japan
+pt_20.025607_-155.823073,"Spencer Beach, nan",-155.823073,20.025607,695,2010.7,Hawaii
+pt_-17.5397_-149.5689,"Papeete, nan",-149.5689,-17.5397,696,2010.7,French Polynesia
+pt_-17.5167_-149.8167,"Moorea, nan",-149.8167,-17.5167,697,2010.7,French Polynesia
+pt_-16.697555_-151.029969,"Huahine, nan",-151.029969,-16.697555,698,2010.7,French Polynesia
+pt_-16.7239_-151.4506,"Uturoa, nan",-151.4506,-16.7239,699,2010.7,French Polynesia
+pt_-16.5064_-151.749,"Vaitape, nan",-151.749,-16.5064,700,2010.7,French Polynesia
+pt_19.6158_37.2164,"Port Sudan, Sudan",37.2164,19.6158,701,2010.9,Sudan
+grid_12.2_44.0,grid_12.2_44.0,44,12.2,702,2010.9,grid_12.2_44.0
+grid_-1.3_49.3,grid_-1.3_49.3,49.3,-1.3,703,2010.9,grid_-1.3_49.3
+grid_-7.4_46.7,grid_-7.4_46.7,46.7,-7.4,704,2010.9,grid_-7.4_46.7
+grid_-8.8_46.0,grid_-8.8_46.0,46,-8.8,705,2010.9,grid_-8.8_46.0
+grid_-12.0_44.4,grid_-12.0_44.4,44.4,-12,706,2010.9,grid_-12.0_44.4
+grid_-12.4_44.2,grid_-12.4_44.2,44.2,-12.4,707,2010.9,grid_-12.4_44.2
+grid_-23.2_39.3,grid_-23.2_39.3,39.3,-23.2,708,2010.9,grid_-23.2_39.3
+grid_-27.7_36.9,grid_-27.7_36.9,36.9,-27.7,709,2010.9,grid_-27.7_36.9
+pt_-28.95_31.75,"Mtunzini, South Africa",31.75,-28.95,710,2010.9,South Africa
+pt_11.593223_43.150705,"Djibouti, Djibouti",43.150705,11.593223,711,2010.9,Djibouti
+pt_2.0392_45.3419,"Mogadishu, Somalia",45.3419,2.0392,712,2010.9,Somalia
+pt_-4.05_39.6667,"Mombasa, Kenya",39.6667,-4.05,713,2010.9,Kenya
+pt_-6.800674_39.284785,"Dar-es-Salaam, Tanzania",39.284785,-6.800674,714,2010.9,Tanzania
+pt_-11.7036_43.2536,"Moroni, nan",43.2536,-11.7036,715,2010.9,Comoros
+pt_-12.9092_45.1944,"Bandele, nan",45.1944,-12.9092,716,2010.9,Mayotte
+pt_-23.35_43.6667,"Toliary, Madagascar",43.6667,-23.35,717,2010.9,Madagascar
+pt_-25.949963_32.592141,"Maputo, Mozambique",32.592141,-25.949963,718,2010.9,Mozambique
+pt_37.9_23.8733,"Koropi, Greece",23.8733,37.9,719,2011.1,Greece
+pt_34.7289_33.3378,"Pentaskhinos, Cyprus",33.3378,34.7289,720,2011.1,Cyprus
+pt_41.3133_19.4458,"Durres, Albania",19.4458,41.3133,721,2011.11,Albania
+pt_41.1253_16.8667,"Bari, Italy",16.8667,41.1253,722,2011.11,Italy
+pt_-36.4833_-56.7,"Las Toninas, Argentina",-56.7,-36.4833,723,2011.12,Argentina
+pt_-34.9088_-54.9581,"Maldonado, Uruguay",-54.9581,-34.9088,724,2011.12,Uruguay
+pt_19.6158_37.2164,"Port Sudan, Sudan",37.2164,19.6158,725,2011.13,Sudan
+pt_21.5428_39.1728,"Jeddah, Saudi Arabia",39.1728,21.5428,726,2011.13,Saudi Arabia
+pt_36.085_35.9806,"Samandag, Turkey",35.9806,36.085,727,2011.14,Turkey
+pt_35.2857_33.8913,"Tricomo, Cyprus",33.8913,35.2857,728,2011.14,Cyprus
+pt_25.0_56.0,"Fujairah, United Arab Emirates",56,25,729,2011.15,United Arab Emirates
+pt_23.6667_58.1617,"Al Seeb, Oman",58.1617,23.6667,730,2011.15,Oman
+pt_25.0_52.0,"ad-Daʿayan, Qatar",52,25,731,2011.15,Qatar
+pt_29.98_48.47,"Al Faw, Iraq",48.47,29.98,732,2011.15,Iraq
+grid_29.5_48.8,grid_29.5_48.8,48.8,29.5,733,2011.15,grid_29.5_48.8
+grid_28.3_50.0,grid_28.3_50.0,50,28.3,734,2011.15,grid_28.3_50.0
+grid_26.7_51.3,grid_26.7_51.3,51.3,26.7,735,2011.15,grid_26.7_51.3
+pt_26.25_50.65,"Al Hidd, nan",50.65,26.25,736,2011.15,Bahrain
+pt_26.3_50.2167,"Al Khobar, Saudi Arabia",50.2167,26.3,737,2011.15,Saudi Arabia
+pt_29.375_47.98,"Kuwait City, Kuwait",47.98,29.375,738,2011.15,Kuwait
+pt_28.9689_50.8367,"Bushehr , Iran",50.8367,28.9689,739,2011.15,Iran
+grid_28.7_50.5,grid_28.7_50.5,50.5,28.7,740,2011.15,grid_28.7_50.5
+pt_28.009552_-15.708606,"Alta Vista, nan",-15.7086057,28.0095522,741,2011.18,Canary Islands
+pt_36.7357_-6.4348,"Chipiona, Spain",-6.4348,36.7357,742,2011.18,Spain
+pt_28.355_-16.37,"Candelaria, nan",-16.37,28.355,743,2011.19,Canary Islands
+pt_36.2756_-6.0877,"Conil, Spain",-6.0877,36.2756,744,2011.19,Spain
+pt_29.375_47.98,"Kuwait City, Kuwait",47.98,29.375,745,2011.1,Kuwait
+pt_26.3_50.2167,"Al Khobar, Saudi Arabia",50.2167,26.3,746,2011.1,Saudi Arabia
+pt_26.225_50.5775,"Manama, nan",50.5775,26.225,747,2011.1,Bahrain
+pt_25.578_51.483,"Sumaisma, Qatar",51.483,25.578,748,2011.1,Qatar
+pt_25.074282_55.188539,"Dubai, United Arab Emirates",55.1885387,25.0742823,749,2011.1,United Arab Emirates
+pt_2.329374_102.288096,"Melaka, Malaysia",102.2880962,2.3293744,750,2011.2,Malaysia
+pt_1.663197_101.447037,"Dumai, Indonesia",101.4470369,1.6631967,751,2011.2,Indonesia
+pt_1.13_104.0531,"Batam, Indonesia",104.0531,1.13,752,2011.2,Indonesia
+pt_31.1975_29.8925,"Alexandria, Egypt",29.8925,31.1975,753,2011.21,Egypt
+grid_31.7_29.5,grid_31.7_29.5,29.5,31.7,754,2011.21,grid_31.7_29.5
+grid_36.1_18.7,grid_36.1_18.7,18.7,36.1,755,2011.21,grid_36.1_18.7
+grid_43.2_7.8,grid_43.2_7.8,7.8,43.2,756,2011.21,grid_43.2_7.8
+grid_42.7_3.7,grid_42.7_3.7,3.7,42.7,757,2011.21,grid_42.7_3.7
+grid_47.2_-5.6,grid_47.2_-5.6,-5.6,47.2,758,2011.21,grid_47.2_-5.6
+pt_50.824_-4.542,"Bude, Great Britain",-4.542,50.824,759,2011.21,United Kingdom
+pt_29.5989_32.6797,"Ras Sidr, Egypt",32.6797,29.5989,760,2011.21,Egypt
+pt_19.0758_72.8775,"Mumbai, India",72.8775,19.0758,761,2011.21,India
+grid_24.3_58.9,grid_24.3_58.9,58.9,24.3,762,2011.21,grid_24.3_58.9
+grid_29.6_34.8,grid_29.6_34.8,34.8,29.6,763,2011.21,grid_29.6_34.8
+pt_23.6139_58.5922,"Muscat, Oman",58.5922,23.6139,764,2011.21,Oman
+pt_25.0_56.0,"Fujairah, United Arab Emirates",56,25,765,2011.21,United Arab Emirates
+pt_38.46045_-9.10498,"Sesimbra, Portugal",-9.104980469,38.46045,766,2011.21,Portugal
+pt_36.0_53.0,"Gibraltar, nan",53,36,767,2011.21,Gibraltar
+pt_35.5667_-5.3667,"Teutan, Morocco",-5.3667,35.5667,768,2011.21,Morocco
+pt_43.731_7.4248,"Monaco, nan",7.4248,43.731,769,2011.21,Monaco
+pt_33.0_13.177792,"Tripoli, Libya",13.1777923,33,770,2011.21,Libya
+pt_21.5428_39.1728,"Jeddah, Saudi Arabia",39.1728,21.5428,771,2011.21,Saudi Arabia
+pt_11.565606_43.0,"Haramous, Djibouti",43,11.5656056,772,2011.21,Djibouti
+pt_17.9149_-76.1882,"Morant Point, Jamaica",-76.1882,17.9149,773,2011.2,Jamaica
+grid_17.6_-69.9,grid_17.6_-69.9,-69.9,17.6,774,2011.2,grid_17.6_-69.9
+pt_18.4333_-64.6167,"Nanny Cay, nan",-64.6167,18.4333,775,2011.2,United Kingdom Virgin Islands
+pt_18.4764_-69.8933,"Santo Domingo , Dominican Republic",-69.8933,18.4764,776,2011.2,Dominican Republic
+pt_28.2686_-16.6056,"Tenerife, nan",-16.6056,28.2686,777,2011.3,Canary Islands
+pt_36.535_-6.2975,"Cadiz, Spain",-6.2975,36.535,778,2011.3,Spain
+pt_20.0217_-75.8294,"Santiago de Cuba, Cuba",-75.8294,20.0217,779,2011.4,Cuba
+pt_10.6_-66.9331,"La Guaria , Venezuela",-66.9331,10.6,780,2011.4,Venezuela
+pt_18.3994_-77.1031,"Ocho Rios, Jamaica",-77.1031,18.3994,781,2011.5,Jamaica
+pt_20.0217_-75.8294,"Santiago de Cuba, Cuba",-75.8294,20.0217,782,2011.5,Cuba
+pt_31.1975_29.8925,"Alexandria, Egypt",29.8925,31.1975,783,2011.6,Egypt
+grid_31.7_29.5,grid_31.7_29.5,29.5,31.7,784,2011.6,grid_31.7_29.5
+pt_43.2967_5.3764,"Marseilles, France",5.3764,43.2967,785,2011.6,France
+pt_34.7609_32.4484,"Yeroskipou, Cyprus",32.4484,34.7609,786,2011.6,Cyprus
+pt_32.7636_22.6361,"Darna, Libya",22.6361,32.7636,787,2011.8,Libya
+pt_35.5167_24.0167,"Chania, Greece",24.0167,35.5167,788,2011.8,Greece
+pt_43.2967_5.3764,"Marseilles, France",5.3764,43.2967,789,2011.9,France
+pt_31.1975_29.8925,"Sidi Kerir, Egypt",29.8925,31.1975,790,2011.9,Egypt
+pt_41.1253_16.8667,"Bari, Italy",16.8667,41.1253,791,2012.12,Italy
+pt_32.08_34.78,"Tel Aviv, Israel",34.78,32.08,792,2012.12,Israel
+pt_51.5564_-4.168,"Oxwich Bay, Great Britain",-4.168,51.5564,793,2012.13,United Kingdom
+pt_52.1667_-6.5833,"Kilmore Quay, Ireland",-6.5833,52.1667,794,2012.13,Ireland
+pt_13.0825_80.275,"Chennai, India",80.275,13.0825,795,2012.14,India
+pt_22.8167_89.55,"Khulna, Bangladesh",89.55,22.8167,796,2012.14,Bangladesh
+pt_51.8822_-5.2686,"Whitesands Bay, Great Britain",-5.2686,51.8822,797,2012.15,United Kingdom
+pt_38.46045_-9.10498,"Sesimbra, Portugal",-9.104980469,38.46045,798,2012.15,Portugal
+pt_6.45_3.4,"Lagos, Nigeria",3.4,6.45,799,2012.15,Nigeria
+grid_5.1_3.1,grid_5.1_3.1,3.1,5.1,800,2012.15,grid_5.1_3.1
+grid_4.2_2.8,grid_4.2_2.8,2.8,4.2,801,2012.15,grid_4.2_2.8
+grid_2.4_1.7,grid_2.4_1.7,1.7,2.4,802,2012.15,grid_2.4_1.7
+grid_1.4_-4.4,grid_1.4_-4.4,-4.4,1.4,803,2012.15,grid_1.4_-4.4
+grid_15.0_-20.6,grid_15.0_-20.6,-20.6,15,804,2012.15,grid_15.0_-20.6
+grid_28.7_-16.6,grid_28.7_-16.6,-16.6,28.7,805,2012.15,grid_28.7_-16.6
+pt_28.009552_-15.708606,"Alta Vista, nan",-15.7086057,28.0095522,806,2012.15,Canary Islands
+pt_14.9177_-23.5092,"Praia, nan",-23.5092,14.9177,807,2012.15,Cape Verde
+pt_5.0_-4.0,"Abidjan, Ivory Coast",-4,5,808,2012.15,Ivory Coast
+pt_5.5461_-0.2067,"Accra , Ghana",-0.2067,5.5461,809,2012.15,Ghana
+pt_6.1319_1.2228,"Lome, Togo",1.2228,6.1319,810,2012.15,Togo
+pt_-33.3511_18.1496,"Yzerfontein, South Africa",18.1496,-33.3511,811,2012.15,South Africa
+grid_-23.4_10.3,grid_-23.4_10.3,10.3,-23.4,812,2012.15,grid_-23.4_10.3
+grid_-11.7_6.4,grid_-11.7_6.4,6.4,-11.7,813,2012.15,grid_-11.7_6.4
+grid_-8.1_5.2,grid_-8.1_5.2,5.2,-8.1,814,2012.15,grid_-8.1_5.2
+grid_-0.3_2.6,grid_-0.3_2.6,2.6,-0.3,815,2012.15,grid_-0.3_2.6
+pt_-22.6667_14.5333,"Walvis Bay, Namibia",14.5333,-22.6667,816,2012.15,Namibia
+pt_-8.8383_13.2344,"Luanda, Angola",13.2344,-8.8383,817,2012.15,Angola
+pt_-5.93_12.35,"Muanda, Democratic Republic of Congo",12.35,-5.93,818,2012.15,Democratic Republic of Congo
+pt_4.05_9.7,"Douala, Cameroon",9.7,4.05,819,2012.15,Cameroon
+pt_-5.0_12.0,"Pointe Noire, Republic of Congo",12,-5,820,2012.15,Republic of Congo
+pt_34.7289_33.3378,"Pentaskhinos, Cyprus",33.3378,34.7289,821,2012.16,Cyprus
+pt_34.8833_35.8833,"Tartus, Syria",35.8833,34.8833,822,2012.16,Syria
+pt_-53.0_-68.608095,"Espiritu Santo, Argentina",-68.6080949,-53,823,2012.17,Argentina
+pt_-52.0_-68.0,"Punta Dungeness, Argentina",-68,-52,824,2012.17,Argentina
+pt_1.0_105.0,"Bintan, Indonesia",105,1,825,2012.18,Indonesia
+pt_1.327255_103.946505,"Tanah Merah, Singapore",103.9465048,1.3272553,826,2012.18,Singapore
+pt_1.13_104.0531,"Batam, Indonesia",104.0531,1.13,827,2012.18,Indonesia
+pt_-7.144_110.012,"Pesaren, Indonesia",110.012,-7.144,828,2012.18,Indonesia
+pt_3.0167_108.87,"Batu Prahu, Indonesia",108.87,3.0167,829,2012.18,Indonesia
+pt_-6.175405_106.827168,"Jakarta, Indonesia",106.827168,-6.1754049,830,2012.18,Indonesia
+grid_-3.618182_107.345455,grid_-3.618182_107.345455,107.34545454545454,-3.618181818,831,2012.18,grid_-3.618182_107.345455
+pt_37.6517_12.5875,"Mazara de Vallo, Italy",12.5875,37.6517,832,2012.1,Italy
+pt_31.1975_29.8925,"Alexandria, Egypt",29.8925,31.1975,833,2012.1,Egypt
+pt_29.0_33.0,"Zafarana, Egypt",33,29,834,2012.1,Egypt
+pt_23.6667_58.1617,"Al Seeb, Oman",58.1617,23.6667,835,2012.1,Oman
+grid_29.0_35.0,grid_29.0_35.0,35,29,836,2012.1,grid_29.0_35.0
+pt_19.0758_72.8775,"Mumbai, India",72.8775,19.0758,837,2012.1,India
+pt_21.5428_39.1728,"Jeddah, Saudi Arabia",39.1728,21.5428,838,2012.1,Saudi Arabia
+pt_-4.6236_55.4544,"Victoria, nan",55.4544,-4.6236,839,2012.2,Seychelles
+pt_-6.816084_39.0,"Dar es Salaam, Tanzania",39,-6.8160837,840,2012.2,Tanzania
+pt_34.7609_32.4484,"Yeroskipos, Cyprus",32.4484,34.7609,841,2012.21,Cyprus
+pt_32.8192_34.9992,"Haifa, Israel",34.9992,32.8192,842,2012.21,Israel
+pt_53.3167_-4.6333,"Holyhead, Great Britain",-4.6333,53.3167,843,2012.23,United Kingdom
+pt_53.3833_-6.2,"Clonslaugh, Ireland",-6.2,53.3833,844,2012.23,Ireland
+pt_26.8197_59.9744,"Jask, Iran",59.9744,26.8197,845,2012.24,Iran
+pt_23.7092_57.8869,"Barka, Oman",57.8869,23.7092,846,2012.24,Oman
+pt_25.2919_60.6431,"Chabahar, Iran",60.6431,25.2919,847,2012.24,Iran
+pt_60.837_-148.985,"Portage, United States",-148.985,60.837,848,2012.25,United States
+pt_61.03968_-149.679327,"McHugh Point, United States",-149.6793271,61.0396798,849,2012.25,United States
+pt_24.4797_118.0819,"Dadeng, China",118.0819,24.4797,850,2012.26,China
+pt_35.4906_112.8483,"Gunintou, Taiwan",112.8483,35.4906,851,2012.26,Taiwan
+pt_24.451796_118.308174,"Lake Ci, Taiwan",118.308174,24.4517961,852,2012.26,Taiwan
+pt_53.3497_-6.2603,"Dublin, Ireland",-6.2603,53.3497,853,2012.3,Ireland
+pt_53.3167_-4.6333,"Holyhead, Great Britain",-4.6333,53.3167,854,2012.3,United Kingdom
+pt_47.8122_-4.3378,"Penmarch, France",-4.3378,47.8122,855,2012.4,France
+grid_41.2_-12.8,grid_41.2_-12.8,-12.8,41.2,856,2012.4,grid_41.2_-12.8
+grid_37.6_-14.6,grid_37.6_-14.6,-14.6,37.6,857,2012.4,grid_37.6_-14.6
+grid_28.7_-18.1,grid_28.7_-18.1,-18.1,28.7,858,2012.4,grid_28.7_-18.1
+grid_16.3_-18.7,grid_16.3_-18.7,-18.7,16.3,859,2012.4,grid_16.3_-18.7
+pt_14.7319_-17.4572,"Dakar, Senegal",-17.4572,14.7319,860,2012.4,Senegal
+pt_5.0_-4.0,"Abidjan, Ivory Coast",-4,5,861,2012.4,Ivory Coast
+grid_3.5_-12.8,grid_3.5_-12.8,-12.8,3.5,862,2012.4,grid_3.5_-12.8
+grid_7.1_-16.4,grid_7.1_-16.4,-16.4,7.1,863,2012.4,grid_7.1_-16.4
+grid_7.4_-16.6,grid_7.4_-16.6,-16.6,7.4,864,2012.4,grid_7.4_-16.6
+grid_12.9_-17.9,grid_12.9_-17.9,-17.9,12.9,865,2012.4,grid_12.9_-17.9
+pt_12.0_-16.65194,"Sucujacque, Guinea Bissau",-16.65194,12,866,2012.4,Guinea Bissau
+grid_12.9_-17.7,grid_12.9_-17.7,-17.7,12.9,867,2012.4,grid_12.9_-17.7
+pt_1.865_9.77,"Bata, nan",9.77,1.865,868,2012.4,Equitorial Guinea
+grid_1.9_9.7,grid_1.9_9.7,9.7,1.9,869,2012.4,grid_1.9_9.7
+grid_1.1_6.4,grid_1.1_6.4,6.4,1.1,870,2012.4,grid_1.1_6.4
+grid_1.6_2.5,grid_1.6_2.5,2.5,1.6,871,2012.4,grid_1.6_2.5
+grid_1.7_2.1,grid_1.7_2.1,2.1,1.7,872,2012.4,grid_1.7_2.1
+grid_1.9_1.3,grid_1.9_1.3,1.3,1.9,873,2012.4,grid_1.9_1.3
+grid_3.0_-1.6,grid_3.0_-1.6,-1.6,3,874,2012.4,grid_3.0_-1.6
+pt_-33.9253_18.4239,"Cape Town, South Africa",18.4239,-33.9253,875,2012.4,South Africa
+grid_-23.3_10.5,grid_-23.3_10.5,10.5,-23.3,876,2012.4,grid_-23.3_10.5
+grid_-10.1_7.1,grid_-10.1_7.1,7.1,-10.1,877,2012.4,grid_-10.1_7.1
+grid_-7.3_6.4,grid_-7.3_6.4,6.4,-7.3,878,2012.4,grid_-7.3_6.4
+pt_0.258333_6.741667,"Santana, nan",6.741667,0.258333,879,2012.4,Sao Tome and Principe
+pt_38.707751_-9.0,"Lisbon, Portugal",-9,38.7077507,880,2012.4,Portugal
+pt_35.4667_-6.0333,"Asilah, Morocco",-6.0333,35.4667,881,2012.4,Morocco
+pt_28.1167_-16.5833,"Granadilla de Abona, nan",-16.5833,28.1167,882,2012.4,Canary Islands
+pt_18.0858_-15.9785,"Nouakchott, Mauretania",-15.9785,18.0858,883,2012.4,Mauritania
+pt_13.0_-16.575646,"Banjul, nan",-16.575646,13,884,2012.4,Gambia
+pt_10.0_-14.0,"Conakry, Guinea",-14,10,885,2012.4,Guinea
+pt_8.4833_-13.2331,"Freetown, Sierra Leone",-13.2331,8.4833,886,2012.4,Sierra Leone
+pt_6.3106_-10.8047,"Monrovia, Liberia",-10.8047,6.3106,887,2012.4,Liberia
+pt_5.5461_-0.2067,"Accra , Ghana",-0.2067,5.5461,888,2012.4,Ghana
+pt_6.1319_1.2228,"Lome, Togo",1.2228,6.1319,889,2012.4,Togo
+pt_6.3667_2.4167,"Cotonou, nan",2.4167,6.3667,890,2012.4,Benin
+pt_6.45_3.4,"Lagos, Nigeria",3.4,6.45,891,2012.4,Nigeria
+pt_2.95_9.9167,"Kribi, Cameroon",9.9167,2.95,892,2012.4,Cameroon
+grid_0.3_6.8,grid_0.3_6.8,6.8,0.3,893,2012.4,grid_0.3_6.8
+pt_-5.93_12.35,"Muanda, Democratic Republic of Congo",12.35,-5.93,894,2012.4,Democratic Republic of Congo
+pt_-8.8383_13.2344,"Luanda, Angola",13.2344,-8.8383,895,2012.4,Angola
+pt_-22.6667_14.5333,"Swakopmund, Namibia",14.5333,-22.6667,896,2012.4,Namibia
+pt_0.3901_9.4544,"Libreville, Gabon",9.4544,0.3901,897,2012.4,Gabon
+pt_-4.05_39.6667,"Mombasa, Kenya",39.6667,-4.05,898,2012.8,Kenya
+pt_-12.7714_45.2236,"Kaweni, nan",45.2236,-12.7714,899,2012.8,Mayotte
+pt_10.620656_-66.715195,"Camuri, Venezuela",-66.7151951,10.6206563,900,2013.1,Venezuela
+pt_19.9608_-75.7076,"Siboney, Cuba",-75.7076,19.9608,901,2013.1,Cuba
+pt_20.0217_-75.8294,"Santiago de Cuba, Cuba",-75.8294,20.0217,902,2013.1,Cuba
+pt_18.3994_-77.1031,"Ochos Rios, Jamaica",-77.1031,18.3994,903,2013.1,Jamaica
+pt_18.4108_121.5169,"Ballesteros, Philippines",121.5169,18.4108,904,2013.11,Philippines
+grid_18.9_121.8,grid_18.9_121.8,121.8,18.9,905,2013.11,grid_18.9_121.8
+pt_36.8019_140.751,"Kitaibaraki, Japan",140.751,36.8019,906,2013.11,Japan
+pt_22.1597_113.5594,"Taipa, nan",113.5594,22.1597,907,2013.11,China
+grid_19.4_114.5,grid_19.4_114.5,114.5,19.4,908,2013.11,grid_19.4_114.5
+pt_1.3167_103.7169,"Tuas, Singapore",103.7169,1.3167,909,2013.11,Singapore
+grid_2.3_105.0,grid_2.3_105.0,105,2.3,910,2013.11,grid_2.3_105.0
+pt_3.8167_103.3333,"Kuantan, Malaysia",103.3333,3.8167,911,2013.11,Malaysia
+pt_13.511_144.809,"Tumon Bay, nan",144.809,13.511,912,2013.12,Guam
+pt_26.2122_127.6792,"Naha, Japan",127.6792,26.2122,913,2013.12,Japan
+pt_33.8834_130.8752,"Kitakyushu, Japan",130.8752,33.8834,914,2013.12,Japan
+pt_37.0_127.0,"Incheon, South Korea",127,37,915,2013.12,South Korea
+pt_1.3167_103.7169,"Tuas, Singapore",103.7169,1.3167,916,2013.1,Singapore
+grid_7.7_109.8,grid_7.7_109.8,109.8,7.7,917,2013.1,grid_7.7_109.8
+grid_15.9_115.2,grid_15.9_115.2,115.2,15.9,918,2013.1,grid_15.9_115.2
+grid_18.9_117.2,grid_18.9_117.2,117.2,18.9,919,2013.1,grid_18.9_117.2
+grid_19.5_117.7,grid_19.5_117.7,117.7,19.5,920,2013.1,grid_19.5_117.7
+pt_34.95_139.95,"Chikura, Japan",139.95,34.95,921,2013.1,Japan
+pt_14.0667_120.6333,"Nasugbo, Philippines",120.6333,14.0667,922,2013.1,Philippines
+grid_22.218262_114.204761,grid_22.218262_114.204761,114.2047605,22.2182618,923,2013.1,grid_22.218262_114.204761
+pt_23.3735_116.6941,"Shantou, China",116.6941,23.3735,924,2013.1,China
+pt_4.723604_114.583744,"Telisai, nan",114.5837436,4.7236039,925,2013.1,Brunei
+pt_25.7833_-80.2167,"Miami, United States",-80.2167,25.7833,926,2013.5,United States
+grid_20.9_-85.7,grid_20.9_-85.7,-85.7,20.9,927,2013.5,grid_20.9_-85.7
+grid_20.3_-86.0,grid_20.3_-86.0,-86,20.3,928,2013.5,grid_20.3_-86.0
+pt_15.73_-88.6,"Puerto Barrios, Guatemala",-88.6,15.73,929,2013.5,Guatemala
+pt_-3.7275_-38.5275,"Fortaleza, Brazil",-38.5275,-3.7275,930,2013.5,Brazil
+grid_18.4_-61.1,grid_18.4_-61.1,-61.1,18.4,931,2013.5,grid_18.4_-61.1
+grid_21.1_-63.8,grid_21.1_-63.8,-63.8,21.1,932,2013.5,grid_21.1_-63.8
+pt_30.3167_-81.65,"Jacksonville, United States",-81.65,30.3167,933,2013.5,United States
+pt_19.7958_-70.6944,"Puerto Plata, Dominican Republic",-70.6944,19.7958,934,2013.5,Dominican Republic
+pt_18.4653_-66.1167,"San Juan, Puerto Rico",-66.1167,18.4653,935,2013.5,Puerto Rico
+grid_-15.4_-34.1,grid_-15.4_-34.1,-34.1,-15.4,936,2013.5,grid_-15.4_-34.1
+pt_-22.9111_-43.2056,"Rio de Janeiro, Brazil",-43.2056,-22.9111,937,2013.5,Brazil
+pt_21.1614_-86.8248,"Cancun , Mexico",-86.8248,21.1614,938,2013.5,Mexico
+pt_10.4236_-75.5253,"Cartagena, Colombia",-75.5253,10.4236,939,2013.5,Colombia
+pt_10.9833_-74.8019,"Baranqquila, Colombia",-74.8019,10.9833,940,2013.5,Colombia
+grid_18.3_-61.2,grid_18.3_-61.2,-61.2,18.3,941,2013.5,grid_18.3_-61.2
+pt_-12.9831_-38.4928,"Salvador da Bahia, Brazil",-38.4928,-12.9831,942,2013.5,Brazil
+grid_20.08_-65.12,grid_20.08_-65.12,-65.12,20.080000000000002,943,2013.5,grid_20.08_-65.12
+pt_34.7289_33.3378,"Pentaskhinos, Cyprus",33.3378,34.7289,944,2013.6,Cyprus
+pt_34.4367_35.8344,"Tripoli, Lebanon",35.8344,34.4367,945,2013.6,Lebanon
+pt_25.1667_121.4333,"Tanshui, Taiwan",121.4333,25.1667,946,2013.8,Taiwan
+pt_26.0769_119.2917,"Fuzhou, China",119.2917,26.0769,947,2013.8,China
+pt_-21.1347_-175.2083,"Nuku'alofa, nan",-175.2083,-21.1347,948,2013.9,Tonga
+pt_-18.1333_178.4333,"Suva, nan",178.4333,-18.1333,949,2013.9,Fiji
+pt_56.45_9.4,"Tjele, Denmark",9.4,56.45,950,2014.1,Denmark
+pt_58.1467_7.9956,"Kristiansand, Norway",7.9956,58.1467,951,2014.1,Norway
+pt_-17.7333_168.3167,"Port Vila, nan",168.3167,-17.7333,952,2014.1,Vanuatu
+pt_-18.1333_178.4333,"Suva, nan",178.4333,-18.1333,953,2014.1,Fiji
+pt_45.3386_36.4681,"Kerch, Ukraine",36.4681,45.3386,954,2014.4,Ukraine
+pt_45.423491_37.0,"Ilyich, Russia",37,45.423491,955,2014.4,Russia
+pt_37.6517_12.5875,"Mazara de Vallo, Italy",12.5875,37.6517,956,2014.5,Italy
+pt_36.8475_11.0939,"Kelibia, Tunisia",11.0939,36.8475,957,2014.5,Tunisia
+pt_51.3_-3.011,"Brean, Great Britain",-3.011,51.3,958,2015.11,United Kingdom
+grid_50.7_-8.1,grid_50.7_-8.1,-8.1,50.7,959,2015.11,grid_50.7_-8.1
+pt_44.6478_-63.5714,"Halifax, Canada",-63.5714,44.6478,960,2015.11,Canada
+pt_51.9_-8.4731,"Cork, Ireland",-8.4731,51.9,961,2015.11,Ireland
+pt_6.45_3.4,"Lagos, Nigeria",3.4,6.45,962,2015.5,Nigeria
+pt_2.95_9.9167,"Kribi, Cameroon",9.9167,2.95,963,2015.5,Cameroon
+pt_18.4167_-64.5833,"Tortola, nan",-64.5833,18.4167,964,2015.9,United Kingdom Virgin Islands
+pt_30.3167_-81.65,"Jacksonville, United States",-81.65,30.3167,965,2015.9,United States
+pt_18.4394_-66.01,"Isla Verde, Puerto Rico",-66.01,18.4394,966,2015.9,Puerto Rico
+pt_9.443_-79.7545,"Maria Chiquita, Panama",-79.7545,9.443,967,2015.9,Panama
+grid_13.1_-78.0,grid_13.1_-78.0,-78,13.1,968,2015.9,grid_13.1_-78.0
+grid_16.0_-71.0,grid_16.0_-71.0,-71,16,969,2015.9,grid_16.0_-71.0
+pt_-0.95_-80.7162,"Manta, Ecuador",-80.7162,-0.95,970,2015.9,Ecuador
+pt_8.9571_-79.5593,"Balboa, Panama",-79.5593,8.9571,971,2015.9,Panama
+pt_12.0_-69.0,"Tera Cora, nan",-69,12,972,2015.9,Curacao
+pt_13.0_-70.0,"Hudishibana, nan",-70,13,973,2015.9,Aruba
+pt_10.4236_-75.5253,"Cartagena, Colombia",-75.5253,10.4236,974,2015.9,Colombia
+pt_35.0_129.04747,"Pusan, South Korea",129.04747,35,975,2016.1,South Korea
+grid_33.5_128.5,grid_33.5_128.5,128.5,33.5,976,2016.1,grid_33.5_128.5
+grid_29.9_127.6,grid_29.9_127.6,127.6,29.9,977,2016.1,grid_29.9_127.6
+grid_29.6_127.5,grid_29.6_127.5,127.5,29.6,978,2016.1,grid_29.6_127.5
+grid_24.2_125.2,grid_24.2_125.2,125.2,24.2,979,2016.1,grid_24.2_125.2
+grid_19.5_119.5,grid_19.5_119.5,119.5,19.5,980,2016.1,grid_19.5_119.5
+grid_18.7_116.9,grid_18.7_116.9,116.9,18.7,981,2016.1,grid_18.7_116.9
+grid_9.4_110.7,grid_9.4_110.7,110.7,9.4,982,2016.1,grid_9.4_110.7
+pt_3.8167_103.3333,"Kuantan, Malaysia",103.3333,3.8167,983,2016.1,Malaysia
+pt_36.1167_120.4,"Qingdao, China",120.4,36.1167,984,2016.1,China
+pt_34.0_137.0,"Shima, Japan",137,34,985,2016.1,Japan
+pt_31.631339_121.533777,"Chongming, China",121.533777,31.631339,986,2016.1,China
+pt_24.85_121.8167,"Toucheng, Taiwan",121.8167,24.85,987,2016.1,Taiwan
+pt_22.0_114.0,"Lantau, China",114,22,988,2016.1,China
+pt_17.0_120.0,"La Union, Philippines",120,17,989,2016.1,Philippines
+pt_10.4042_107.1417,"Vung Tau, Vietnam",107.1417,10.4042,990,2016.1,Vietnam
+pt_7.2061_100.5967,"Songkhla, Thailand",100.5967,7.2061,991,2016.1,Thailand
+pt_1.3167_103.7169,"Tuas, Singapore",103.7169,1.3167,992,2016.1,Singapore
+pt_19.97094_-75.143458,"Guantanamo Bay, Cuba",-75.143458,19.97094,993,2016.11,Cuba
+pt_25.7833_-80.2167,"Miami, United States",-80.2167,25.7833,994,2016.11,United States
+pt_52.8_-8.45,"Killala, Ireland",-8.45,52.8,995,2016.1,Ireland
+pt_40.7969_-72.8711,"Shirley, United States",-72.8711,40.7969,996,2016.1,United States
+pt_33.8664_-118.3997,"Hermosa Beach, United States",-118.3997,33.8664,997,2016.2,United States
+pt_21.4706_-158.2142,"Makaha, nan",-158.2142,21.4706,998,2016.2,Hawaii
+pt_13.4608_144.6908,"Piti, nan",144.6908,13.4608,999,2016.2,Guam
+pt_7.0667_125.6,"Davao, Philippines",125.6,7.0667,1000,2016.2,Philippines
+grid_5.7_126.1,grid_5.7_126.1,126.1,5.7,1001,2016.2,grid_5.7_126.1
+pt_1.4931_124.8413,"Manado, Indonesia",124.8413,1.4931,1002,2016.2,Indonesia
+pt_5.4145_100.3292,"Penang, Malaysia",100.3292,5.4145,1003,2016.3,Malaysia
+pt_1.3167_103.7169,"Singapore, Singapore",103.7169,1.3167,1004,2016.3,Singapore
+grid_11.5_86.7,grid_11.5_86.7,86.7,11.5,1005,2016.3,grid_11.5_86.7
+pt_13.0825_80.275,"Chennai, India",80.275,13.0825,1006,2016.3,India
+pt_25.0_56.0,"Fujairah, United Arab Emirates",56,25,1007,2016.3,United Arab Emirates
+grid_24.4_57.9,grid_24.4_57.9,57.9,24.4,1008,2016.3,grid_24.4_57.9
+grid_16.2_67.7,grid_16.2_67.7,67.7,16.2,1009,2016.3,grid_16.2_67.7
+grid_4.3_77.2,grid_4.3_77.2,77.2,4.3,1010,2016.3,grid_4.3_77.2
+pt_7.0_80.0,"Ratmalana, Sri Lanka",80,7,1011,2016.3,Sri Lanka
+pt_23.7092_57.8869,"Barka, Oman",57.8869,23.7092,1012,2016.3,Oman
+pt_19.0758_72.8775,"Mumbai, India",72.8775,19.0758,1013,2016.3,India
+pt_25.1667_121.4333,"Tanshui, Taiwan",121.4333,25.1667,1014,2016.5,Taiwan
+grid_31.5_138.5,grid_31.5_138.5,138.5,31.5,1015,2016.5,grid_31.5_138.5
+pt_43.0_-124.0,"Bandon, United States",-124,43,1016,2016.5,United States
+pt_34.0_137.0,"Shima, Japan",137,34,1017,2016.5,Japan
+pt_60.1708_24.9375,"Helsinki, Finland",24.9375,60.1708,1018,2016.7,Finland
+pt_54.0833_12.1333,"Rostock, Germany",12.1333,54.0833,1019,2016.7,Germany
+pt_-11.9208_43.4811,"Chindini, nan",43.4811,-11.9208,1020,2016.9,Comoros
+pt_-11.7036_43.2536,"Moroni, nan",43.2536,-11.7036,1021,2016.9,Comoros
+pt_-12.1675_44.3939,"Mutsamudu, nan",44.3939,-12.1675,1022,2016.9,Comoros
+pt_-12.7814_45.2317,"Mamoudzou, nan",45.2317,-12.7814,1023,2016.9,Mayotte
+pt_-37.8_174.871,"Raglan, New Zealand",174.871,-37.8,1024,2017.1,New Zealand
+pt_-34.0_151.215822,"Oxford Flats, Australia",151.215822,-34,1025,2017.1,Australia
+pt_15.0_146.0,"Sugar Dock, nan",146,15,1026,2017.11,Guam
+grid_14.1_145.1,grid_14.1_145.1,145.1,14.1,1027,2017.11,grid_14.1_145.1
+pt_13.4608_144.6908,"Piti, nan",144.6908,13.4608,1028,2017.11,Guam
+pt_14.0_145.0,"Sasanlagu, nan",145,14,1029,2017.11,Guam
+pt_31.0_30.0,"Abu Talat, Egypt",30,31,1030,2017.13,Egypt
+grid_33.9_23.4,grid_33.9_23.4,23.4,33.9,1031,2017.13,grid_33.9_23.4
+grid_35.1_19.2,grid_35.1_19.2,19.2,35.1,1032,2017.13,grid_35.1_19.2
+pt_43.2967_5.3764,"Marseilles, France",5.3764,43.2967,1033,2017.13,France
+pt_29.0_33.0,"Zafarana, Egypt",33,29,1034,2017.13,Egypt
+grid_29.0_35.0,grid_29.0_35.0,35,29,1035,2017.13,grid_29.0_35.0
+grid_25.4_56.3,grid_25.4_56.3,56.3,25.4,1036,2017.13,grid_25.4_56.3
+grid_19.0_70.0,grid_19.0_70.0,70,19,1037,2017.13,grid_19.0_70.0
+pt_19.0758_72.8775,"Mumbai, India",72.8775,19.0758,1038,2017.13,India
+pt_25.285633_51.526416,"Doha, Qatar",51.526416,25.285633,1039,2017.13,Qatar
+pt_25.0_56.0,"Fujairah, United Arab Emirates",56,25,1040,2017.13,United Arab Emirates
+pt_7.0_99.72,"Satun, Thailand",99.72,7,1041,2017.13,Thailand
+pt_7.2061_100.5967,"Songkhla, Thailand",100.5967,7.2061,1042,2017.13,Thailand
+pt_22.0_114.0,"Cape D'Aguilar, China",114,22,1043,2017.13,China
+pt_41.1253_16.8667,"Bari, Italy",16.8667,41.1253,1044,2017.13,Italy
+pt_35.5167_24.0167,"Chania, Greece",24.0167,35.5167,1045,2017.13,Greece
+pt_21.5428_39.1728,"Jeddah, Saudi Arabia",39.1728,21.5428,1046,2017.13,Saudi Arabia
+pt_11.599721_43.146057,"Djibouti City, Djibouti",43.146057,11.599721,1047,2017.13,Djibouti
+pt_12.8_45.0333,"Aden, Yemen",45.0333,12.8,1048,2017.13,Yemen
+grid_7.0_99.5,grid_7.0_99.5,99.5,7,1049,2017.13,grid_7.0_99.5
+grid_9.8_91.0,grid_9.8_91.0,91,9.8,1050,2017.13,grid_9.8_91.0
+pt_24.86_67.01,"Karachi, Pakistan",67.01,24.86,1051,2017.13,Pakistan
+pt_23.6139_58.5922,"Muscat, Oman",58.5922,23.6139,1052,2017.13,Oman
+pt_16.8583_94.3917,"Ngwe Saung, Myanmar",94.3917,16.8583,1053,2017.13,Myanmar
+pt_1.0_103.0,"Pontian Kechi, Malaysia",103,1,1054,2017.13,Malaysia
+pt_1.3167_103.7169,"Singapore, Singapore",103.7169,1.3167,1055,2017.13,Singapore
+pt_5.261396_115.163155,"Kiamsam , Malaysia",115.163155,5.261396,1056,2017.14,Malaysia
+pt_5.0_115.0,"Tungku, nan",115,5,1057,2017.14,Brunei
+pt_4.1293_103.387,"Cherating, Malaysia",103.387,4.1293,1058,2017.15,Malaysia
+grid_10.4_102.0,grid_10.4_102.0,102,10.4,1059,2017.15,grid_10.4_102.0
+pt_12.6742_101.2789,"Rayong, Thailand",101.2789,12.6742,1060,2017.15,Thailand
+pt_11.0_104.0,"Sihanoukville, Cambodia",104,11,1061,2017.15,Cambodia
+pt_43.125_5.9306,"Toulon, France",5.9306,43.125,1062,2017.16,France
+grid_35.4_15.0,grid_35.4_15.0,15,35.4,1063,2017.16,grid_35.4_15.0
+grid_33.0_26.8,grid_33.0_26.8,26.8,33,1064,2017.16,grid_33.0_26.8
+pt_31.0_30.0,"Abu Talat, Egypt",30,31,1065,2017.16,Egypt
+pt_29.0_33.0,"Zafarana, Egypt",33,29,1066,2017.16,Egypt
+grid_23.1_37.1,grid_23.1_37.1,37.1,23.1,1067,2017.16,grid_23.1_37.1
+grid_14.5_42.2,grid_14.5_42.2,42.2,14.5,1068,2017.16,grid_14.5_42.2
+grid_12.2_44.0,grid_12.2_44.0,44,12.2,1069,2017.16,grid_12.2_44.0
+grid_10.1_60.3,grid_10.1_60.3,60.3,10.1,1070,2017.16,grid_10.1_60.3
+pt_5.95_80.5333,"Matara, Sri Lanka",80.5333,5.95,1071,2017.16,Sri Lanka
+grid_3.4_84.3,grid_3.4_84.3,84.3,3.4,1072,2017.16,grid_3.4_84.3
+grid_-0.5_98.2,grid_-0.5_98.2,98.2,-0.5,1073,2017.16,grid_-0.5_98.2
+grid_0.4_102.1,grid_0.4_102.1,102.1,0.4,1074,2017.16,grid_0.4_102.1
+pt_1.3167_103.7169,"Tuas, Singapore",103.7169,1.3167,1075,2017.16,Singapore
+pt_37.5027_15.0873,"Catania, Italy",15.0873,37.5027,1076,2017.16,Italy
+pt_36.8564_28.2711,"Marmaris, Turkey",28.2711,36.8564,1077,2017.16,Turkey
+pt_24.0445_38.4074,"Yanbu, Saudi Arabia",38.4074,24.0445,1078,2017.16,Saudi Arabia
+pt_14.8022_42.9511,"Al Hudaydah, Yemen",42.9511,14.8022,1079,2017.16,Yemen
+pt_11.565606_43.164675,"Haramous, Djibouti",43.164675,11.5656056,1080,2017.16,Djibouti
+pt_25.0_56.0,"Fujairah, United Arab Emirates",56,25,1081,2017.16,United Arab Emirates
+grid_22.9_59.8,grid_22.9_59.8,59.8,22.9,1082,2017.16,grid_22.9_59.8
+grid_19.9_62.3,grid_19.9_62.3,62.3,19.9,1083,2017.16,grid_19.9_62.3
+pt_21.8167_90.1167,"Kuakata, Bangladesh",90.1167,21.8167,1084,2017.16,Bangladesh
+grid_18.2_89.3,grid_18.2_89.3,89.3,18.2,1085,2017.16,grid_18.2_89.3
+pt_3.5894_98.6739,"Medan, Indonesia",98.6739,3.5894,1086,2017.16,Indonesia
+pt_2.329374_102.288096,"Melaka, Malaysia",102.2880962,2.3293744,1087,2017.16,Malaysia
+pt_1.663197_101.447037,"Dumai, Indonesia",101.4470369,1.6631967,1088,2017.16,Indonesia
+pt_22.7_59.3699,"Qalhat, Oman",59.3699,22.7,1089,2017.16,Oman
+pt_24.86_67.01,"Karachi, Pakistan",67.01,24.86,1090,2017.16,Pakistan
+pt_16.8583_94.3917,"Ngwe Saung, Myanmar",94.3917,16.8583,1091,2017.16,Myanmar
+grid_22.966667_59.733333,grid_22.966667_59.733333,59.733333333333334,22.966666666666665,1092,2017.16,grid_22.966667_59.733333
+pt_3.7521_8.7737,"Malabo, nan",8.7737,3.7521,1093,2017.18,Equitorial Guinea
+grid_2.8_9.0,grid_2.8_9.0,9,2.8,1094,2017.18,grid_2.8_9.0
+pt_1.865_9.77,"Bata, nan",9.77,1.865,1095,2017.18,Equitorial Guinea
+pt_2.95_9.9167,"Kribi, Cameroon",9.9167,2.95,1096,2017.18,Cameroon
+pt_45.0_37.0,"Osoviny, Ukraine",37,45,1097,2017.2,Ukraine
+pt_45.423491_37.0,"Ilyich, Russia",37,45.423491,1098,2017.2,Russia
+pt_-23.9608_-46.3339,"Santos, Brazil",-46.3339,-23.9608,1099,2017.2,Brazil
+grid_-0.8_-36.9,grid_-0.8_-36.9,-36.9,-0.8,1100,2017.2,grid_-0.8_-36.9
+pt_26.3686_-80.1,"Boca Raton , United States",-80.1,26.3686,1101,2017.2,United States
+pt_-3.7275_-38.5275,"Fortaleza, Brazil",-38.5275,-3.7275,1102,2017.2,Brazil
+pt_2.43_103.83,"Mersing, Malaysia",103.83,2.43,1103,2017.5,Malaysia
+grid_1.4_104.0,grid_1.4_104.0,104,1.4,1104,2017.5,grid_1.4_104.0
+pt_1.353925_103.974697,"Changi North, Singapore",103.974697,1.353925,1105,2017.5,Singapore
+pt_1.13_104.0531,"Batam, Indonesia",104.0531,1.13,1106,2017.5,Indonesia
+pt_-24.0058_-46.4028,"Praia Grande, Brazil",-46.4028,-24.0058,1107,2017.6,Brazil
+pt_40.71_-74.06,"New Jersey, United States",-74.06,40.71,1108,2017.6,United States
+pt_-34.9088_-54.9581,"Maldonaldo, Uruguay",-54.9581,-34.9088,1109,2017.9,Uruguay
+pt_-23.9608_-46.3339,"Santos, Brazil",-46.3339,-23.9608,1110,2017.9,Brazil
+pt_5.1583_-52.6428,"Kourou, nan",-52.6428,5.1583,1111,2018.1,French Guiana
+pt_14.6161_-61.1014,"Schoelcher, nan",-61.1014,14.6161,1112,2018.1,Martinique
+pt_1.327255_103.946505,"Tanah Merah, Singapore",103.9465048,1.3272553,1113,2018.12,Singapore
+grid_-9.0_101.5,grid_-9.0_101.5,101.5,-9,1114,2018.12,grid_-9.0_101.5
+grid_-11.5_102.9,grid_-11.5_102.9,102.9,-11.5,1115,2018.12,grid_-11.5_102.9
+pt_-31.934_115.764,"City Beach Perth, Australia",115.764,-31.934,1116,2018.12,Australia
+pt_-10.4217_105.6781,"Flying Fish Cove, nan",105.6781,-10.4217,1117,2018.12,Christmas Island
+pt_-6.0641_105.9207,"Anyer, Indonesia",105.9207,-6.0641,1118,2018.12,Indonesia
+pt_-8.8383_13.2344,"Luanda, Angola",13.2344,-8.8383,1119,2018.14,Angola
+pt_-3.7275_-38.5275,"Fortaleza, Brazil",-38.5275,-3.7275,1120,2018.14,Brazil
+pt_-13.8483_-171.7417,"Fagali'i, nan",-171.7417,-13.8483,1121,2018.15,Samoa
+grid_-14.0_-172.0,grid_-14.0_-172.0,-172,-14,1122,2018.15,grid_-14.0_-172.0
+pt_-18.0_178.0,"Laucala Bay, nan",178,-18,1123,2018.15,Fiji
+pt_-13.6669_-172.177,"Tuasivi, nan",-172.177,-13.6669,1124,2018.15,Samoa
+pt_24.85_121.8167,"Toucheng, Taiwan",121.8167,24.85,1125,2018.16,Taiwan
+grid_26.9_127.8,grid_26.9_127.8,127.8,26.9,1126,2018.16,grid_26.9_127.8
+grid_30.1_135.3,grid_30.1_135.3,135.3,30.1,1127,2018.16,grid_30.1_135.3
+pt_45.2053_-123.9606,"Pacific City, United States",-123.9606,45.2053,1128,2018.16,United States
+pt_33.8392_132.7656,"Manuyama, Japan",132.7656,33.8392,1129,2018.16,Japan
+pt_31.631339_121.533777,"Chongming, China",121.533777,31.631339,1130,2018.16,China
+grid_31.2_122.5,grid_31.2_122.5,122.5,31.2,1131,2018.16,grid_31.2_122.5
+grid_28.9_127.0,grid_28.9_127.0,127,28.9,1132,2018.16,grid_28.9_127.0
+pt_35.0_129.04747,"Pusan, South Korea",129.04747,35,1133,2018.16,South Korea
+pt_31.0_122.0,"Nanhui, China",122,31,1134,2018.16,China
+pt_37.0_-76.0,"Virginia Beach, United States",-76,37,1135,2018.1,United States
+grid_21.3_-62.7,grid_21.3_-62.7,-62.7,21.3,1136,2018.1,grid_21.3_-62.7
+grid_-0.8_-36.9,grid_-0.8_-36.9,-36.9,-0.8,1137,2018.1,grid_-0.8_-36.9
+pt_-22.9111_-43.2056,"Rio de Janeiro, Brazil",-43.2056,-22.9111,1138,2018.1,Brazil
+pt_-3.7275_-38.5275,"Fortaleza, Brazil",-38.5275,-3.7275,1139,2018.1,Brazil
+pt_18.4653_-66.1167,"San Juan, Puerto Rico",-66.1167,18.4653,1140,2018.1,Puerto Rico
+pt_-33.869844_151.208285,"Sydney, Australia",151.2082848,-33.8698439,1141,2018.2,Australia
+pt_-36.1264_174.5747,"Mangawhai, New Zealand",174.5747,-36.1264,1142,2018.2,New Zealand
+pt_21.3347_-158.0808,"Kapolei, nan",-158.0808,21.3347,1143,2018.2,Hawaii
+pt_45.5228_-122.9897,"Hillsboro, United States",-122.9897,45.5228,1144,2018.2,United States
+pt_37.0_-76.0,"Virginia Beach, United States",-76,37,1145,2018.3,United States
+pt_43.2622_-2.9533,"Bilbao, Spain",-2.9533,43.2622,1146,2018.3,Spain
+pt_2.95_9.9167,"Kribi, Cameroon",9.9167,2.95,1147,2018.5,Cameroon
+pt_-3.7275_-38.5275,"Fortaleza, Brazil",-38.5275,-3.7275,1148,2018.5,Brazil
+pt_-24.0058_-46.4028,"Praia Grande, Brazil",-46.4028,-24.0058,1149,2018.7,Brazil
+pt_-36.4833_-56.7,"Los Toninas, Argentina",-56.7,-36.4833,1150,2018.7,Argentina
+pt_17.0197_54.0897,"Salalah, Oman",54.0897,17.0197,1151,2018.9,Oman
+grid_13.2_48.3,grid_13.2_48.3,48.3,13.2,1152,2018.9,grid_13.2_48.3
+pt_10.4333_45.0,"Berbera, Somalia",45,10.4333,1153,2018.9,Somalia
+pt_11.2833_49.1833,"Bosaso, Somalia",49.1833,11.2833,1154,2018.9,Somalia
+pt_54.9778_-1.6133,"Newcastle, Great Britain",-1.6133,54.9778,1155,2019.13,United Kingdom
+pt_55.4708_8.4514,"Esbjerg, Denmark",8.4514,55.4708,1156,2019.13,Denmark
+pt_51.0_1.0,"Pegwell Bay, Great Britain",1,51,1157,2019.14,United Kingdom
+pt_51.3308_3.2075,"Zeebrugge, Belgium",3.2075,51.3308,1158,2019.14,Belgium
+pt_41.3133_19.4458,"Durres, Albania",19.4458,41.3133,1159,2019.19,Albania
+pt_41.1253_16.8667,"Bari, Italy",16.8667,41.1253,1160,2019.19,Italy
+pt_42.8864_-78.8781,"Buffalo, United States",-78.8781,42.8864,1161,2019.1,United States
+pt_43.6703_-79.3867,"Toronto, Canada",-79.3867,43.6703,1162,2019.1,Canada
+pt_60.1708_24.9375,"Helsinki, Finland",24.9375,60.1708,1163,2019.2,Finland
+pt_60.4667_26.9458,"Kotka, Finland",26.9458,60.4667,1164,2019.2,Finland
+pt_59.8236_22.9681,"Hanko, Finland",22.9681,59.8236,1165,2019.2,Finland
+pt_59.3294_18.0686,"Stockholm, Sweden",18.0686,59.3294,1166,2019.2,Sweden
+pt_18.4653_-66.1167,"San Juan, Puerto Rico",-66.1167,18.4653,1167,2019.3,Puerto Rico
+pt_19.97094_-75.143458,"Guantanamo Bay, Cuba",-75.143458,19.97094,1168,2019.3,Cuba
+pt_1.3167_103.7169,"Tuas , Singapore",103.7169,1.3167,1169,2019.6,Singapore
+grid_-10.5_102.5,grid_-10.5_102.5,102.5,-10.5,1170,2019.6,grid_-10.5_102.5
+pt_-31.9559_115.8606,"Perth, Australia",115.8606,-31.9559,1171,2019.6,Australia
+pt_-6.175405_106.827168,"Jakarta, Indonesia",106.827168,-6.1754049,1172,2019.6,Indonesia
+pt_-33.0461_-71.6197,"Valparaiso, Chile",-71.6197,-33.0461,1173,2020.1,Chile
+pt_34.0522_-118.2437,"Los Angeles, United States",-118.2437,34.0522,1174,2020.1,United States
+pt_54.3122_-130.3271,"Prince Rupert, Canada",-130.3271,54.3122,1175,2020.11,Canada
+pt_55.3431_-131.6467,"Ketchikan, United States",-131.6467,55.3431,1176,2020.11,United States
+pt_35.0432_139.84,"Minami Boso, Japan",139.84,35.0432,1177,2020.15,Japan
+pt_13.4608_144.6908,"Piti, nan",144.6908,13.4608,1178,2020.15,Guam
+grid_-26.5_156.5,grid_-26.5_156.5,156.5,-26.5,1179,2020.15,grid_-26.5_156.5
+pt_-33.869844_151.208285,"Sydney, Australia",151.2082848,-33.8698439,1180,2020.15,Australia
+pt_-26.65_153.1,"Maroochydore, Australia",153.1,-26.65,1181,2020.15,Australia
+pt_-19.056_-169.921,"Alofi, nan",-169.921,-19.056,1182,2020.17,Niue
+grid_-18.9_-169.9,grid_-18.9_-169.9,-169.9,-18.9,1183,2020.17,grid_-18.9_-169.9
+pt_-13.8333_-171.8333,"Apia, nan",-171.8333,-13.8333,1184,2020.17,Samoa
+pt_-17.0_-151.0,"To'ahotu, nan",-151,-17,1185,2020.17,French Polynesia
+grid_-17.1_-151.4,grid_-17.1_-151.4,-151.4,-17.1,1186,2020.17,grid_-17.1_-151.4
+grid_-18.9_-159.6,grid_-18.9_-159.6,-159.6,-18.9,1187,2020.17,grid_-18.9_-159.6
+grid_-18.9_-160.0,grid_-18.9_-160.0,-160,-18.9,1188,2020.17,grid_-18.9_-160.0
+pt_-19.0_-160.0,"Aitutaki, nan",-160,-19,1189,2020.17,Cook Islands
+pt_-21.2333_-159.7833,"Rarotonga, nan",-159.7833,-21.2333,1190,2020.17,Cook Islands
+pt_-16.5064_-151.749,"Vaitape, nan",-151.749,-16.5064,1191,2020.17,French Polynesia
+pt_39.47_-0.3764,"Valencia, Spain",-0.3764,39.47,1192,2020.19,Spain
+grid_37.7_0.1,grid_37.7_0.1,0.1,37.7,1193,2020.19,grid_37.7_0.1
+pt_35.6969_-0.6331,"Oran , Algeria",-0.6331,35.6969,1194,2020.19,Algeria
+pt_36.7764_3.0586,"Algier, Algeria",3.0586,36.7764,1195,2020.19,Algeria
+pt_59.0_10.0,"Larvik, Norway",10,59,1196,2020.21,Norway
+pt_57.59_9.96,"Hirtshals, Denmark",9.96,57.59,1197,2020.21,Denmark
+pt_34.0_137.0,"Shima, Japan",137,34,1198,2020.3,Japan
+grid_32.1_139.5,grid_32.1_139.5,139.5,32.1,1199,2020.3,grid_32.1_139.5
+grid_44.4_-127.3,grid_44.4_-127.3,-127.3,44.4,1200,2020.3,grid_44.4_-127.3
+grid_37.5_-131.6,grid_37.5_-131.6,-131.6,37.5,1201,2020.3,grid_37.5_-131.6
+pt_33.8664_-118.3997,"Hermosa Beach, United States",-118.3997,33.8664,1202,2020.3,United States
+pt_45.2058_-123.8919,"Cloverdale, United States",-123.8919,45.2058,1203,2020.3,United States
+pt_33.8392_132.7656,"Maruyama, Japan",132.7656,33.8392,1204,2020.3,Japan
+pt_14.1142_122.9564,"Daet, Philippines",122.9564,14.1142,1205,2020.3,Philippines
+pt_58.97_5.7314,"Stavanger, Norway",5.7314,58.97,1206,2020.4,Norway
+pt_55.0826_-1.4778,"Seaton Sluice, Great Britain",-1.4778,55.0826,1207,2020.4,United Kingdom
+pt_11.599721_43.146057,"Djibouti City, Djibouti",43.146057,11.599721,1208,2020.6,Djibouti
+grid_12.1_44.6,grid_12.1_44.6,44.6,12.1,1209,2020.6,grid_12.1_44.6
+grid_12.4_49.2,grid_12.4_49.2,49.2,12.4,1210,2020.6,grid_12.4_49.2
+grid_-0.6_47.8,grid_-0.6_47.8,47.8,-0.6,1211,2020.6,grid_-0.6_47.8
+pt_-4.05_39.6667,"Mombasa, Kenya",39.6667,-4.05,1212,2020.6,Kenya
+pt_11.2833_49.1833,"Bossaso, Somalia",49.1833,11.2833,1213,2020.6,Somalia
+pt_10.4333_45.0,"Berbera, Somalia",45,10.4333,1214,2020.6,Somalia
+pt_2.0392_45.3419,"Mogadishu, Somalia",45.3419,2.0392,1215,2020.6,Somalia
+pt_33.9191_-118.4155,"El Segundo, United States",-118.4155,33.9191,1216,2020.7,United States
+grid_18.6_127.8,grid_18.6_127.8,127.8,18.6,1217,2020.7,grid_18.6_127.8
+pt_15.7583_121.5625,"Baler, Philippines",121.5625,15.7583,1218,2020.7,Philippines
+pt_24.85_121.8167,"Toucheng, Taiwan",121.8167,24.85,1219,2020.7,Taiwan
+pt_40.1673_-74.0961,"Wall Township, United States",-74.0961,40.1673,1220,2020.8,United States
+grid_54.1_-13.1,grid_54.1_-13.1,-13.1,54.1,1221,2020.8,grid_54.1_-13.1
+pt_53.775_-9.6875,"Lecanvey, Ireland",-9.6875,53.775,1222,2020.8,Ireland
+pt_58.1467_7.9956,"Kristiansand, Norway",7.9956,58.1467,1223,2020.8,Norway
+grid_57.9_7.5,grid_57.9_7.5,7.5,57.9,1224,2020.8,grid_57.9_7.5
+pt_55.7794_8.2894,"Blaabjerg, Denmark",8.2894,55.7794,1225,2020.8,Denmark
+pt_-33.869844_151.208285,"Sydney, Australia",151.2082848,-33.8698439,1226,2020.9,Australia
+grid_-15.5_149.7,grid_-15.5_149.7,149.7,-15.5,1227,2020.9,grid_-15.5_149.7
+pt_-9.4789_147.1494,"Port Moresby, Papua New Guinea",147.1494,-9.4789,1228,2020.9,Papua New Guinea
+pt_-8.7683_160.6969,"Auki, nan",160.6969,-8.7683,1229,2020.9,Solomon Islands
+pt_-9.431077_160.0,"Honiara, nan",160,-9.431077,1230,2020.9,Solomon Islands
+pt_-7.0_156.0,"Taro, nan",156,-7,1231,2020.9,Solomon Islands
+grid_-7.9_157.4,grid_-7.9_157.4,157.4,-7.9,1232,2020.9,grid_-7.9_157.4
+pt_-8.2167_157.2167,"Noro, nan",157.2167,-8.2167,1233,2020.9,Solomon Islands
+pt_31.0_30.0,"Abu Talat, Egypt",30,31,1234,2021.12,Egypt
+grid_31.7_29.5,grid_31.7_29.5,29.5,31.7,1235,2021.12,grid_31.7_29.5
+grid_35.7_14.4,grid_35.7_14.4,14.4,35.7,1236,2021.12,grid_35.7_14.4
+grid_37.9_10.0,grid_37.9_10.0,10,37.9,1237,2021.12,grid_37.9_10.0
+pt_43.2967_5.3764,"Marseilles, France",5.3764,43.2967,1238,2021.12,France
+pt_29.0_33.0,"Zafarana, Egypt",33,29,1239,2021.12,Egypt
+grid_21.0_38.5,grid_21.0_38.5,38.5,21,1240,2021.12,grid_21.0_38.5
+grid_12.3_44.4,grid_12.3_44.4,44.4,12.3,1241,2021.12,grid_12.3_44.4
+grid_13.0_51.6,grid_13.0_51.6,51.6,13,1242,2021.12,grid_13.0_51.6
+grid_11.4_61.9,grid_11.4_61.9,61.9,11.4,1243,2021.12,grid_11.4_61.9
+grid_6.9_73.4,grid_6.9_73.4,73.4,6.9,1244,2021.12,grid_6.9_73.4
+pt_1.3167_103.7169,"Tuas, Singapore",103.7169,1.3167,1245,2021.12,Singapore
+pt_34.7609_32.4484,"Yeroskipos, Cyprus",32.4484,34.7609,1246,2021.12,Cyprus
+pt_35.95_14.3667,"Mellieha, Malta",14.3667,35.95,1247,2021.12,Malta
+pt_37.2744_9.8739,"Bizerte, Tunisia",9.8739,37.2744,1248,2021.12,Tunisia
+pt_21.5428_39.1728,"Jeddah, Saudi Arabia",39.1728,21.5428,1249,2021.12,Saudi Arabia
+pt_10.4333_45.0,"Berbera, Somalia",45,10.4333,1250,2021.12,Somalia
+pt_24.86_67.01,"Karachi, Pakistan",67.01,24.86,1251,2021.12,Pakistan
+grid_21.7_64.5,grid_21.7_64.5,64.5,21.7,1252,2021.12,grid_21.7_64.5
+pt_-4.05_39.6667,"Mombasa, Kenya",39.6667,-4.05,1253,2021.12,Kenya
+grid_-0.2_48.2,grid_-0.2_48.2,48.2,-0.2,1254,2021.12,grid_-0.2_48.2
+pt_6.6226_73.07,"Kulhudhufushi, nan",73.07,6.6226,1255,2021.12,Maldives
+pt_25.0513_56.3542,"Kalba, United Arab Emirates",56.3542,25.0513,1256,2021.12,United Arab Emirates
+pt_-4.6236_55.4544,"Victoria, nan",55.4544,-4.6236,1257,2021.12,Seychelles
+pt_-36.4833_-56.7,"Las Toninas, Argentina",-56.7,-36.4833,1258,2021.14,Argentina
+grid_-25.8_-45.5,grid_-25.8_-45.5,-45.5,-25.8,1259,2021.14,grid_-25.8_-45.5
+pt_-24.0058_-46.4028,"Praia Grande, Brazil",-46.4028,-24.0058,1260,2021.14,Brazil
+pt_-22.9111_-43.2056,"Rio de Janeiro, Brazil",-43.2056,-22.9111,1261,2021.14,Brazil
+pt_50.8208_-0.1375,"Brighton, Great Britain",-0.1375,50.8208,1262,2021.15,United Kingdom
+pt_50.0_0.79669,"Veules de Roses, France",0.79669,50,1263,2021.15,France
+pt_1.5575_110.3439,"Kuching, Malaysia",110.3439,1.5575,1264,2021.16,Malaysia
+pt_1.13_104.0531,"Batam, Indonesia",104.0531,1.13,1265,2021.16,Indonesia
+pt_52.8372_4.6967,"Callantsoog, Netherlands",4.6967,52.8372,1266,2021.17,Netherlands
+pt_52.714_1.682,"Winterton on Sea, Great Britain",1.682,52.714,1267,2021.17,United Kingdom
+pt_51.3589_1.4394,"Broadstairs, Great Britain",1.4394,51.3589,1268,2021.17,United Kingdom
+pt_51.2258_2.9194,"Ostend, Belgium",2.9194,51.2258,1269,2021.17,Belgium
+pt_53.8167_-3.05,"Blackpool, Great Britain",-3.05,53.8167,1270,2021.22,United Kingdom
+grid_53.7_-4.7,grid_53.7_-4.7,-4.7,53.7,1271,2021.22,grid_53.7_-4.7
+pt_53.3497_-6.2603,"Dublin , Ireland",-6.2603,53.3497,1272,2021.22,Ireland
+pt_54.086_-4.756,"Port Erin, nan",-4.756,54.086,1273,2021.22,United Kingdom
+pt_54.0_-5.0,"Port Grenaugh, nan",-5,54,1274,2021.22,United Kingdom
+pt_54.9778_-1.6133,"Newcastle on Tyne, Great Britain",-1.6133,54.9778,1275,2021.23,United Kingdom
+pt_56.0_8.0,"Houstrup, Denmark",8,56,1276,2021.23,Denmark
+pt_58.1467_7.9956,"Kristiansand, Norway",7.9956,58.1467,1277,2021.24,Norway
+pt_57.1197_8.6197,"Hanstholm, Denmark",8.6197,57.1197,1278,2021.24,Denmark
+pt_6.8397_79.8758,"Mt Lavinia, Sri Lanka",79.8758,6.8397,1279,2021.25,Sri Lanka
+pt_4.2167_73.5333,"Hulhumale, nan",73.5333,4.2167,1280,2021.25,Maldives
+pt_33.5992_-7.62,"Casablanca, Morocco",-7.62,33.5992,1281,2021.27,Morocco
+grid_6.1_1.6,grid_6.1_1.6,1.6,6.1,1282,2021.27,grid_6.1_1.6
+grid_5.2_1.9,grid_5.2_1.9,1.9,5.2,1283,2021.27,grid_5.2_1.9
+pt_0.3901_9.4544,"Libreville, Gabon",9.4544,0.3901,1284,2021.27,Gabon
+pt_5.0_-4.0,"Abidjan, Ivory Coast",-4,5,1285,2021.27,Ivory Coast
+pt_6.1319_1.2228,"Lome, Togo",1.2228,6.1319,1286,2021.27,Togo
+pt_6.3667_2.4167,"Cotonou, nan",2.4167,6.3667,1287,2021.27,Benin
+pt_14.7319_-17.4572,"Dakar, Senegal",-17.4572,14.7319,1288,2021.29,Senegal
+pt_14.9177_-23.5092,"Praia, nan",-23.5092,14.9177,1289,2021.29,Cape Verde
+pt_16.7686_96.245,"Thanlyin, Myanmar",96.245,16.7686,1290,2021.3,Myanmar
+pt_1.3167_103.7169,"Tuas, Singapore",103.7169,1.3167,1291,2021.3,Singapore
+pt_0.3333_6.7333,"Sao Tome, nan",6.7333,0.3333,1292,2021.32,Sao Tome and Principe
+pt_-1.0_6.0,"Annobon, nan",6,-1,1293,2021.32,Equitorial Guinea
+pt_52.4586_4.6194,"Ijmuiden, Netherlands",4.6194,52.4586,1294,2021.35,Netherlands
+pt_52.48_1.75,"Lowestoft, Great Britain",1.75,52.48,1295,2021.35,United Kingdom
+pt_13.9333_-90.8167,"Puerto San Jose, Guatemala",-90.8167,13.9333,1296,2021.36,Guatemala
+grid_-3.3_-86.1,grid_-3.3_-86.1,-86.1,-3.3,1297,2021.36,grid_-3.3_-86.1
+grid_-15.0_-82.2,grid_-15.0_-82.2,-82.2,-15,1298,2021.36,grid_-15.0_-82.2
+grid_-22.2_-79.8,grid_-22.2_-79.8,-79.8,-22.2,1299,2021.36,grid_-22.2_-79.8
+pt_-33.0461_-71.6197,"Valparaiso, Chile",-71.6197,-33.0461,1300,2021.36,Chile
+pt_-18.4778_-70.3181,"Arica, Chile",-70.3181,-18.4778,1301,2021.36,Chile
+pt_-12.238906_-76.784493,"Lurin, Peru",-76.7844926,-12.2389059,1302,2021.36,Peru
+pt_-2.2083_-80.9681,"Salinas, Ecuador",-80.9681,-2.2083,1303,2021.36,Ecuador
+pt_46.7211_-1.9456,"Saint-Hilaire-de-Riez, France",-1.9456,46.7211,1304,2021.3,France
+pt_37.0_-76.0,"Virginia Beach, United States",-76,37,1305,2021.3,United States
+pt_38.707751_-9.0,"Lisbon, Portugal",-9,38.7077507,1306,2021.6,Portugal
+grid_6.5_3.4,grid_6.5_3.4,3.4,6.5,1307,2021.6,grid_6.5_3.4
+pt_6.45_3.4,"Lagos, Nigeria",3.4,6.45,1308,2021.6,Nigeria
+pt_6.1319_1.2228,"Lome, Togo",1.2228,6.1319,1309,2021.6,Togo
+pt_-33.7333_18.4333,"Melkbosstrand, South Africa",18.4333,-33.7333,1310,2021.6,South Africa
+grid_-23.3_10.5,grid_-23.3_10.5,10.5,-23.3,1311,2021.6,grid_-23.3_10.5
+grid_-12.2_6.8,grid_-12.2_6.8,6.8,-12.2,1312,2021.6,grid_-12.2_6.8
+pt_-22.6667_14.5333,"Swakopmund, Namibia",14.5333,-22.6667,1313,2021.6,Namibia
+pt_-16.0_-6.0,"Saint Helena, nan",-6,-16,1314,2021.6,Tristan da Cunha
+pt_-31.9559_115.8606,"Perth, Australia",115.8606,-31.9559,1315,2021.7,Australia
+pt_23.6139_58.5922,"Muscat, Oman",58.5922,23.6139,1316,2021.7,Oman
+pt_-20.0_58.0,"Baie Tombeau, nan",58,-20,1317,2021.8,Mauritius
+grid_-21.6_56.6,grid_-21.6_56.6,56.6,-21.6,1318,2021.8,grid_-21.6_56.6
+grid_-27.5_48.8,grid_-27.5_48.8,48.8,-27.5,1319,2021.8,grid_-27.5_48.8
+pt_-29.8583_31.025,"Durban, South Africa",31.025,-29.8583,1320,2021.8,South Africa
+pt_-25.0_47.0,"Fort Dauphin, Madagascar",47,-25,1321,2021.8,Madagascar
+pt_-20.9394_55.2872,"Le Port, nan",55.2872,-20.9394,1322,2021.8,Reunion
+pt_38.0_-9.0,"Sines, Portugal",-9,38,1323,2021.9,Portugal
+grid_31.4_-15.2,grid_31.4_-15.2,-15.2,31.4,1324,2021.9,grid_31.4_-15.2
+grid_28.7_-17.7,grid_28.7_-17.7,-17.7,28.7,1325,2021.9,grid_28.7_-17.7
+grid_16.4_-25.9,grid_16.4_-25.9,-25.9,16.4,1326,2021.9,grid_16.4_-25.9
+pt_-3.7275_-38.5275,"Fortaleza, Brazil",-38.5275,-3.7275,1327,2021.9,Brazil
+pt_-23.9608_-46.3339,"Santos, Brazil",-46.3339,-23.9608,1328,2021.9,Brazil
+pt_32.65_-16.9167,"Funchal, nan",-16.9167,32.65,1329,2021.9,Portugal
+pt_28.2686_-16.6056,"Tenerife, nan",-16.6056,28.2686,1330,2021.9,Canary Islands
+pt_14.9177_-23.5092,"Praia, nan",-23.5092,14.9177,1331,2021.9,Cape Verde
+pt_53.2729_-9.0418,"Galway, Ireland",-9.0418,53.2729,1332,2022.11,Ireland
+pt_64.0_-21.0,"Molvik, Iceland",-21,64,1333,2022.11,Iceland
+pt_19.0758_72.8775,"Mumbai, India",72.8775,19.0758,1334,2022.13,India
+grid_14.8_81.6,grid_14.8_81.6,81.6,14.8,1335,2022.13,grid_14.8_81.6
+grid_7.2_89.8,grid_7.2_89.8,89.8,7.2,1336,2022.13,grid_7.2_89.8
+grid_6.2_90.6,grid_6.2_90.6,90.6,6.2,1337,2022.13,grid_6.2_90.6
+grid_0.4_102.1,grid_0.4_102.1,102.1,0.4,1338,2022.13,grid_0.4_102.1
+pt_1.3167_103.7169,"Tuas, Singapore",103.7169,1.3167,1339,2022.13,Singapore
+pt_13.0825_80.275,"Chennai, India",80.275,13.0825,1340,2022.13,India
+pt_3.0_101.0,"Morib, Malaysia",101,3,1341,2022.13,Malaysia
+pt_16.0_96.0,"Letkokkon, Myanmar",96,16,1342,2022.13,Myanmar
+pt_7.0_99.72,"Satun, Thailand",99.72,7,1343,2022.13,Thailand
+pt_52.0_5.0,"Zandvoort, Netherlands",5,52,1344,2022.19,Netherlands
+pt_52.48_1.75,"Lowestoft, Great Britain",1.75,52.48,1345,2022.19,United Kingdom
+pt_50.824_-4.542,"Bude, Great Britain",-4.542,50.824,1346,2022.1,United Kingdom
+grid_48.8_-10.1,grid_48.8_-10.1,-10.1,48.8,1347,2022.1,grid_48.8_-10.1
+pt_41.0_-74.0,"New York, United States",-74,41,1348,2022.1,United States
+pt_43.2622_-2.9533,"Bilbao, Spain",-2.9533,43.2622,1349,2022.1,Spain
+pt_-34.0_151.0,"Alexandria, Australia",151,-34,1350,2022.4,Australia
+grid_-29.3_165.5,grid_-29.3_165.5,165.5,-29.3,1351,2022.4,grid_-29.3_165.5
+grid_-19.5_179.9,grid_-19.5_179.9,179.9,-19.5,1352,2022.4,grid_-19.5_179.9
+grid_-19.4_179.75,grid_-19.4_179.75,179.75,-19.4,1353,2022.4,grid_-19.4_179.75
+grid_-18.3_-178.9,grid_-18.3_-178.9,-178.9,-18.3,1354,2022.4,grid_-18.3_-178.9
+grid_-17.2_-177.8,grid_-17.2_-177.8,-177.8,-17.2,1355,2022.4,grid_-17.2_-177.8
+grid_-12.4_-173.0,grid_-12.4_-173.0,-173,-12.4,1356,2022.4,grid_-12.4_-173.0
+grid_-10.3_-170.9,grid_-10.3_-170.9,-170.9,-10.3,1357,2022.4,grid_-10.3_-170.9
+grid_2.5_-158.1,grid_2.5_-158.1,-158.1,2.5,1358,2022.4,grid_2.5_-158.1
+pt_33.8664_-118.3997,"Hermosa Beach, United States",-118.3997,33.8664,1359,2022.4,United States
+pt_-36.787_174.772,"Takapuna, New Zealand",174.772,-36.787,1360,2022.4,New Zealand
+pt_-18.1333_178.4333,"Suva, nan",178.4333,-18.1333,1361,2022.4,Fiji
+pt_-16.7467_179.3583,"Suavusavu, nan",179.3583,-16.7467,1362,2022.4,Fiji
+grid_-17.5_-178.1,grid_-17.5_-178.1,-178.1,-17.5,1363,2022.4,grid_-17.5_-178.1
+pt_-9.1683_-171.8097,"Nukunonu, nan",-171.8097,-9.1683,1364,2022.4,Tokelau
+pt_-13.8333_-171.8333,"Apia, nan",-171.8333,-13.8333,1365,2022.4,Samoa
+pt_1.872_-157.384208,"Kiritimati, nan",-157.384208,1.872,1366,2022.4,Kiribati
+grid_-19.400069_179.750104,grid_-19.400069_179.750104,179.7501040943789,-19.4000694,1367,2022.4,grid_-19.400069_179.750104
+grid_-17.20208_-177.80208,grid_-17.20208_-177.80208,-177.8020799,-17.20207987,1368,2022.4,grid_-17.20208_-177.80208
+pt_34.95_139.95,"Chikura, Japan",139.95,34.95,1369,2022.5,Japan
+grid_33.5_139.5,grid_33.5_139.5,139.5,33.5,1370,2022.5,grid_33.5_139.5
+grid_26.9_131.5,grid_26.9_131.5,131.5,26.9,1371,2022.5,grid_26.9_131.5
+grid_25.9_130.0,grid_25.9_130.0,130,25.9,1372,2022.5,grid_25.9_130.0
+grid_22.6_125.8,grid_22.6_125.8,125.8,22.6,1373,2022.5,grid_22.6_125.8
+grid_19.8_120.7,grid_19.8_120.7,120.7,19.8,1374,2022.5,grid_19.8_120.7
+grid_18.9_117.2,grid_18.9_117.2,117.2,18.9,1375,2022.5,grid_18.9_117.2
+grid_12.3_112.8,grid_12.3_112.8,112.8,12.3,1376,2022.5,grid_12.3_112.8
+grid_4.7_107.3,grid_4.7_107.3,107.3,4.7,1377,2022.5,grid_4.7_107.3
+pt_1.353925_103.974697,"Changi South, Singapore",103.974697,1.353925,1378,2022.5,Singapore
+pt_34.0_137.0,"Shima, Japan",137,34,1379,2022.5,Japan
+pt_35.0_129.04747,"Pusan, South Korea",129.04747,35,1380,2022.5,South Korea
+pt_30.9_121.9333,"Lingang, China",121.9333,30.9,1381,2022.5,China
+pt_25.1667_121.4333,"Tanshui, Taiwan",121.4333,25.1667,1382,2022.5,Taiwan
+pt_22.6333_120.35,"Fangshan, Taiwan",120.35,22.6333,1383,2022.5,Taiwan
+grid_22.218262_114.204761,grid_22.218262_114.204761,114.2047605,22.2182618,1384,2022.5,grid_22.218262_114.204761
+pt_13.7696_109.2314,"Quy Nhon, Vietnam",109.2314,13.7696,1385,2022.5,Vietnam
+pt_7.2061_100.5967,"Songkhla, Thailand",100.5967,7.2061,1386,2022.5,Thailand
+pt_33.8392_132.7656,"Maruyama, Japan",132.7656,33.8392,1387,2022.6,Japan
+grid_19.5_117.7,grid_19.5_117.7,117.7,19.5,1388,2022.6,grid_19.5_117.7
+grid_18.9_117.2,grid_18.9_117.2,117.2,18.9,1389,2022.6,grid_18.9_117.2
+grid_15.9_115.2,grid_15.9_115.2,115.2,15.9,1390,2022.6,grid_15.9_115.2
+grid_12.3_112.8,grid_12.3_112.8,112.8,12.3,1391,2022.6,grid_12.3_112.8
+grid_5.0_107.6,grid_5.0_107.6,107.6,5,1392,2022.6,grid_5.0_107.6
+pt_1.3167_103.7169,"Tuas, Singapore",103.7169,1.3167,1393,2022.6,Singapore
+pt_23.3735_116.6941,"Shantou, China",116.6941,23.3735,1394,2022.6,China
+grid_22.218262_114.204761,grid_22.218262_114.204761,114.2047605,22.2182618,1395,2022.6,grid_22.218262_114.204761
+pt_14.0_121.0,"Batangas, Philippines",121,14,1396,2022.6,Philippines
+pt_13.7696_109.2314,"Quy Nhon, Vietnam",109.2314,13.7696,1397,2022.6,Vietnam
+pt_13.1744_100.9306,"Sriracha, Thailand",100.9306,13.1744,1398,2022.6,Thailand
+pt_-18.1333_178.4333,"Suva, nan",178.4333,-18.1333,1399,2022.9,Fiji
+grid_-21.4_167.6,grid_-21.4_167.6,167.6,-21.4,1400,2022.9,grid_-21.4_167.6
+grid_-21.5_167.3,grid_-21.5_167.3,167.3,-21.5,1401,2022.9,grid_-21.5_167.3
+grid_-22.2_166.5,grid_-22.2_166.5,166.5,-22.2,1402,2022.9,grid_-22.2_166.5
+pt_-22.2667_166.45,"Noumea, nan",166.45,-22.2667,1403,2022.9,New Caledonia
+pt_-21.0_167.0,"Quanono, nan",167,-21,1404,2022.9,New Caledonia
+pt_-22.0_168.0,"Tadine, nan",168,-22,1405,2022.9,New Caledonia
+pt_-22.1667_166.95,"Yate, nan",166.95,-22.1667,1406,2022.9,New Caledonia
+pt_-23.0_167.0,"Vao, nan",167,-23,1407,2022.9,New Caledonia
+pt_33.71_-78.8836,"Myrtle Beach, United States",-78.8836,33.71,1408,2023.1,United States
+pt_-36.4833_-56.7,"Las Toninas, Argentina",-56.7,-36.4833,1409,2023.1,Argentina
+pt_-34.9557_-54.9381,"Punta del Este, Uruguay",-54.9381,-34.9557,1410,2023.1,Uruguay
+pt_-24.0058_-46.4028,"Praia Grande, Brazil",-46.4028,-24.0058,1411,2023.1,Brazil
+pt_1.3167_103.7169,"Tuas, Singapore",103.7169,1.3167,1412,2023.11,Singapore
+grid_0.4_102.1,grid_0.4_102.1,102.1,0.4,1413,2023.11,grid_0.4_102.1
+grid_0.4_92.5,grid_0.4_92.5,92.5,0.4,1414,2023.11,grid_0.4_92.5
+grid_2.5_84.0,grid_2.5_84.0,84,2.5,1415,2023.11,grid_2.5_84.0
+grid_2.7_81.5,grid_2.7_81.5,81.5,2.7,1416,2023.11,grid_2.7_81.5
+pt_19.0758_72.8775,"Mumbai, India",72.8775,19.0758,1417,2023.11,India
+pt_3.0_101.0,"Morib, Malaysia",101,3,1418,2023.11,Malaysia
+pt_5.95_80.5333,"Matara, Sri Lanka",80.5333,5.95,1419,2023.11,Sri Lanka
+pt_7.0_99.72,"Satun, Thailand",99.72,7,1420,2023.11,Thailand
+pt_13.0825_80.275,"Chennai, India",80.275,13.0825,1421,2023.11,India
+pt_49.2608_-123.1139,"Vancouver, Canada",-123.1139,49.2608,1422,2023.15,Canada
+pt_49.2339_-124.805,"Port Alberni, Canada",-124.805,49.2339,1423,2023.15,Canada
+pt_37.0_141.0,"Takahagi, Japan",141,37,1424,2023.15,Japan
+grid_36.9_141.5,grid_36.9_141.5,141.5,36.9,1425,2023.15,grid_36.9_141.5
+pt_34.0_137.0,"Shima, Japan",137,34,1426,2023.15,Japan
+pt_55.1_14.7,"Ronne, Denmark",14.7,55.1,1427,2023.18,Denmark
+pt_54.5164_13.6411,"Sassnitz, Germany",13.6411,54.5164,1428,2023.18,Germany
+pt_55.5508_14.3479,"Simrishamn, Sweden",14.3479,55.5508,1429,2023.18,Sweden
+pt_55.2461_14.8347,"Tejn, Denmark",14.8347,55.2461,1430,2023.18,Denmark
+pt_55.0_15.0,"Hasle, Denmark",15,55,1431,2023.18,Denmark
+pt_56.0_16.0,"Gronhogen, Sweden",16,56,1432,2023.18,Sweden
+pt_57.3876_18.2039,"Klintehamn, Sweden",18.2039,57.3876,1433,2023.18,Sweden
+pt_57.3232_17.0125,"Byxelkrok, Sweden",17.0125,57.3232,1434,2023.18,Sweden
+pt_56.0_12.0,"Brondby, Denmark",12,56,1435,2023.18,Denmark
+pt_55.5267_12.9356,"Klangshamn, Sweden",12.9356,55.5267,1436,2023.18,Sweden
+pt_58.9333_18.25,"Utö, Sweden",18.25,58.9333,1437,2023.18,Sweden
+pt_57.8443_18.7821,"Kappelshamn, Sweden",18.7821,57.8443,1438,2023.18,Sweden
+pt_39.0833_17.1167,"Crotone, Italy",17.1167,39.0833,1439,2023.21,Italy
+pt_38.9575_20.7517,"Preveza, Greece",20.7517,38.9575,1440,2023.21,Greece
+pt_44.4072_8.934,"Genoa, Italy",8.934,44.4072,1441,2023.22,Italy
+grid_43.3_7.4,grid_43.3_7.4,7.4,43.3,1442,2023.22,grid_43.3_7.4
+grid_42.6_5.8,grid_42.6_5.8,5.8,42.6,1443,2023.22,grid_42.6_5.8
+pt_41.3825_2.1769,"Barcelona, Spain",2.1769,41.3825,1444,2023.22,Spain
+pt_43.2967_5.3764,"Marseille, France",5.3764,43.2967,1445,2023.22,France
+pt_41.9256_8.7364,"Ajaccio, France",8.7364,41.9256,1446,2023.22,France
+pt_58.45_6.0067,"Egersund, Norway",6.0067,58.45,1447,2023.23,Norway
+pt_58.97_5.7314,"Stavanger, Norway",5.7314,58.97,1448,2023.23,Norway
+grid_58.0_6.7,grid_58.0_6.7,6.7,58,1449,2023.23,grid_58.0_6.7
+grid_58.0_8.0,grid_58.0_8.0,8,58,1450,2023.23,grid_58.0_8.0
+grid_58.3_9.0,grid_58.3_9.0,9,58.3,1451,2023.23,grid_58.3_9.0
+grid_58.7_10.3,grid_58.7_10.3,10.3,58.7,1452,2023.23,grid_58.7_10.3
+pt_59.0_10.655365,"Moss, Norway",10.655365,59,1453,2023.23,Norway
+pt_59.6667_10.6333,"Drobak, Norway",10.6333,59.6667,1454,2023.23,Norway
+pt_60.0_11.0,"Oslo, Norway",11,60,1455,2023.23,Norway
+pt_58.0953_6.7936,"Lista, Norway",6.7936,58.0953,1456,2023.23,Norway
+pt_58.1467_7.9956,"Kristiansand, Norway",7.9956,58.1467,1457,2023.23,Norway
+pt_58.4667_8.7667,"Arendal, Norway",8.7667,58.4667,1458,2023.23,Norway
+pt_59.0_10.0,"Larvik, Norway",10,59,1459,2023.23,Norway
+pt_59.0_11.0,"Capri Strand, Sweden",11,59,1460,2023.23,Sweden
+pt_41.0_19.0,"Seman, Albania",19,41,1461,2023.27,Albania
+pt_40.0_18.0,"San Foca, Italy",18,40,1462,2023.27,Italy
+pt_-30.05_30.8833,"Amanzimtoti, South Africa",30.8833,-30.05,1463,2023.29,South Africa
+pt_-21.0_57.0,"Baie Jacotet, nan",57,-21,1464,2023.29,Mauritius
+pt_6.45_3.4,"Lagos, Nigeria",3.4,6.45,1465,2023.2,Nigeria
+grid_4.2_2.8,grid_4.2_2.8,2.8,4.2,1466,2023.2,grid_4.2_2.8
+grid_2.6_2.3,grid_2.6_2.3,2.3,2.6,1467,2023.2,grid_2.6_2.3
+grid_2.4_1.7,grid_2.4_1.7,1.7,2.4,1468,2023.2,grid_2.4_1.7
+grid_1.4_-4.4,grid_1.4_-4.4,-4.4,1.4,1469,2023.2,grid_1.4_-4.4
+grid_14.6_-20.5,grid_14.6_-20.5,-20.5,14.6,1470,2023.2,grid_14.6_-20.5
+grid_29.0_-18.0,grid_29.0_-18.0,-18,29,1471,2023.2,grid_29.0_-18.0
+grid_39.8_-13.5,grid_39.8_-13.5,-13.5,39.8,1472,2023.2,grid_39.8_-13.5
+pt_50.824_-4.542,"Bude, Great Britain",-4.542,50.824,1473,2023.2,United Kingdom
+pt_-34.0_18.0,"Duynefontein, South Africa",18,-34,1474,2023.2,South Africa
+grid_-36.8_25.5,grid_-36.8_25.5,25.5,-36.8,1475,2023.2,grid_-36.8_25.5
+grid_-32.0_33.6,grid_-32.0_33.6,33.6,-32,1476,2023.2,grid_-32.0_33.6
+grid_-27.7_36.9,grid_-27.7_36.9,36.9,-27.7,1477,2023.2,grid_-27.7_36.9
+grid_-15.6_42.7,grid_-15.6_42.7,42.7,-15.6,1478,2023.2,grid_-15.6_42.7
+grid_-14.2_43.4,grid_-14.2_43.4,43.4,-14.2,1479,2023.2,grid_-14.2_43.4
+grid_-12.0_44.4,grid_-12.0_44.4,44.4,-12,1480,2023.2,grid_-12.0_44.4
+grid_-8.8_46.0,grid_-8.8_46.0,46,-8.8,1481,2023.2,grid_-8.8_46.0
+grid_-7.4_46.7,grid_-7.4_46.7,46.7,-7.4,1482,2023.2,grid_-7.4_46.7
+grid_-2.9_48.5,grid_-2.9_48.5,48.5,-2.9,1483,2023.2,grid_-2.9_48.5
+grid_-1.4_49.0,grid_-1.4_49.0,49,-1.4,1484,2023.2,grid_-1.4_49.0
+grid_9.3_54.2,grid_9.3_54.2,54.2,9.3,1485,2023.2,grid_9.3_54.2
+grid_9.7_54.0,grid_9.7_54.0,54,9.7,1486,2023.2,grid_9.7_54.0
+grid_12.3_44.4,grid_12.3_44.4,44.4,12.3,1487,2023.2,grid_12.3_44.4
+grid_12.2_44.0,grid_12.2_44.0,44,12.2,1488,2023.2,grid_12.2_44.0
+grid_20.4_38.9,grid_20.4_38.9,38.9,20.4,1489,2023.2,grid_20.4_38.9
+grid_21.0_38.5,grid_21.0_38.5,38.5,21,1490,2023.2,grid_21.0_38.5
+grid_23.1_37.1,grid_23.1_37.1,37.1,23.1,1491,2023.2,grid_23.1_37.1
+grid_26.7_34.7,grid_26.7_34.7,34.7,26.7,1492,2023.2,grid_26.7_34.7
+grid_28.5_33.5,grid_28.5_33.5,33.5,28.5,1493,2023.2,grid_28.5_33.5
+pt_29.0_33.0,"Zafarana, Egypt",33,29,1494,2023.2,Egypt
+pt_29.9667_32.5333,"Suez, Egypt",32.5333,29.9667,1495,2023.2,Egypt
+pt_31.2625_32.3061,"Port Said, Egypt",32.3061,31.2625,1496,2023.2,Egypt
+grid_36.0_18.9,grid_36.0_18.9,18.9,36,1497,2023.2,grid_36.0_18.9
+pt_44.4072_8.934,"Genoa, Italy",8.934,44.4072,1498,2023.2,Italy
+pt_41.3825_2.1769,"Barcelona, Spain",2.1769,41.3825,1499,2023.2,Spain
+grid_42.6_5.8,grid_42.6_5.8,5.8,42.6,1500,2023.2,grid_42.6_5.8
+pt_-33.3511_18.1496,"Yzerfonstein, South Africa",18.1496,-33.3511,1501,2023.2,South Africa
+grid_-11.7_6.4,grid_-11.7_6.4,6.4,-11.7,1502,2023.2,grid_-11.7_6.4
+grid_-8.1_5.2,grid_-8.1_5.2,5.2,-8.1,1503,2023.2,grid_-8.1_5.2
+pt_38.6872_-9.3342,"Carcavelos, Portugal",-9.3342,38.6872,1504,2023.2,Portugal
+pt_27.9586_-15.5925,"Gran Canaria, nan",-15.5925,27.9586,1505,2023.2,Canary Islands
+pt_14.7319_-17.4572,"Dakar, Senegal",-17.4572,14.7319,1506,2023.2,Senegal
+pt_5.0_-4.0,"Abidjan, Ivory Coast",-4,5,1507,2023.2,Ivory Coast
+pt_5.5461_-0.2067,"Accra, Ghana",-0.2067,5.5461,1508,2023.2,Ghana
+pt_0.3901_9.4544,"Libreville, Gabon",9.4544,0.3901,1509,2023.2,Gabon
+grid_0.7_8.3,grid_0.7_8.3,8.3,0.7,1510,2023.2,grid_0.7_8.3
+pt_-33.9581_25.6,"Gqeberha, South Africa",25.6,-33.9581,1511,2023.2,South Africa
+pt_2.0392_45.3419,"Mogadishu, Somalia",45.3419,2.0392,1512,2023.2,Somalia
+pt_-5.0_55.0,"Carana, nan",55,-5,1513,2023.2,Seychelles
+pt_10.4333_45.0,"Berbera, Somalia",45,10.4333,1514,2023.2,Somalia
+pt_11.599721_43.146057,"Djibouti City, Djibouti",43.146057,11.599721,1515,2023.2,Djibouti
+pt_17.0197_54.0897,"Salalah, Oman",54.0897,17.0197,1516,2023.2,Oman
+pt_19.6158_37.2164,"Port Sudan, Sudan",37.2164,19.6158,1517,2023.2,Sudan
+pt_21.5428_39.1728,"Jeddah, Saudi Arabia",39.1728,21.5428,1518,2023.2,Saudi Arabia
+pt_24.0445_38.4074,"Yanbu, Saudi Arabia",38.4074,24.0445,1519,2023.2,Saudi Arabia
+pt_27.3493_35.6962,"Duba, Saudi Arabia",35.6962,27.3493,1520,2023.2,Saudi Arabia
+pt_28.3597_33.0775,"Ras Ghareb, Egypt",33.0775,28.3597,1521,2023.2,Egypt
+pt_-30.05_30.8833,"Amanzimtoti, South Africa",30.8833,-30.05,1522,2023.2,South Africa
+pt_19.0758_72.8775,"Mumbai, India",72.8775,19.0758,1523,2023.2,India
+grid_15.3_65.0,grid_15.3_65.0,65,15.3,1524,2023.2,grid_15.3_65.0
+pt_-26.0_33.0,"Maputo, Mozambique",33,-26,1525,2023.2,Mozambique
+pt_-15.7167_46.3167,"Mahajanga, Madagascar",46.3167,-15.7167,1526,2023.2,Madagascar
+pt_-14.55_40.6833,"Nacala, Mozambique",40.6833,-14.55,1527,2023.2,Mozambique
+pt_-11.7036_43.2536,"Moroni, nan",43.2536,-11.7036,1528,2023.2,Comoros
+pt_-6.816084_39.0,"Dar Es Salaam, Tanzania",39,-6.8160837,1529,2023.2,Tanzania
+pt_-3.95_39.7444,"Mtwapa, Kenya",39.7444,-3.95,1530,2023.2,Kenya
+pt_-4.05_39.6667,"Mombasa, Kenya",39.6667,-4.05,1531,2023.2,Kenya
+pt_39.25_20.5333,"Tympaki, Greece",20.5333,39.25,1532,2023.2,Greece
+pt_43.2967_5.3764,"Marseille, France",5.3764,43.2967,1533,2023.2,France
+pt_-5.0_12.0,"Pointe-Noire, Republic of Congo",12,-5,1534,2023.2,Republic of Congo
+pt_-8.8383_13.2344,"Luanda, Angola",13.2344,-8.8383,1535,2023.2,Angola
+pt_5.0_8.0,"Kwa Ibo, Nigeria",8,5,1536,2023.2,Nigeria
+pt_29.375_47.98,"Kuwait City, Kuwait",47.98,29.375,1537,2023.2,Kuwait
+grid_29.4_48.1,grid_29.4_48.1,48.1,29.4,1538,2023.2,grid_29.4_48.1
+grid_27.6_51.5,grid_27.6_51.5,51.5,27.6,1539,2023.2,grid_27.6_51.5
+grid_26.8_52.9,grid_26.8_52.9,52.9,26.8,1540,2023.2,grid_26.8_52.9
+grid_26.2_54.5,grid_26.2_54.5,54.5,26.2,1541,2023.2,grid_26.2_54.5
+grid_25.4_56.3,grid_25.4_56.3,56.3,25.4,1542,2023.2,grid_25.4_56.3
+grid_24.3_58.4,grid_24.3_58.4,58.4,24.3,1543,2023.2,grid_24.3_58.4
+grid_20.1_62.5,grid_20.1_62.5,62.5,20.1,1544,2023.2,grid_20.1_62.5
+pt_-5.93_12.35,"Muanda, Democratic Republic of Congo",12.35,-5.93,1545,2023.2,Democratic Republic of Congo
+pt_24.86_67.01,"Karachi, Pakistan",67.01,24.86,1546,2023.2,Pakistan
+pt_23.7092_57.8869,"Barka, Oman",57.8869,23.7092,1547,2023.2,Oman
+pt_25.0513_56.3542,"Kalba, United Arab Emirates",56.3542,25.0513,1548,2023.2,United Arab Emirates
+pt_24.4511_54.3969,"Abu Dhabi, United Arab Emirates",54.3969,24.4511,1549,2023.2,United Arab Emirates
+pt_25.285633_51.526416,"Doha, Qatar",51.526416,25.285633,1550,2023.2,Qatar
+pt_26.225_50.5775,"Manama, nan",50.5775,26.225,1551,2023.2,Bahrain
+pt_26.3_50.2167,"Al Khobar, Saudi Arabia",50.2167,26.3,1552,2023.2,Saudi Arabia
+pt_29.98_48.47,"Al Faw, Iraq",48.47,29.98,1553,2023.2,Iraq
+pt_44.8728_-1.0919,"Le Porge, France",-1.0919,44.8728,1554,2023.32,France
+grid_46.4_-8.3,grid_46.4_-8.3,-8.3,46.4,1555,2023.32,grid_46.4_-8.3
+pt_42.0_-69.0,"Lynn, United States",-69,42,1556,2023.32,United States
+pt_50.824_-4.542,"Bude, Great Britain",-4.542,50.824,1557,2023.32,United Kingdom
+pt_14.6161_-61.1014,"Schoelcher, nan",-61.1014,14.6161,1558,2023.7,Martinique
+pt_22.1456_-80.4364,"Cienfuegos, Cuba",-80.4364,22.1456,1559,2023.7,Cuba
+pt_-6.0_107.0,"Tanjung Pakis, Indonesia",107,-6,1560,2023.9,Indonesia
+grid_7.5_135.3,grid_7.5_135.3,135.3,7.5,1561,2023.9,grid_7.5_135.3
+grid_15.2_143.0,grid_15.2_143.0,143,15.2,1562,2023.9,grid_15.2_143.0
+pt_40.8019_-124.1636,"Eureka, United States",-124.1636,40.8019,1563,2023.9,United States
+pt_13.381459_145.0,"Agat, nan",145,13.381459,1564,2023.9,Guam
+pt_13.4608_144.6908,"Piti, nan",144.6908,13.4608,1565,2023.9,Guam
+pt_8.0_135.0,"Ngeremlengui, nan",135,8,1566,2023.9,Palau
+pt_1.353925_103.974697,"Changi South, Singapore",103.974697,1.353925,1567,2023.9,Singapore
+pt_10.6833_-61.6333,"Chaguaramas, nan",-61.6333,10.6833,1568,2024.4,Trinidad and Tobago
+grid_11.4_-61.0,grid_11.4_-61.0,-61,11.4,1569,2024.4,grid_11.4_-61.0
+grid_10.2_-56.1,grid_10.2_-56.1,-56.1,10.2,1570,2024.4,grid_10.2_-56.1
+grid_9.8_-54.9,grid_9.8_-54.9,-54.9,9.8,1571,2024.4,grid_9.8_-54.9
+pt_4.9386_-52.335,"Cayenne, nan",-52.335,4.9386,1572,2024.4,French Guiana
+pt_5.8667_-55.1667,"Paramaribo, Suriname",-55.1667,5.8667,1573,2024.4,Suriname
+pt_6.8058_-58.1508,"Georgetown, Guyana",-58.1508,6.8058,1574,2024.4,Guyana
+pt_11.0_-61.0,"Rockly Bay, nan",-61,11,1575,2024.4,Trinidad and Tobago
+pt_32.08_34.78,"Tel Aviv, Israel",34.78,32.08,1576,2024.9,Israel
+grid_32.9_31.5,grid_32.9_31.5,31.5,32.9,1577,2024.9,grid_32.9_31.5
+grid_34.8_23.9,grid_34.8_23.9,23.9,34.8,1578,2024.9,grid_34.8_23.9
+grid_35.6_20.5,grid_35.6_20.5,20.5,35.6,1579,2024.9,grid_35.6_20.5
+grid_38.9_14.7,grid_38.9_14.7,14.7,38.9,1580,2024.9,grid_38.9_14.7
+grid_41.3_11.7,grid_41.3_11.7,11.7,41.3,1581,2024.9,grid_41.3_11.7
+grid_41.9_10.8,grid_41.9_10.8,10.8,41.9,1582,2024.9,grid_41.9_10.8
+pt_44.4072_8.934,"Genoa, Italy",8.934,44.4072,1583,2024.9,Italy
+grid_43.8_8.4,grid_43.8_8.4,8.4,43.8,1584,2024.9,grid_43.8_8.4
+pt_43.2967_5.3764,"Marseille, France",5.3764,43.2967,1585,2024.9,France
+pt_29.5322_35.0061,"Aqaba, Jordan",35.0061,29.5322,1586,2024.9,Jordan
+pt_34.7609_32.4484,"Yeroskipos, Cyprus",32.4484,34.7609,1587,2024.9,Cyprus
+pt_35.5167_24.0167,"Chania, Greece",24.0167,35.5167,1588,2024.9,Greece
+grid_34.825_23.8,grid_34.825_23.8,23.8,34.824999999999996,1589,2024.9,grid_34.825_23.8
+pt_32.0_20.0,"Benghazi, Libya",20,32,1590,2024.9,Libya
+grid_33.7_20.0,grid_33.7_20.0,20,33.7,1591,2024.9,grid_33.7_20.0
+pt_38.1157_13.3613,"Palermo, Italy",13.3613,38.1157,1592,2024.9,Italy
+pt_41.8931_12.4828,"Rome, Italy",12.4828,41.8931,1593,2024.9,Italy
+pt_41.0038_9.6149,"Golfo Aranci, Italy",9.6149,41.0038,1594,2024.9,Italy
+pt_42.7_9.4494,"Bastia, France",9.4494,42.7,1595,2024.9,France
+pt_32.7636_22.6361,"Derna, Libya",22.6361,32.7636,1596,2024.9,Libya

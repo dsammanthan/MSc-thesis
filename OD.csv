@@ -1,0 +1,1471 @@
+,Country1,Country2,Start_idx,End_idx,Flow
+0,Albania,Bulgaria,12167,12199,196
+1,Albania,Germany,12167,12247,22
+2,Albania,Greece,12167,12250,447
+3,Albania,Italy,12167,12272,337
+4,Algeria,France,12168,12240,1596
+5,Algeria,Italy,12168,12272,753
+6,Algeria,Netherlands,12168,12319,55
+7,Algeria,Spain,12168,12370,1560
+8,Algeria,United Kingdom,12168,12403,88
+9,Angola,Brazil,12171,12195,219
+10,Angola,Nigeria,12171,12325,11
+11,Angola,Portugal,12171,12343,65
+12,Angola,South Africa,12171,12365,246
+13,Angola,United Kingdom,12171,12403,237
+14,Angola,United States,12171,12404,2
+15,Argentina,Brazil,12175,12195,8837
+16,Argentina,Chile,12175,12209,7645
+17,Argentina,Panama,12175,12336,2
+18,Argentina,United States,12175,12404,8520
+19,Argentina,Uruguay,12175,12405,731
+20,Australia,China,12178,12210,1077
+21,Australia,Fiji,12178,12238,165
+22,Australia,France,12178,12240,22
+23,Australia,Germany,12178,12247,20
+24,Australia,India,12178,12265,20
+25,Australia,Indonesia,12178,12266,235
+26,Australia,Japan,12178,12274,2132
+27,Australia,Netherlands,12178,12319,11
+28,Australia,New Zealand,12178,12322,5009
+29,Australia,Papua New Guinea,12178,12337,71
+30,Australia,Philippines,12178,12340,11
+31,Australia,Samoa,12178,12352,65
+32,Australia,Singapore,12178,12360,6730
+33,Australia,Thailand,12178,12386,11
+34,Australia,United States,12178,12404,16095
+35,Australia,Vietnam,12178,12410,1
+36,Bahamas,United States,12181,12404,191
+37,Bahrain,France,12182,12240,115
+38,Bahrain,Germany,12182,12247,65
+39,Bahrain,India,12182,12265,11
+40,Bahrain,Iraq,12182,12268,1
+41,Bahrain,Jordan,12182,12276,0
+42,Bahrain,Kuwait,12182,12281,171
+43,Bahrain,Netherlands,12182,12319,60
+44,Bahrain,Oman,12182,12332,60
+45,Bahrain,Qatar,12182,12345,136
+46,Bahrain,Saudi Arabia,12182,12355,829
+47,Bahrain,Singapore,12182,12360,44
+48,Bahrain,United Arab Emirates,12182,12402,660
+49,Bahrain,United Kingdom,12182,12403,71
+50,Bahrain,United States,12182,12404,173
+51,Bangladesh,China,12183,12210,22
+52,Bangladesh,France,12183,12240,447
+53,Bangladesh,Germany,12183,12247,22
+54,Bangladesh,India,12183,12265,974
+55,Bangladesh,Italy,12183,12272,11
+56,Bangladesh,Netherlands,12183,12319,11
+57,Bangladesh,Singapore,12183,12360,2603
+58,Bangladesh,United Kingdom,12183,12403,46
+59,Bangladesh,United States,12183,12404,7
+60,Barbados,Jamaica,12184,12273,87
+61,Barbados,United States,12184,12404,87
+62,Belgium,Finland,12186,12239,55400
+63,Belgium,France,12186,12240,59597
+64,Belgium,Germany,12186,12247,1893
+65,Belgium,Ireland,12186,12269,20800
+66,Belgium,Netherlands,12186,12319,12177
+67,Belgium,United Kingdom,12186,12403,2468
+68,Belgium,United States,12186,12404,40122
+69,Belize,Guatemala,12187,12255,12
+70,Belize,Mexico,12187,12305,19
+71,Belize,United States,12187,12404,55
+72,Benin,Ivory Coast,12188,12219,0
+73,Benin,France,12188,12240,75
+74,Benin,Gabon,12188,12244,11
+75,Benin,Ghana,12188,12248,0
+76,Benin,Nigeria,12188,12325,0
+77,Benin,Spain,12188,12370,11
+78,Benin,United Kingdom,12188,12403,82
+79,Brazil,Angola,12195,12171,219
+80,Brazil,Argentina,12195,12175,8837
+81,Brazil,Chile,12195,12209,1004
+82,Brazil,Colombia,12195,12213,272
+83,Brazil,France,12195,12240,11
+84,Brazil,Germany,12195,12247,111
+85,Brazil,Netherlands,12195,12319,22
+86,Brazil,Panama,12195,12336,200
+87,Brazil,Peru,12195,12339,1745
+88,Brazil,Portugal,12195,12343,242
+89,Brazil,South Africa,12195,12365,101
+90,Brazil,Spain,12195,12370,122
+91,Brazil,United Kingdom,12195,12403,1
+92,Brazil,United States,12195,12404,60652
+93,Brazil,Uruguay,12195,12405,437
+94,Brazil,Venezuela,12195,12409,2
+95,Brunei,China,12198,12210,109
+96,Brunei,Malaysia,12198,12296,22
+97,Brunei,Singapore,12198,12360,86
+98,Bulgaria,Albania,12199,12167,196
+99,Bulgaria,Croatia,12199,12220,131
+100,Bulgaria,Cyprus,12199,12223,11
+101,Bulgaria,France,12199,12240,109
+102,Bulgaria,Georgia,12199,12246,1658
+103,Bulgaria,Germany,12199,12247,10731
+104,Bulgaria,Greece,12199,12250,2505
+105,Bulgaria,Iraq,12199,12268,791
+106,Bulgaria,Italy,12199,12272,1209
+107,Bulgaria,Jordan,12199,12276,131
+108,Bulgaria,Netherlands,12199,12319,473
+109,Bulgaria,Romania,12199,12347,4258
+110,Bulgaria,Singapore,12199,12360,55
+111,Bulgaria,Spain,12199,12370,218
+112,Bulgaria,Turkey,12199,12395,10079
+113,Bulgaria,Ukraine,12199,12401,305
+114,Bulgaria,United Arab Emirates,12199,12402,22
+115,Cambodia,China,12202,12210,1015
+116,Cambodia,Germany,12202,12247,1
+117,Cambodia,Malaysia,12202,12296,60
+118,Cambodia,Netherlands,12202,12319,1
+119,Cambodia,Singapore,12202,12360,602
+120,Cambodia,Taiwan,12202,12383,1
+121,Cambodia,Thailand,12202,12386,45
+122,Cambodia,United Kingdom,12202,12403,1
+123,Cambodia,United States,12202,12404,11
+124,Cambodia,Vietnam,12202,12410,68
+125,Cameroon,France,12203,12240,93
+126,Cameroon,Netherlands,12203,12319,15
+127,Cameroon,Nigeria,12203,12325,33
+128,Cameroon,Portugal,12203,12343,43
+129,Cameroon,United Kingdom,12203,12403,199
+130,Canada,China,12204,12210,100
+131,Canada,Comoros,12204,12214,0
+132,Canada,Cuba,12204,12221,0
+133,Canada,Equatorial Guinea,12204,12232,1
+134,Canada,Indonesia,12204,12266,11
+135,Canada,Ireland,12204,12269,6153
+136,Canada,Netherlands,12204,12319,318
+137,Canada,United Kingdom,12204,12403,558
+138,Canada,United States,12204,12404,40941
+139,Cape Verde,Portugal,12205,12343,22
+140,Chile,Argentina,12209,12175,7645
+141,Chile,Brazil,12209,12195,1004
+142,Chile,Colombia,12209,12213,557
+143,Chile,Panama,12209,12336,733
+144,Chile,Peru,12209,12339,3344
+145,Chile,United States,12209,12404,16774
+146,China,Australia,12210,12178,1077
+147,China,Bangladesh,12210,12183,22
+148,China,Brunei,12210,12198,109
+149,China,Cambodia,12210,12202,1015
+150,China,Canada,12210,12204,100
+151,China,Djibouti,12210,12226,3
+152,China,France,12210,12240,2131
+153,China,Germany,12210,12247,2487
+154,China,Greece,12210,12250,11
+155,China,India,12210,12265,546
+156,China,Indonesia,12210,12266,1900
+157,China,Israel,12210,12271,44
+158,China,Italy,12210,12272,109
+159,China,Japan,12210,12274,50272
+160,China,Malaysia,12210,12296,2480
+161,China,Maldives,12210,12297,11
+162,China,Netherlands,12210,12319,253
+163,China,New Zealand,12210,12322,22
+164,China,Papua New Guinea,12210,12337,11
+165,China,Philippines,12210,12340,3565
+166,China,Russia,12210,12348,1214
+167,China,Saudi Arabia,12210,12355,109
+168,China,Singapore,12210,12360,63534
+169,China,South Africa,12210,12365,45
+170,China,South Korea,12210,12367,6906
+171,China,Sri Lanka,12210,12371,33
+172,China,Taiwan,12210,12383,17691
+173,China,Thailand,12210,12386,3017
+174,China,United Arab Emirates,12210,12402,55
+175,China,United Kingdom,12210,12403,1711
+176,China,United States,12210,12404,56335
+177,China,Vietnam,12210,12410,15214
+178,Colombia,Brazil,12213,12195,272
+179,Colombia,Chile,12213,12209,557
+180,Colombia,Costa Rica,12213,12218,44
+181,Colombia,Cuba,12213,12221,2
+182,Colombia,Ecuador,12213,12229,1862
+183,Colombia,Panama,12213,12336,834
+184,Colombia,Peru,12213,12339,654
+185,Colombia,United States,12213,12404,11986
+186,Colombia,Venezuela,12213,12409,291
+187,Comoros,Canada,12214,12204,0
+188,Comoros,Djibouti,12214,12226,1
+189,Comoros,France,12214,12240,5
+190,Comoros,Kenya,12214,12278,3
+191,Comoros,United Kingdom,12214,12403,5
+192,Costa Rica,Colombia,12218,12213,44
+193,Costa Rica,Guatemala,12218,12255,164
+194,Costa Rica,Honduras,12218,12261,109
+195,Costa Rica,Mexico,12218,12305,11
+196,Costa Rica,Nicaragua,12218,12323,65
+197,Costa Rica,Panama,12218,12336,377
+198,Costa Rica,United States,12218,12404,993
+199,Ivory Coast,Benin,12219,12188,0
+200,Ivory Coast,France,12219,12240,436
+201,Ivory Coast,Ghana,12219,12248,16
+202,Ivory Coast,Guinea,12219,12257,33
+203,Ivory Coast,Liberia,12219,12287,11
+204,Ivory Coast,Nigeria,12219,12325,46
+205,Ivory Coast,Portugal,12219,12343,22
+206,Ivory Coast,Senegal,12219,12356,5
+207,Ivory Coast,Sierra Leone,12219,12359,5
+208,Ivory Coast,South Africa,12219,12365,11
+209,Ivory Coast,United Kingdom,12219,12403,389
+210,Croatia,Bulgaria,12220,12199,131
+211,Croatia,Germany,12220,12247,1726
+212,Croatia,Lithuania,12220,12290,11
+213,Cuba,Canada,12221,12204,0
+214,Cuba,Colombia,12221,12213,2
+215,Cuba,Jamaica,12221,12273,3
+216,Cuba,Panama,12221,12336,4
+217,Cuba,United States,12221,12404,3
+218,Cuba,Venezuela,12221,12409,3
+219,Cyprus,Bulgaria,12223,12199,11
+220,Cyprus,France,12223,12240,567
+221,Cyprus,Germany,12223,12247,328
+222,Cyprus,Greece,12223,12250,110
+223,Cyprus,Israel,12223,12271,2
+224,Cyprus,Italy,12223,12272,109
+225,Cyprus,Netherlands,12223,12319,33
+226,Cyprus,Russia,12223,12348,11
+227,Cyprus,South Africa,12223,12365,11
+228,Cyprus,Syria,12223,12382,55
+229,Cyprus,United Arab Emirates,12223,12402,11
+230,Cyprus,United Kingdom,12223,12403,87
+231,Denmark,Finland,12225,12239,840
+232,Denmark,Germany,12225,12247,80743
+233,Denmark,Iceland,12225,12264,119
+234,Denmark,Ireland,12225,12269,20000
+235,Denmark,Netherlands,12225,12319,56065
+236,Denmark,Norway,12225,12331,4802
+237,Denmark,Singapore,12225,12360,10
+238,Denmark,Sweden,12225,12380,81709
+239,Denmark,United Kingdom,12225,12403,328
+240,Denmark,United States,12225,12404,103978
+241,Djibouti,China,12226,12210,3
+242,Djibouti,Comoros,12226,12214,1
+243,Djibouti,France,12226,12240,902
+244,Djibouti,Greece,12226,12250,7
+245,Djibouti,Italy,12226,12272,22
+246,Djibouti,Kenya,12226,12278,387
+247,Djibouti,Mauritius,12226,12303,16
+248,Djibouti,Mozambique,12226,12313,13
+249,Djibouti,Oman,12226,12332,76
+250,Djibouti,Qatar,12226,12345,0
+251,Djibouti,Saudi Arabia,12226,12355,15
+252,Djibouti,Singapore,12226,12360,47
+253,Djibouti,Somalia,12226,12364,208
+254,Djibouti,South Africa,12226,12365,11
+255,Djibouti,Tanzania,12226,12385,58
+256,Djibouti,United Arab Emirates,12226,12402,45
+257,Djibouti,United Kingdom,12226,12403,33
+258,Djibouti,Yemen,12226,12413,16
+259,Dominican Republic,Haiti,12228,12260,11
+260,Dominican Republic,Trinidad and Tobago,12228,12392,1
+261,Dominican Republic,United States,12228,12404,1757
+262,Ecuador,Colombia,12229,12213,1862
+263,Ecuador,Panama,12229,12336,287
+264,Ecuador,Peru,12229,12339,535
+265,Ecuador,United States,12229,12404,2522
+266,Egypt,France,12230,12240,8710
+267,Egypt,Germany,12230,12247,33
+268,Egypt,Greece,12230,12250,2
+269,Egypt,Italy,12230,12272,2705
+270,Egypt,Netherlands,12230,12319,12
+271,Egypt,Singapore,12230,12360,2
+272,Egypt,Sudan,12230,12376,22
+273,Egypt,United Arab Emirates,12230,12402,0
+274,Egypt,United Kingdom,12230,12403,819
+275,Equatorial Guinea,Canada,12232,12204,1
+276,Equatorial Guinea,France,12232,12240,11
+277,Equatorial Guinea,Ghana,12232,12248,0
+278,Equatorial Guinea,Portugal,12232,12343,31
+279,Equatorial Guinea,South Africa,12232,12365,11
+280,Equatorial Guinea,United Kingdom,12232,12403,1
+281,Equatorial Guinea,United States,12232,12404,11
+282,Estonia,Finland,12234,12239,1478
+283,Estonia,Germany,12234,12247,40
+284,Estonia,Latvia,12234,12284,564
+285,Estonia,Lithuania,12234,12290,87
+286,Estonia,Russia,12234,12348,98
+287,Estonia,Sweden,12234,12380,960
+288,Fiji,Australia,12238,12178,165
+289,Fiji,New Zealand,12238,12322,12
+290,Fiji,Samoa,12238,12352,7
+291,Fiji,United States,12238,12404,116
+292,Finland,Belgium,12239,12186,55400
+293,Finland,Denmark,12239,12225,840
+294,Finland,Estonia,12239,12234,1478
+295,Finland,Germany,12239,12247,4601
+296,Finland,Latvia,12239,12284,764
+297,Finland,Netherlands,12239,12319,29418
+298,Finland,Norway,12239,12331,11
+299,Finland,Poland,12239,12342,109
+300,Finland,Russia,12239,12348,6103
+301,Finland,Sweden,12239,12380,13563
+302,France,Algeria,12240,12168,1596
+303,France,Australia,12240,12178,22
+304,France,Bahrain,12240,12182,115
+305,France,Bangladesh,12240,12183,447
+306,France,Belgium,12240,12186,59597
+307,France,Benin,12240,12188,75
+308,France,Brazil,12240,12195,11
+309,France,Bulgaria,12240,12199,109
+310,France,Cameroon,12240,12203,93
+311,France,China,12240,12210,2131
+312,France,Comoros,12240,12214,5
+313,France,Ivory Coast,12240,12219,436
+314,France,Cyprus,12240,12223,567
+315,France,Djibouti,12240,12226,902
+316,France,Egypt,12240,12230,8710
+317,France,Equatorial Guinea,12240,12232,11
+318,France,Gabon,12240,12244,22
+319,France,Gambia,12240,12245,45
+320,France,Germany,12240,12247,180405
+321,France,Greece,12240,12250,1100
+322,France,Guinea,12240,12257,28
+323,France,Guinea Bissau,12240,12258,7
+324,France,India,12240,12265,29841
+325,France,Indonesia,12240,12266,469
+326,France,Iran,12240,12267,687
+327,France,Ireland,12240,12269,22610
+328,France,Israel,12240,12271,420
+329,France,Italy,12240,12272,88812
+330,France,Jordan,12240,12276,578
+331,France,Kenya,12240,12278,1297
+332,France,Kuwait,12240,12281,274
+333,France,Lebanon,12240,12285,446
+334,France,Liberia,12240,12287,27
+335,France,Libya,12240,12288,164
+336,France,Madagascar,12240,12294,38
+337,France,Malaysia,12240,12296,120
+338,France,Mauritania,12240,12302,33
+339,France,Mauritius,12240,12303,65
+340,France,Morocco,12240,12312,2400
+341,France,Mozambique,12240,12313,4
+342,France,Netherlands,12240,12319,59536
+343,France,Nigeria,12240,12325,131
+344,France,Oman,12240,12332,3993
+345,France,Pakistan,12240,12333,2162
+346,France,Philippines,12240,12340,12
+347,France,Portugal,12240,12343,1107
+348,France,Qatar,12240,12345,479
+349,France,Russia,12240,12348,33
+350,France,Saudi Arabia,12240,12355,4079
+351,France,Senegal,12240,12356,305
+352,France,Seychelles,12240,12358,9
+353,France,Sierra Leone,12240,12359,33
+354,France,Singapore,12240,12360,6958
+355,France,South Africa,12240,12365,3231
+356,France,Spain,12240,12370,134866
+357,France,Sri Lanka,12240,12371,164
+358,France,Sudan,12240,12376,55
+359,France,Sweden,12240,12380,211
+360,France,Syria,12240,12382,65
+361,France,Tanzania,12240,12385,22
+362,France,Thailand,12240,12386,143
+363,France,Tunisia,12240,12394,578
+364,France,Turkey,12240,12395,1528
+365,France,United Arab Emirates,12240,12402,4679
+366,France,United Kingdom,12240,12403,136666
+367,France,United States,12240,12404,97517
+368,France,Vietnam,12240,12410,44
+369,France,Yemen,12240,12413,49
+370,Gabon,Benin,12244,12188,11
+371,Gabon,France,12244,12240,22
+372,Gabon,Germany,12244,12247,11
+373,Gabon,Morocco,12244,12312,7
+374,Gabon,Netherlands,12244,12319,5
+375,Gabon,Nigeria,12244,12325,22
+376,Gabon,Portugal,12244,12343,47
+377,Gabon,South Africa,12244,12365,22
+378,Gabon,United Kingdom,12244,12403,25
+379,Gambia,France,12245,12240,45
+380,Gambia,Germany,12245,12247,7
+381,Gambia,Portugal,12245,12343,56
+382,Gambia,Senegal,12245,12356,22
+383,Gambia,United Kingdom,12245,12403,0
+384,Georgia,Bulgaria,12246,12199,1658
+385,Georgia,Germany,12246,12247,505
+386,Georgia,Russia,12246,12348,98
+387,Georgia,Turkey,12246,12395,120
+388,Germany,Albania,12247,12167,22
+389,Germany,Australia,12247,12178,20
+390,Germany,Bahrain,12247,12182,65
+391,Germany,Bangladesh,12247,12183,22
+392,Germany,Belgium,12247,12186,1893
+393,Germany,Brazil,12247,12195,111
+394,Germany,Bulgaria,12247,12199,10731
+395,Germany,Cambodia,12247,12202,1
+396,Germany,China,12247,12210,2487
+397,Germany,Croatia,12247,12220,1726
+398,Germany,Cyprus,12247,12223,328
+399,Germany,Denmark,12247,12225,80743
+400,Germany,Egypt,12247,12230,33
+401,Germany,Estonia,12247,12234,40
+402,Germany,Finland,12247,12239,4601
+403,Germany,France,12247,12240,180405
+404,Germany,Gabon,12247,12244,11
+405,Germany,Gambia,12247,12245,7
+406,Germany,Georgia,12247,12246,505
+407,Germany,Greece,12247,12250,2122
+408,Germany,Iceland,12247,12264,1
+409,Germany,India,12247,12265,2517
+410,Germany,Indonesia,12247,12266,470
+411,Germany,Iran,12247,12267,1310
+412,Germany,Iraq,12247,12268,1811
+413,Germany,Israel,12247,12271,1125
+414,Germany,Italy,12247,12272,15769
+415,Germany,Japan,12247,12274,39
+416,Germany,Jordan,12247,12276,371
+417,Germany,Kenya,12247,12278,112
+418,Germany,Kuwait,12247,12281,38
+419,Germany,Latvia,12247,12284,109
+420,Germany,Libya,12247,12288,55
+421,Germany,Lithuania,12247,12290,513
+422,Germany,Malaysia,12247,12296,34
+423,Germany,Malta,12247,12299,11
+424,Germany,Morocco,12247,12312,1309
+425,Germany,Namibia,12247,12316,11
+426,Germany,Netherlands,12247,12319,152566
+427,Germany,Nigeria,12247,12325,12
+428,Germany,Norway,12247,12331,1494
+429,Germany,Oman,12247,12332,164
+430,Germany,Pakistan,12247,12333,338
+431,Germany,Philippines,12247,12340,24
+432,Germany,Poland,12247,12342,25873
+433,Germany,Portugal,12247,12343,219
+434,Germany,Qatar,12247,12345,351
+435,Germany,Romania,12247,12347,6346
+436,Germany,Russia,12247,12348,27680
+437,Germany,Saudi Arabia,12247,12355,1096
+438,Germany,Seychelles,12247,12358,1
+439,Germany,Singapore,12247,12360,1740
+440,Germany,South Africa,12247,12365,404
+441,Germany,South Korea,12247,12367,45
+442,Germany,Spain,12247,12370,1235
+443,Germany,Sri Lanka,12247,12371,33
+444,Germany,Sweden,12247,12380,125303
+445,Germany,Taiwan,12247,12383,0
+446,Germany,Thailand,12247,12386,67
+447,Germany,Tunisia,12247,12394,76
+448,Germany,Turkey,12247,12395,19668
+449,Germany,Ukraine,12247,12401,7695
+450,Germany,United Arab Emirates,12247,12402,1017
+451,Germany,United Kingdom,12247,12403,179267
+452,Germany,United States,12247,12404,2467
+453,Germany,Vietnam,12247,12410,56
+454,Ghana,Benin,12248,12188,0
+455,Ghana,Ivory Coast,12248,12219,16
+456,Ghana,Equatorial Guinea,12248,12232,0
+457,Ghana,Guinea,12248,12257,4
+458,Ghana,Liberia,12248,12287,4
+459,Ghana,Nigeria,12248,12325,346
+460,Ghana,Portugal,12248,12343,100
+461,Ghana,Senegal,12248,12356,22
+462,Ghana,Sierra Leone,12248,12359,22
+463,Ghana,South Africa,12248,12365,27
+464,Ghana,Spain,12248,12370,11
+465,Ghana,Togo,12248,12388,328
+466,Ghana,United Kingdom,12248,12403,983
+467,Ghana,United States,12248,12404,11
+468,Greece,Albania,12250,12167,447
+469,Greece,Bulgaria,12250,12199,2505
+470,Greece,China,12250,12210,11
+471,Greece,Cyprus,12250,12223,110
+472,Greece,Djibouti,12250,12226,7
+473,Greece,Egypt,12250,12230,2
+474,Greece,France,12250,12240,1100
+475,Greece,Germany,12250,12247,2122
+476,Greece,Italy,12250,12272,1325
+477,Greece,Libya,12250,12288,76
+478,Greece,Netherlands,12250,12319,458
+479,Greece,Oman,12250,12332,22
+480,Greece,Qatar,12250,12345,1
+481,Greece,Spain,12250,12370,109
+482,Greece,Turkey,12250,12395,164
+483,Greece,United Arab Emirates,12250,12402,2
+484,Greece,United Kingdom,12250,12403,788
+485,Grenada,United States,12252,12404,8
+486,Guatemala,Belize,12255,12187,12
+487,Guatemala,Costa Rica,12255,12218,164
+488,Guatemala,Honduras,12255,12261,87
+489,Guatemala,Mexico,12255,12305,109
+490,Guatemala,Nicaragua,12255,12323,104
+491,Guatemala,Panama,12255,12336,13
+492,Guatemala,Peru,12255,12339,251
+493,Guatemala,United States,12255,12404,1115
+494,Guinea,Ivory Coast,12257,12219,33
+495,Guinea,France,12257,12240,28
+496,Guinea,Ghana,12257,12248,4
+497,Guinea,Portugal,12257,12343,22
+498,Guinea,Senegal,12257,12356,22
+499,Guinea,United Kingdom,12257,12403,12
+500,Guinea Bissau,France,12258,12240,7
+501,Guinea Bissau,Portugal,12258,12343,3
+502,Guinea Bissau,United Kingdom,12258,12403,3
+503,Guyana,Trinidad and Tobago,12259,12392,2
+504,Guyana,United States,12259,12404,21
+505,Haiti,Dominican Republic,12260,12228,11
+506,Haiti,Jamaica,12260,12273,3
+507,Haiti,United States,12260,12404,55
+508,Honduras,Costa Rica,12261,12218,109
+509,Honduras,Guatemala,12261,12255,87
+510,Honduras,Nicaragua,12261,12323,11
+511,Honduras,Panama,12261,12336,3
+512,Honduras,United States,12261,12404,589
+513,Iceland,Denmark,12264,12225,119
+514,Iceland,Germany,12264,12247,1
+515,Iceland,Netherlands,12264,12319,305
+516,Iceland,United Kingdom,12264,12403,795
+517,Iceland,United States,12264,12404,11
+518,India,Australia,12265,12178,20
+519,India,Bahrain,12265,12182,11
+520,India,Bangladesh,12265,12183,974
+521,India,China,12265,12210,546
+522,India,France,12265,12240,29841
+523,India,Germany,12265,12247,2517
+524,India,Italy,12265,12272,3655
+525,India,Kuwait,12265,12281,22
+526,India,Malaysia,12265,12296,400
+527,India,Maldives,12265,12297,15
+528,India,Mauritius,12265,12303,11
+529,India,Netherlands,12265,12319,332
+530,India,Oman,12265,12332,44
+531,India,Saudi Arabia,12265,12355,5
+532,India,Singapore,12265,12360,35918
+533,India,South Africa,12265,12365,11
+534,India,Spain,12265,12370,3
+535,India,Sri Lanka,12265,12371,132
+536,India,Thailand,12265,12386,140
+537,India,United Arab Emirates,12265,12402,667
+538,India,United Kingdom,12265,12403,5371
+539,India,United States,12265,12404,1404
+540,Indonesia,Australia,12266,12178,235
+541,Indonesia,Canada,12266,12204,11
+542,Indonesia,China,12266,12210,1900
+543,Indonesia,France,12266,12240,469
+544,Indonesia,Germany,12266,12247,470
+545,Indonesia,Japan,12266,12274,65
+546,Indonesia,Netherlands,12266,12319,79
+547,Indonesia,Singapore,12266,12360,35134
+548,Indonesia,South Korea,12266,12367,37
+549,Indonesia,Taiwan,12266,12383,1
+550,Indonesia,United Kingdom,12266,12403,25
+551,Indonesia,United States,12266,12404,928
+552,Iran,France,12267,12240,687
+553,Iran,Germany,12267,12247,1310
+554,Iran,Italy,12267,12272,371
+555,Iran,Oman,12267,12332,1091
+556,Iran,Qatar,12267,12345,436
+557,Iran,Turkey,12267,12395,873
+558,Iran,United Arab Emirates,12267,12402,109
+559,Iran,United Kingdom,12267,12403,164
+560,Iraq,Bahrain,12268,12182,1
+561,Iraq,Bulgaria,12268,12199,791
+562,Iraq,Germany,12268,12247,1811
+563,Iraq,Italy,12268,12272,10
+564,Iraq,Jordan,12268,12276,11
+565,Iraq,Netherlands,12268,12319,147
+566,Iraq,Qatar,12268,12345,20
+567,Iraq,Turkey,12268,12395,491
+568,Iraq,United Arab Emirates,12268,12402,34
+569,Iraq,United Kingdom,12268,12403,368
+570,Ireland,Belgium,12269,12186,20800
+571,Ireland,Canada,12269,12204,6153
+572,Ireland,Denmark,12269,12225,20000
+573,Ireland,France,12269,12240,22610
+574,Ireland,Italy,12269,12272,11
+575,Ireland,Netherlands,12269,12319,8651
+576,Ireland,United Kingdom,12269,12403,115907
+577,Ireland,United States,12269,12404,72246
+578,Israel,China,12271,12210,44
+579,Israel,Cyprus,12271,12223,2
+580,Israel,France,12271,12240,420
+581,Israel,Germany,12271,12247,1125
+582,Israel,Italy,12271,12272,853
+583,Israel,Jordan,12271,12276,0
+584,Israel,Netherlands,12271,12319,447
+585,Israel,Singapore,12271,12360,11
+586,Israel,United Kingdom,12271,12403,1094
+587,Israel,United States,12271,12404,55
+588,Italy,Albania,12272,12167,337
+589,Italy,Algeria,12272,12168,753
+590,Italy,Bangladesh,12272,12183,11
+591,Italy,Bulgaria,12272,12199,1209
+592,Italy,China,12272,12210,109
+593,Italy,Cyprus,12272,12223,109
+594,Italy,Djibouti,12272,12226,22
+595,Italy,Egypt,12272,12230,2705
+596,Italy,France,12272,12240,88812
+597,Italy,Germany,12272,12247,15769
+598,Italy,Greece,12272,12250,1325
+599,Italy,India,12272,12265,3655
+600,Italy,Iran,12272,12267,371
+601,Italy,Iraq,12272,12268,10
+602,Italy,Ireland,12272,12269,11
+603,Italy,Israel,12272,12271,853
+604,Italy,Jordan,12272,12276,31
+605,Italy,Kuwait,12272,12281,22
+606,Italy,Lebanon,12272,12285,436
+607,Italy,Libya,12272,12288,109
+608,Italy,Malta,12272,12299,1954
+609,Italy,Netherlands,12272,12319,2267
+610,Italy,Pakistan,12272,12333,873
+611,Italy,Poland,12272,12342,100
+612,Italy,Romania,12272,12347,55
+613,Italy,Saudi Arabia,12272,12355,2149
+614,Italy,Senegal,12272,12356,11
+615,Italy,Singapore,12272,12360,976
+616,Italy,Spain,12272,12370,487
+617,Italy,Sudan,12272,12376,55
+618,Italy,Syria,12272,12382,87
+619,Italy,Tunisia,12272,12394,545
+620,Italy,Turkey,12272,12395,2609
+621,Italy,United Arab Emirates,12272,12402,993
+622,Italy,United Kingdom,12272,12403,1516
+623,Italy,United States,12272,12404,527
+624,Italy,Yemen,12272,12413,16
+625,Jamaica,Barbados,12273,12184,87
+626,Jamaica,Cuba,12273,12221,3
+627,Jamaica,Haiti,12273,12260,3
+628,Jamaica,Trinidad and Tobago,12273,12392,22
+629,Jamaica,United States,12273,12404,316
+630,Japan,Australia,12274,12178,2132
+631,Japan,China,12274,12210,50272
+632,Japan,Germany,12274,12247,39
+633,Japan,Indonesia,12274,12266,65
+634,Japan,Malaysia,12274,12296,229
+635,Japan,Netherlands,12274,12319,222
+636,Japan,New Zealand,12274,12322,50
+637,Japan,Philippines,12274,12340,2562
+638,Japan,Russia,12274,12348,338
+639,Japan,Singapore,12274,12360,47608
+640,Japan,South Korea,12274,12367,15267
+641,Japan,Sri Lanka,12274,12371,1
+642,Japan,Taiwan,12274,12383,16864
+643,Japan,Thailand,12274,12386,98
+644,Japan,United Kingdom,12274,12403,98
+645,Japan,United States,12274,12404,121302
+646,Japan,Vietnam,12274,12410,442
+647,Jordan,Bahrain,12276,12182,0
+648,Jordan,Bulgaria,12276,12199,131
+649,Jordan,France,12276,12240,578
+650,Jordan,Germany,12276,12247,371
+651,Jordan,Iraq,12276,12268,11
+652,Jordan,Israel,12276,12271,0
+653,Jordan,Italy,12276,12272,31
+654,Jordan,Netherlands,12276,12319,76
+655,Jordan,Saudi Arabia,12276,12355,0
+656,Jordan,Syria,12276,12382,44
+657,Jordan,United Arab Emirates,12276,12402,11
+658,Jordan,United Kingdom,12276,12403,230
+659,Kenya,Comoros,12278,12214,3
+660,Kenya,Djibouti,12278,12226,387
+661,Kenya,France,12278,12240,1297
+662,Kenya,Germany,12278,12247,112
+663,Kenya,Mauritius,12278,12303,11
+664,Kenya,Mozambique,12278,12313,0
+665,Kenya,Netherlands,12278,12319,10
+666,Kenya,Seychelles,12278,12358,2
+667,Kenya,Somalia,12278,12364,11
+668,Kenya,South Africa,12278,12365,1275
+669,Kenya,Tanzania,12278,12385,215
+670,Kenya,United Arab Emirates,12278,12402,337
+671,Kenya,United Kingdom,12278,12403,324
+672,Kuwait,Bahrain,12281,12182,171
+673,Kuwait,France,12281,12240,274
+674,Kuwait,Germany,12281,12247,38
+675,Kuwait,India,12281,12265,22
+676,Kuwait,Italy,12281,12272,22
+677,Kuwait,Netherlands,12281,12319,153
+678,Kuwait,Oman,12281,12332,33
+679,Kuwait,Qatar,12281,12345,33
+680,Kuwait,Saudi Arabia,12281,12355,567
+681,Kuwait,Singapore,12281,12360,44
+682,Kuwait,United Arab Emirates,12281,12402,213
+683,Kuwait,United Kingdom,12281,12403,79
+684,Kuwait,United States,12281,12404,173
+685,Latvia,Estonia,12284,12234,564
+686,Latvia,Finland,12284,12239,764
+687,Latvia,Germany,12284,12247,109
+688,Latvia,Lithuania,12284,12290,891
+689,Latvia,Poland,12284,12342,884
+690,Latvia,Russia,12284,12348,938
+691,Latvia,Sweden,12284,12380,1833
+692,Latvia,Ukraine,12284,12401,33
+693,Lebanon,France,12285,12240,446
+694,Lebanon,Italy,12285,12272,436
+695,Lebanon,United Kingdom,12285,12403,5
+696,Lebanon,United States,12285,12404,0
+697,Liberia,Ivory Coast,12287,12219,11
+698,Liberia,France,12287,12240,27
+699,Liberia,Ghana,12287,12248,4
+700,Liberia,Portugal,12287,12343,7
+701,Liberia,Sierra Leone,12287,12359,2
+702,Liberia,United Kingdom,12287,12403,18
+703,Libya,France,12288,12240,164
+704,Libya,Germany,12288,12247,55
+705,Libya,Greece,12288,12250,76
+706,Libya,Italy,12288,12272,109
+707,Lithuania,Croatia,12290,12220,11
+708,Lithuania,Estonia,12290,12234,87
+709,Lithuania,Germany,12290,12247,513
+710,Lithuania,Latvia,12290,12284,891
+711,Lithuania,Netherlands,12290,12319,11
+712,Lithuania,Poland,12290,12342,695
+713,Lithuania,Romania,12290,12347,44
+714,Lithuania,Russia,12290,12348,65
+715,Lithuania,Sweden,12290,12380,416
+716,Lithuania,Ukraine,12290,12401,33
+717,Madagascar,France,12294,12240,38
+718,Madagascar,South Africa,12294,12365,11
+719,Madagascar,United Kingdom,12294,12403,33
+720,Malaysia,Brunei,12296,12198,22
+721,Malaysia,Cambodia,12296,12202,60
+722,Malaysia,China,12296,12210,2480
+723,Malaysia,France,12296,12240,120
+724,Malaysia,Germany,12296,12247,34
+725,Malaysia,India,12296,12265,400
+726,Malaysia,Japan,12296,12274,229
+727,Malaysia,Netherlands,12296,12319,22
+728,Malaysia,Romania,12296,12347,11
+729,Malaysia,Singapore,12296,12360,13999
+730,Malaysia,South Korea,12296,12367,11
+731,Malaysia,Taiwan,12296,12383,34
+732,Malaysia,Thailand,12296,12386,5896
+733,Malaysia,United Arab Emirates,12296,12402,33
+734,Malaysia,United Kingdom,12296,12403,67
+735,Malaysia,United States,12296,12404,218
+736,Maldives,China,12297,12210,11
+737,Maldives,India,12297,12265,15
+738,Maldives,Singapore,12297,12360,33
+739,Maldives,Sri Lanka,12297,12371,44
+740,Maldives,United Kingdom,12297,12403,11
+741,Malta,Germany,12299,12247,11
+742,Malta,Italy,12299,12272,1954
+743,Mauritania,France,12302,12240,33
+744,Mauritania,Morocco,12302,12312,14
+745,Mauritania,Portugal,12302,12343,11
+746,Mauritania,Senegal,12302,12356,11
+747,Mauritania,Spain,12302,12370,76
+748,Mauritania,United Kingdom,12302,12403,22
+749,Mauritius,Djibouti,12303,12226,16
+750,Mauritius,France,12303,12240,65
+751,Mauritius,India,12303,12265,11
+752,Mauritius,Kenya,12303,12278,11
+753,Mauritius,Netherlands,12303,12319,1
+754,Mauritius,Singapore,12303,12360,14
+755,Mauritius,South Africa,12303,12365,132
+756,Mauritius,United Kingdom,12303,12403,60
+757,Mexico,Belize,12305,12187,19
+758,Mexico,Costa Rica,12305,12218,11
+759,Mexico,Guatemala,12305,12255,109
+760,Mexico,Panama,12305,12336,82
+761,Mexico,United States,12305,12404,41623
+762,Morocco,France,12312,12240,2400
+763,Morocco,Gabon,12312,12244,7
+764,Morocco,Germany,12312,12247,1309
+765,Morocco,Mauritania,12312,12302,14
+766,Morocco,Spain,12312,12370,1613
+767,Morocco,United Kingdom,12312,12403,1
+768,Mozambique,Djibouti,12313,12226,13
+769,Mozambique,France,12313,12240,4
+770,Mozambique,Kenya,12313,12278,0
+771,Mozambique,South Africa,12313,12365,222
+772,Mozambique,Tanzania,12313,12385,101
+773,Mozambique,United Kingdom,12313,12403,45
+774,Namibia,Germany,12316,12247,11
+775,Namibia,Portugal,12316,12343,11
+776,Namibia,South Africa,12316,12365,140
+777,Namibia,United Kingdom,12316,12403,49
+778,Netherlands,Algeria,12319,12168,55
+779,Netherlands,Australia,12319,12178,11
+780,Netherlands,Bahrain,12319,12182,60
+781,Netherlands,Bangladesh,12319,12183,11
+782,Netherlands,Belgium,12319,12186,12177
+783,Netherlands,Brazil,12319,12195,22
+784,Netherlands,Bulgaria,12319,12199,473
+785,Netherlands,Cambodia,12319,12202,1
+786,Netherlands,Cameroon,12319,12203,15
+787,Netherlands,Canada,12319,12204,318
+788,Netherlands,China,12319,12210,253
+789,Netherlands,Cyprus,12319,12223,33
+790,Netherlands,Denmark,12319,12225,56065
+791,Netherlands,Egypt,12319,12230,12
+792,Netherlands,Finland,12319,12239,29418
+793,Netherlands,France,12319,12240,59536
+794,Netherlands,Gabon,12319,12244,5
+795,Netherlands,Germany,12319,12247,152566
+796,Netherlands,Greece,12319,12250,458
+797,Netherlands,Iceland,12319,12264,305
+798,Netherlands,India,12319,12265,332
+799,Netherlands,Indonesia,12319,12266,79
+800,Netherlands,Iraq,12319,12268,147
+801,Netherlands,Ireland,12319,12269,8651
+802,Netherlands,Israel,12319,12271,447
+803,Netherlands,Italy,12319,12272,2267
+804,Netherlands,Japan,12319,12274,222
+805,Netherlands,Jordan,12319,12276,76
+806,Netherlands,Kenya,12319,12278,10
+807,Netherlands,Kuwait,12319,12281,153
+808,Netherlands,Lithuania,12319,12290,11
+809,Netherlands,Malaysia,12319,12296,22
+810,Netherlands,Mauritius,12319,12303,1
+811,Netherlands,Norway,12319,12331,530
+812,Netherlands,Oman,12319,12332,110
+813,Netherlands,Pakistan,12319,12333,218
+814,Netherlands,Philippines,12319,12340,34
+815,Netherlands,Poland,12319,12342,2360
+816,Netherlands,Portugal,12319,12343,109
+817,Netherlands,Qatar,12319,12345,44
+818,Netherlands,Romania,12319,12347,524
+819,Netherlands,Russia,12319,12348,7292
+820,Netherlands,Saudi Arabia,12319,12355,1616
+821,Netherlands,Singapore,12319,12360,132
+822,Netherlands,South Africa,12319,12365,237
+823,Netherlands,Spain,12319,12370,917
+824,Netherlands,Sri Lanka,12319,12371,11
+825,Netherlands,Sudan,12319,12376,11
+826,Netherlands,Sweden,12319,12380,12585
+827,Netherlands,Taiwan,12319,12383,10
+828,Netherlands,Tanzania,12319,12385,10
+829,Netherlands,Thailand,12319,12386,55
+830,Netherlands,Turkey,12319,12395,5018
+831,Netherlands,Ukraine,12319,12401,632
+832,Netherlands,United Arab Emirates,12319,12402,557
+833,Netherlands,United Kingdom,12319,12403,126845
+834,Netherlands,United States,12319,12404,27364
+835,Netherlands,Vietnam,12319,12410,33
+836,New Zealand,Australia,12322,12178,5009
+837,New Zealand,China,12322,12210,22
+838,New Zealand,Fiji,12322,12238,12
+839,New Zealand,Japan,12322,12274,50
+840,New Zealand,Singapore,12322,12360,22
+841,New Zealand,United States,12322,12404,1846
+842,Nicaragua,Costa Rica,12323,12218,65
+843,Nicaragua,Guatemala,12323,12255,104
+844,Nicaragua,Honduras,12323,12261,11
+845,Nicaragua,Panama,12323,12336,50
+846,Nicaragua,United States,12323,12404,229
+847,Nigeria,Angola,12325,12171,11
+848,Nigeria,Benin,12325,12188,0
+849,Nigeria,Cameroon,12325,12203,33
+850,Nigeria,Ivory Coast,12325,12219,46
+851,Nigeria,France,12325,12240,131
+852,Nigeria,Gabon,12325,12244,22
+853,Nigeria,Germany,12325,12247,12
+854,Nigeria,Ghana,12325,12248,346
+855,Nigeria,Portugal,12325,12343,76
+856,Nigeria,Sierra Leone,12325,12359,0
+857,Nigeria,South Africa,12325,12365,318
+858,Nigeria,Spain,12325,12370,44
+859,Nigeria,United Kingdom,12325,12403,3725
+860,Nigeria,United States,12325,12404,11
+861,Norway,Denmark,12331,12225,4802
+862,Norway,Finland,12331,12239,11
+863,Norway,Germany,12331,12247,1494
+864,Norway,Netherlands,12331,12319,530
+865,Norway,Sweden,12331,12380,10166
+866,Norway,United Kingdom,12331,12403,465
+867,Oman,Bahrain,12332,12182,60
+868,Oman,Djibouti,12332,12226,76
+869,Oman,France,12332,12240,3993
+870,Oman,Germany,12332,12247,164
+871,Oman,Greece,12332,12250,22
+872,Oman,India,12332,12265,44
+873,Oman,Iran,12332,12267,1091
+874,Oman,Kuwait,12332,12281,33
+875,Oman,Netherlands,12332,12319,110
+876,Oman,Pakistan,12332,12333,1265
+877,Oman,Qatar,12332,12345,229
+878,Oman,Singapore,12332,12360,208
+879,Oman,Somalia,12332,12364,65
+880,Oman,United Arab Emirates,12332,12402,76
+881,Oman,United Kingdom,12332,12403,44
+882,Oman,United States,12332,12404,22
+883,Oman,Yemen,12332,12413,164
+884,Pakistan,France,12333,12240,2162
+885,Pakistan,Germany,12333,12247,338
+886,Pakistan,Italy,12333,12272,873
+887,Pakistan,Netherlands,12333,12319,218
+888,Pakistan,Oman,12333,12332,1265
+889,Pakistan,Singapore,12333,12360,1519
+890,Pakistan,United Arab Emirates,12333,12402,142
+891,Pakistan,United Kingdom,12333,12403,46
+892,Panama,Argentina,12336,12175,2
+893,Panama,Brazil,12336,12195,200
+894,Panama,Chile,12336,12209,733
+895,Panama,Colombia,12336,12213,834
+896,Panama,Costa Rica,12336,12218,377
+897,Panama,Cuba,12336,12221,4
+898,Panama,Ecuador,12336,12229,287
+899,Panama,Guatemala,12336,12255,13
+900,Panama,Honduras,12336,12261,3
+901,Panama,Mexico,12336,12305,82
+902,Panama,Nicaragua,12336,12323,50
+903,Panama,Peru,12336,12339,1233
+904,Panama,United States,12336,12404,4022
+905,Panama,Venezuela,12336,12409,142
+906,Papua New Guinea,Australia,12337,12178,71
+907,Papua New Guinea,China,12337,12210,11
+908,Peru,Brazil,12339,12195,1745
+909,Peru,Chile,12339,12209,3344
+910,Peru,Colombia,12339,12213,654
+911,Peru,Ecuador,12339,12229,535
+912,Peru,Guatemala,12339,12255,251
+913,Peru,Panama,12339,12336,1233
+914,Peru,United States,12339,12404,4783
+915,Philippines,Australia,12340,12178,11
+916,Philippines,China,12340,12210,3565
+917,Philippines,France,12340,12240,12
+918,Philippines,Germany,12340,12247,24
+919,Philippines,Japan,12340,12274,2562
+920,Philippines,Netherlands,12340,12319,34
+921,Philippines,Singapore,12340,12360,5915
+922,Philippines,South Korea,12340,12367,5
+923,Philippines,Sweden,12340,12380,1
+924,Philippines,Taiwan,12340,12383,35
+925,Philippines,United Kingdom,12340,12403,13
+926,Philippines,United States,12340,12404,4286
+927,Poland,Finland,12342,12239,109
+928,Poland,Germany,12342,12247,25873
+929,Poland,Italy,12342,12272,100
+930,Poland,Latvia,12342,12284,884
+931,Poland,Lithuania,12342,12290,695
+932,Poland,Netherlands,12342,12319,2360
+933,Poland,Russia,12342,12348,2694
+934,Poland,Sweden,12342,12380,500
+935,Poland,Ukraine,12342,12401,2756
+936,Poland,United Kingdom,12342,12403,197
+937,Portugal,Angola,12343,12171,65
+938,Portugal,Brazil,12343,12195,242
+939,Portugal,Cameroon,12343,12203,43
+940,Portugal,Cape Verde,12343,12205,22
+941,Portugal,Ivory Coast,12343,12219,22
+942,Portugal,Equatorial Guinea,12343,12232,31
+943,Portugal,France,12343,12240,1107
+944,Portugal,Gabon,12343,12244,47
+945,Portugal,Gambia,12343,12245,56
+946,Portugal,Germany,12343,12247,219
+947,Portugal,Ghana,12343,12248,100
+948,Portugal,Guinea,12343,12257,22
+949,Portugal,Guinea Bissau,12343,12258,3
+950,Portugal,Liberia,12343,12287,7
+951,Portugal,Mauritania,12343,12302,11
+952,Portugal,Namibia,12343,12316,11
+953,Portugal,Netherlands,12343,12319,109
+954,Portugal,Nigeria,12343,12325,76
+955,Portugal,Senegal,12343,12356,425
+956,Portugal,Sierra Leone,12343,12359,52
+957,Portugal,South Africa,12343,12365,22
+958,Portugal,Spain,12343,12370,13764
+959,Portugal,Togo,12343,12388,33
+960,Portugal,United Kingdom,12343,12403,3384
+961,Portugal,United States,12343,12404,98
+962,Qatar,Bahrain,12345,12182,136
+963,Qatar,Djibouti,12345,12226,0
+964,Qatar,France,12345,12240,479
+965,Qatar,Germany,12345,12247,351
+966,Qatar,Greece,12345,12250,1
+967,Qatar,Iran,12345,12267,436
+968,Qatar,Iraq,12345,12268,20
+969,Qatar,Kuwait,12345,12281,33
+970,Qatar,Netherlands,12345,12319,44
+971,Qatar,Oman,12345,12332,229
+972,Qatar,Saudi Arabia,12345,12355,11
+973,Qatar,Singapore,12345,12360,644
+974,Qatar,United Arab Emirates,12345,12402,287
+975,Qatar,United Kingdom,12345,12403,242
+976,Qatar,United States,12345,12404,22
+977,Romania,Bulgaria,12347,12199,4258
+978,Romania,Germany,12347,12247,6346
+979,Romania,Italy,12347,12272,55
+980,Romania,Lithuania,12347,12290,44
+981,Romania,Malaysia,12347,12296,11
+982,Romania,Netherlands,12347,12319,524
+983,Romania,Spain,12347,12370,436
+984,Romania,Turkey,12347,12395,1767
+985,Romania,Ukraine,12347,12401,993
+986,Romania,United Kingdom,12347,12403,480
+987,Russia,China,12348,12210,1214
+988,Russia,Cyprus,12348,12223,11
+989,Russia,Estonia,12348,12234,98
+990,Russia,Finland,12348,12239,6103
+991,Russia,France,12348,12240,33
+992,Russia,Georgia,12348,12246,98
+993,Russia,Germany,12348,12247,27680
+994,Russia,Japan,12348,12274,338
+995,Russia,Latvia,12348,12284,938
+996,Russia,Lithuania,12348,12290,65
+997,Russia,Netherlands,12348,12319,7292
+998,Russia,Poland,12348,12342,2694
+999,Russia,Sweden,12348,12380,11133
+1000,Russia,Ukraine,12348,12401,721
+1001,Russia,United Kingdom,12348,12403,154
+1002,Russia,United States,12348,12404,109
+1003,Samoa,Australia,12352,12178,65
+1004,Samoa,Fiji,12352,12238,7
+1005,Saudi Arabia,Bahrain,12355,12182,829
+1006,Saudi Arabia,China,12355,12210,109
+1007,Saudi Arabia,Djibouti,12355,12226,15
+1008,Saudi Arabia,France,12355,12240,4079
+1009,Saudi Arabia,Germany,12355,12247,1096
+1010,Saudi Arabia,India,12355,12265,5
+1011,Saudi Arabia,Italy,12355,12272,2149
+1012,Saudi Arabia,Jordan,12355,12276,0
+1013,Saudi Arabia,Kuwait,12355,12281,567
+1014,Saudi Arabia,Netherlands,12355,12319,1616
+1015,Saudi Arabia,Qatar,12355,12345,11
+1016,Saudi Arabia,Singapore,12355,12360,1509
+1017,Saudi Arabia,Sudan,12355,12376,65
+1018,Saudi Arabia,Taiwan,12355,12383,0
+1019,Saudi Arabia,United Arab Emirates,12355,12402,551
+1020,Saudi Arabia,United Kingdom,12355,12403,1450
+1021,Saudi Arabia,United States,12355,12404,164
+1022,Saudi Arabia,Yemen,12355,12413,8
+1023,Senegal,Ivory Coast,12356,12219,5
+1024,Senegal,France,12356,12240,305
+1025,Senegal,Gambia,12356,12245,22
+1026,Senegal,Ghana,12356,12248,22
+1027,Senegal,Guinea,12356,12257,22
+1028,Senegal,Italy,12356,12272,11
+1029,Senegal,Mauritania,12356,12302,11
+1030,Senegal,Portugal,12356,12343,425
+1031,Senegal,Sierra Leone,12356,12359,5
+1032,Senegal,Spain,12356,12370,55
+1033,Senegal,United Kingdom,12356,12403,147
+1034,Seychelles,France,12358,12240,9
+1035,Seychelles,Germany,12358,12247,1
+1036,Seychelles,Kenya,12358,12278,2
+1037,Seychelles,Tanzania,12358,12385,1
+1038,Seychelles,United Kingdom,12358,12403,23
+1039,Sierra Leone,Ivory Coast,12359,12219,5
+1040,Sierra Leone,France,12359,12240,33
+1041,Sierra Leone,Ghana,12359,12248,22
+1042,Sierra Leone,Liberia,12359,12287,2
+1043,Sierra Leone,Nigeria,12359,12325,0
+1044,Sierra Leone,Portugal,12359,12343,52
+1045,Sierra Leone,Senegal,12359,12356,5
+1046,Sierra Leone,South Africa,12359,12365,22
+1047,Sierra Leone,United Kingdom,12359,12403,16
+1048,Singapore,Australia,12360,12178,6730
+1049,Singapore,Bahrain,12360,12182,44
+1050,Singapore,Bangladesh,12360,12183,2603
+1051,Singapore,Brunei,12360,12198,86
+1052,Singapore,Bulgaria,12360,12199,55
+1053,Singapore,Cambodia,12360,12202,602
+1054,Singapore,China,12360,12210,63534
+1055,Singapore,Denmark,12360,12225,10
+1056,Singapore,Djibouti,12360,12226,47
+1057,Singapore,Egypt,12360,12230,2
+1058,Singapore,France,12360,12240,6958
+1059,Singapore,Germany,12360,12247,1740
+1060,Singapore,India,12360,12265,35918
+1061,Singapore,Indonesia,12360,12266,35134
+1062,Singapore,Israel,12360,12271,11
+1063,Singapore,Italy,12360,12272,976
+1064,Singapore,Japan,12360,12274,47608
+1065,Singapore,Kuwait,12360,12281,44
+1066,Singapore,Malaysia,12360,12296,13999
+1067,Singapore,Maldives,12360,12297,33
+1068,Singapore,Mauritius,12360,12303,14
+1069,Singapore,Netherlands,12360,12319,132
+1070,Singapore,New Zealand,12360,12322,22
+1071,Singapore,Oman,12360,12332,208
+1072,Singapore,Pakistan,12360,12333,1519
+1073,Singapore,Philippines,12360,12340,5915
+1074,Singapore,Qatar,12360,12345,644
+1075,Singapore,Saudi Arabia,12360,12355,1509
+1076,Singapore,South Africa,12360,12365,131
+1077,Singapore,South Korea,12360,12367,308
+1078,Singapore,Sri Lanka,12360,12371,759
+1079,Singapore,Sudan,12360,12376,11
+1080,Singapore,Taiwan,12360,12383,14618
+1081,Singapore,Thailand,12360,12386,12353
+1082,Singapore,Turkey,12360,12395,22
+1083,Singapore,United Arab Emirates,12360,12402,1122
+1084,Singapore,United Kingdom,12360,12403,1334
+1085,Singapore,United States,12360,12404,55680
+1086,Singapore,Vietnam,12360,12410,7796
+1087,Somalia,Djibouti,12364,12226,208
+1088,Somalia,Kenya,12364,12278,11
+1089,Somalia,Oman,12364,12332,65
+1090,Somalia,Tanzania,12364,12385,0
+1091,Somalia,United Kingdom,12364,12403,131
+1092,South Africa,Angola,12365,12171,246
+1093,South Africa,Brazil,12365,12195,101
+1094,South Africa,China,12365,12210,45
+1095,South Africa,Ivory Coast,12365,12219,11
+1096,South Africa,Cyprus,12365,12223,11
+1097,South Africa,Djibouti,12365,12226,11
+1098,South Africa,Equatorial Guinea,12365,12232,11
+1099,South Africa,France,12365,12240,3231
+1100,South Africa,Gabon,12365,12244,22
+1101,South Africa,Germany,12365,12247,404
+1102,South Africa,Ghana,12365,12248,27
+1103,South Africa,India,12365,12265,11
+1104,South Africa,Kenya,12365,12278,1275
+1105,South Africa,Madagascar,12365,12294,11
+1106,South Africa,Mauritius,12365,12303,132
+1107,South Africa,Mozambique,12365,12313,222
+1108,South Africa,Namibia,12365,12316,140
+1109,South Africa,Netherlands,12365,12319,237
+1110,South Africa,Nigeria,12365,12325,318
+1111,South Africa,Portugal,12365,12343,22
+1112,South Africa,Sierra Leone,12365,12359,22
+1113,South Africa,Singapore,12365,12360,131
+1114,South Africa,Spain,12365,12370,22
+1115,South Africa,Tanzania,12365,12385,25
+1116,South Africa,United Arab Emirates,12365,12402,11
+1117,South Africa,United Kingdom,12365,12403,5917
+1118,South Africa,United States,12365,12404,120
+1119,South Korea,China,12367,12210,6906
+1120,South Korea,Germany,12367,12247,45
+1121,South Korea,Indonesia,12367,12266,37
+1122,South Korea,Japan,12367,12274,15267
+1123,South Korea,Malaysia,12367,12296,11
+1124,South Korea,Philippines,12367,12340,5
+1125,South Korea,Singapore,12367,12360,308
+1126,South Korea,Taiwan,12367,12383,128
+1127,South Korea,United Kingdom,12367,12403,1
+1128,South Korea,United States,12367,12404,5425
+1129,South Korea,Vietnam,12367,12410,115
+1130,Spain,Algeria,12370,12168,1560
+1131,Spain,Benin,12370,12188,11
+1132,Spain,Brazil,12370,12195,122
+1133,Spain,Bulgaria,12370,12199,218
+1134,Spain,France,12370,12240,134866
+1135,Spain,Germany,12370,12247,1235
+1136,Spain,Ghana,12370,12248,11
+1137,Spain,Greece,12370,12250,109
+1138,Spain,India,12370,12265,3
+1139,Spain,Italy,12370,12272,487
+1140,Spain,Mauritania,12370,12302,76
+1141,Spain,Morocco,12370,12312,1613
+1142,Spain,Netherlands,12370,12319,917
+1143,Spain,Nigeria,12370,12325,44
+1144,Spain,Portugal,12370,12343,13764
+1145,Spain,Romania,12370,12347,436
+1146,Spain,Senegal,12370,12356,55
+1147,Spain,South Africa,12370,12365,22
+1148,Spain,Turkey,12370,12395,436
+1149,Spain,United Kingdom,12370,12403,3417
+1150,Spain,United States,12370,12404,87550
+1151,Sri Lanka,China,12371,12210,33
+1152,Sri Lanka,France,12371,12240,164
+1153,Sri Lanka,Germany,12371,12247,33
+1154,Sri Lanka,India,12371,12265,132
+1155,Sri Lanka,Japan,12371,12274,1
+1156,Sri Lanka,Maldives,12371,12297,44
+1157,Sri Lanka,Netherlands,12371,12319,11
+1158,Sri Lanka,Singapore,12371,12360,759
+1159,Sri Lanka,United Arab Emirates,12371,12402,24
+1160,Sri Lanka,United Kingdom,12371,12403,1
+1161,Sri Lanka,United States,12371,12404,23
+1162,Sudan,Egypt,12376,12230,22
+1163,Sudan,France,12376,12240,55
+1164,Sudan,Italy,12376,12272,55
+1165,Sudan,Netherlands,12376,12319,11
+1166,Sudan,Saudi Arabia,12376,12355,65
+1167,Sudan,Singapore,12376,12360,11
+1168,Sudan,United Arab Emirates,12376,12402,33
+1169,Sudan,United Kingdom,12376,12403,65
+1170,Suriname,United States,12377,12404,16
+1171,Sweden,Denmark,12380,12225,81709
+1172,Sweden,Estonia,12380,12234,960
+1173,Sweden,Finland,12380,12239,13563
+1174,Sweden,France,12380,12240,211
+1175,Sweden,Germany,12380,12247,125303
+1176,Sweden,Latvia,12380,12284,1833
+1177,Sweden,Lithuania,12380,12290,416
+1178,Sweden,Netherlands,12380,12319,12585
+1179,Sweden,Norway,12380,12331,10166
+1180,Sweden,Philippines,12380,12340,1
+1181,Sweden,Poland,12380,12342,500
+1182,Sweden,Russia,12380,12348,11133
+1183,Sweden,Ukraine,12380,12401,11
+1184,Sweden,United Kingdom,12380,12403,742
+1185,Sweden,United States,12380,12404,100
+1186,Syria,Cyprus,12382,12223,55
+1187,Syria,France,12382,12240,65
+1188,Syria,Italy,12382,12272,87
+1189,Syria,Jordan,12382,12276,44
+1190,Syria,United Kingdom,12382,12403,33
+1191,Taiwan,Cambodia,12383,12202,1
+1192,Taiwan,China,12383,12210,17691
+1193,Taiwan,Germany,12383,12247,0
+1194,Taiwan,Indonesia,12383,12266,1
+1195,Taiwan,Japan,12383,12274,16864
+1196,Taiwan,Malaysia,12383,12296,34
+1197,Taiwan,Netherlands,12383,12319,10
+1198,Taiwan,Philippines,12383,12340,35
+1199,Taiwan,Saudi Arabia,12383,12355,0
+1200,Taiwan,Singapore,12383,12360,14618
+1201,Taiwan,South Korea,12383,12367,128
+1202,Taiwan,Thailand,12383,12386,11
+1203,Taiwan,United Kingdom,12383,12403,113
+1204,Taiwan,United States,12383,12404,11812
+1205,Taiwan,Vietnam,12383,12410,2
+1206,Tanzania,Djibouti,12385,12226,58
+1207,Tanzania,France,12385,12240,22
+1208,Tanzania,Kenya,12385,12278,215
+1209,Tanzania,Mozambique,12385,12313,101
+1210,Tanzania,Netherlands,12385,12319,10
+1211,Tanzania,Seychelles,12385,12358,1
+1212,Tanzania,Somalia,12385,12364,0
+1213,Tanzania,South Africa,12385,12365,25
+1214,Tanzania,United Kingdom,12385,12403,254
+1215,Thailand,Australia,12386,12178,11
+1216,Thailand,Cambodia,12386,12202,45
+1217,Thailand,China,12386,12210,3017
+1218,Thailand,France,12386,12240,143
+1219,Thailand,Germany,12386,12247,67
+1220,Thailand,India,12386,12265,140
+1221,Thailand,Japan,12386,12274,98
+1222,Thailand,Malaysia,12386,12296,5896
+1223,Thailand,Netherlands,12386,12319,55
+1224,Thailand,Singapore,12386,12360,12353
+1225,Thailand,Taiwan,12386,12383,11
+1226,Thailand,United Kingdom,12386,12403,100
+1227,Thailand,United States,12386,12404,356
+1228,Togo,Ghana,12388,12248,328
+1229,Togo,Portugal,12388,12343,33
+1230,Togo,United Kingdom,12388,12403,11
+1231,Trinidad and Tobago,Dominican Republic,12392,12228,1
+1232,Trinidad and Tobago,Guyana,12392,12259,2
+1233,Trinidad and Tobago,Jamaica,12392,12273,22
+1234,Trinidad and Tobago,United States,12392,12404,145
+1235,Tunisia,France,12394,12240,578
+1236,Tunisia,Germany,12394,12247,76
+1237,Tunisia,Italy,12394,12272,545
+1238,Tunisia,United Kingdom,12394,12403,67
+1239,Turkey,Bulgaria,12395,12199,10079
+1240,Turkey,France,12395,12240,1528
+1241,Turkey,Georgia,12395,12246,120
+1242,Turkey,Germany,12395,12247,19668
+1243,Turkey,Greece,12395,12250,164
+1244,Turkey,Iran,12395,12267,873
+1245,Turkey,Iraq,12395,12268,491
+1246,Turkey,Italy,12395,12272,2609
+1247,Turkey,Netherlands,12395,12319,5018
+1248,Turkey,Romania,12395,12347,1767
+1249,Turkey,Singapore,12395,12360,22
+1250,Turkey,Spain,12395,12370,436
+1251,Turkey,United Arab Emirates,12395,12402,22
+1252,Turkey,United Kingdom,12395,12403,1309
+1253,Ukraine,Bulgaria,12401,12199,305
+1254,Ukraine,Germany,12401,12247,7695
+1255,Ukraine,Latvia,12401,12284,33
+1256,Ukraine,Lithuania,12401,12290,33
+1257,Ukraine,Netherlands,12401,12319,632
+1258,Ukraine,Poland,12401,12342,2756
+1259,Ukraine,Romania,12401,12347,993
+1260,Ukraine,Russia,12401,12348,721
+1261,Ukraine,Sweden,12401,12380,11
+1262,United Arab Emirates,Bahrain,12402,12182,660
+1263,United Arab Emirates,Bulgaria,12402,12199,22
+1264,United Arab Emirates,China,12402,12210,55
+1265,United Arab Emirates,Cyprus,12402,12223,11
+1266,United Arab Emirates,Djibouti,12402,12226,45
+1267,United Arab Emirates,Egypt,12402,12230,0
+1268,United Arab Emirates,France,12402,12240,4679
+1269,United Arab Emirates,Germany,12402,12247,1017
+1270,United Arab Emirates,Greece,12402,12250,2
+1271,United Arab Emirates,India,12402,12265,667
+1272,United Arab Emirates,Iran,12402,12267,109
+1273,United Arab Emirates,Iraq,12402,12268,34
+1274,United Arab Emirates,Italy,12402,12272,993
+1275,United Arab Emirates,Jordan,12402,12276,11
+1276,United Arab Emirates,Kenya,12402,12278,337
+1277,United Arab Emirates,Kuwait,12402,12281,213
+1278,United Arab Emirates,Malaysia,12402,12296,33
+1279,United Arab Emirates,Netherlands,12402,12319,557
+1280,United Arab Emirates,Oman,12402,12332,76
+1281,United Arab Emirates,Pakistan,12402,12333,142
+1282,United Arab Emirates,Qatar,12402,12345,287
+1283,United Arab Emirates,Saudi Arabia,12402,12355,551
+1284,United Arab Emirates,Singapore,12402,12360,1122
+1285,United Arab Emirates,South Africa,12402,12365,11
+1286,United Arab Emirates,Sri Lanka,12402,12371,24
+1287,United Arab Emirates,Sudan,12402,12376,33
+1288,United Arab Emirates,Turkey,12402,12395,22
+1289,United Arab Emirates,United Kingdom,12402,12403,295
+1290,United Arab Emirates,United States,12402,12404,131
+1291,United Arab Emirates,Yemen,12402,12413,38
+1292,United Kingdom,Algeria,12403,12168,88
+1293,United Kingdom,Angola,12403,12171,237
+1294,United Kingdom,Bahrain,12403,12182,71
+1295,United Kingdom,Bangladesh,12403,12183,46
+1296,United Kingdom,Belgium,12403,12186,2468
+1297,United Kingdom,Benin,12403,12188,82
+1298,United Kingdom,Brazil,12403,12195,1
+1299,United Kingdom,Cambodia,12403,12202,1
+1300,United Kingdom,Cameroon,12403,12203,199
+1301,United Kingdom,Canada,12403,12204,558
+1302,United Kingdom,China,12403,12210,1711
+1303,United Kingdom,Comoros,12403,12214,5
+1304,United Kingdom,Ivory Coast,12403,12219,389
+1305,United Kingdom,Cyprus,12403,12223,87
+1306,United Kingdom,Denmark,12403,12225,328
+1307,United Kingdom,Djibouti,12403,12226,33
+1308,United Kingdom,Egypt,12403,12230,819
+1309,United Kingdom,Equatorial Guinea,12403,12232,1
+1310,United Kingdom,France,12403,12240,136666
+1311,United Kingdom,Gabon,12403,12244,25
+1312,United Kingdom,Gambia,12403,12245,0
+1313,United Kingdom,Germany,12403,12247,179267
+1314,United Kingdom,Ghana,12403,12248,983
+1315,United Kingdom,Greece,12403,12250,788
+1316,United Kingdom,Guinea,12403,12257,12
+1317,United Kingdom,Guinea Bissau,12403,12258,3
+1318,United Kingdom,Iceland,12403,12264,795
+1319,United Kingdom,India,12403,12265,5371
+1320,United Kingdom,Indonesia,12403,12266,25
+1321,United Kingdom,Iran,12403,12267,164
+1322,United Kingdom,Iraq,12403,12268,368
+1323,United Kingdom,Ireland,12403,12269,115907
+1324,United Kingdom,Israel,12403,12271,1094
+1325,United Kingdom,Italy,12403,12272,1516
+1326,United Kingdom,Japan,12403,12274,98
+1327,United Kingdom,Jordan,12403,12276,230
+1328,United Kingdom,Kenya,12403,12278,324
+1329,United Kingdom,Kuwait,12403,12281,79
+1330,United Kingdom,Lebanon,12403,12285,5
+1331,United Kingdom,Liberia,12403,12287,18
+1332,United Kingdom,Madagascar,12403,12294,33
+1333,United Kingdom,Malaysia,12403,12296,67
+1334,United Kingdom,Maldives,12403,12297,11
+1335,United Kingdom,Mauritania,12403,12302,22
+1336,United Kingdom,Mauritius,12403,12303,60
+1337,United Kingdom,Morocco,12403,12312,1
+1338,United Kingdom,Mozambique,12403,12313,45
+1339,United Kingdom,Namibia,12403,12316,49
+1340,United Kingdom,Netherlands,12403,12319,126845
+1341,United Kingdom,Nigeria,12403,12325,3725
+1342,United Kingdom,Norway,12403,12331,465
+1343,United Kingdom,Oman,12403,12332,44
+1344,United Kingdom,Pakistan,12403,12333,46
+1345,United Kingdom,Philippines,12403,12340,13
+1346,United Kingdom,Poland,12403,12342,197
+1347,United Kingdom,Portugal,12403,12343,3384
+1348,United Kingdom,Qatar,12403,12345,242
+1349,United Kingdom,Romania,12403,12347,480
+1350,United Kingdom,Russia,12403,12348,154
+1351,United Kingdom,Saudi Arabia,12403,12355,1450
+1352,United Kingdom,Senegal,12403,12356,147
+1353,United Kingdom,Seychelles,12403,12358,23
+1354,United Kingdom,Sierra Leone,12403,12359,16
+1355,United Kingdom,Singapore,12403,12360,1334
+1356,United Kingdom,Somalia,12403,12364,131
+1357,United Kingdom,South Africa,12403,12365,5917
+1358,United Kingdom,South Korea,12403,12367,1
+1359,United Kingdom,Spain,12403,12370,3417
+1360,United Kingdom,Sri Lanka,12403,12371,1
+1361,United Kingdom,Sudan,12403,12376,65
+1362,United Kingdom,Sweden,12403,12380,742
+1363,United Kingdom,Syria,12403,12382,33
+1364,United Kingdom,Taiwan,12403,12383,113
+1365,United Kingdom,Tanzania,12403,12385,254
+1366,United Kingdom,Thailand,12403,12386,100
+1367,United Kingdom,Togo,12403,12388,11
+1368,United Kingdom,Tunisia,12403,12394,67
+1369,United Kingdom,Turkey,12403,12395,1309
+1370,United Kingdom,United Arab Emirates,12403,12402,295
+1371,United Kingdom,United States,12403,12404,130120
+1372,United Kingdom,Vietnam,12403,12410,22
+1373,United Kingdom,Yemen,12403,12413,33
+1374,United States,Angola,12404,12171,2
+1375,United States,Argentina,12404,12175,8520
+1376,United States,Australia,12404,12178,16095
+1377,United States,Bahamas,12404,12181,191
+1378,United States,Bahrain,12404,12182,173
+1379,United States,Bangladesh,12404,12183,7
+1380,United States,Barbados,12404,12184,87
+1381,United States,Belgium,12404,12186,40122
+1382,United States,Belize,12404,12187,55
+1383,United States,Brazil,12404,12195,60652
+1384,United States,Cambodia,12404,12202,11
+1385,United States,Canada,12404,12204,40941
+1386,United States,Chile,12404,12209,16774
+1387,United States,China,12404,12210,56335
+1388,United States,Colombia,12404,12213,11986
+1389,United States,Costa Rica,12404,12218,993
+1390,United States,Cuba,12404,12221,3
+1391,United States,Denmark,12404,12225,103978
+1392,United States,Dominican Republic,12404,12228,1757
+1393,United States,Ecuador,12404,12229,2522
+1394,United States,Equatorial Guinea,12404,12232,11
+1395,United States,Fiji,12404,12238,116
+1396,United States,France,12404,12240,97517
+1397,United States,Germany,12404,12247,2467
+1398,United States,Ghana,12404,12248,11
+1399,United States,Grenada,12404,12252,8
+1400,United States,Guatemala,12404,12255,1115
+1401,United States,Guyana,12404,12259,21
+1402,United States,Haiti,12404,12260,55
+1403,United States,Honduras,12404,12261,589
+1404,United States,Iceland,12404,12264,11
+1405,United States,India,12404,12265,1404
+1406,United States,Indonesia,12404,12266,928
+1407,United States,Ireland,12404,12269,72246
+1408,United States,Israel,12404,12271,55
+1409,United States,Italy,12404,12272,527
+1410,United States,Jamaica,12404,12273,316
+1411,United States,Japan,12404,12274,121302
+1412,United States,Kuwait,12404,12281,173
+1413,United States,Lebanon,12404,12285,0
+1414,United States,Malaysia,12404,12296,218
+1415,United States,Mexico,12404,12305,41623
+1416,United States,Netherlands,12404,12319,27364
+1417,United States,New Zealand,12404,12322,1846
+1418,United States,Nicaragua,12404,12323,229
+1419,United States,Nigeria,12404,12325,11
+1420,United States,Oman,12404,12332,22
+1421,United States,Panama,12404,12336,4022
+1422,United States,Peru,12404,12339,4783
+1423,United States,Philippines,12404,12340,4286
+1424,United States,Portugal,12404,12343,98
+1425,United States,Qatar,12404,12345,22
+1426,United States,Russia,12404,12348,109
+1427,United States,Saudi Arabia,12404,12355,164
+1428,United States,Singapore,12404,12360,55680
+1429,United States,South Africa,12404,12365,120
+1430,United States,South Korea,12404,12367,5425
+1431,United States,Spain,12404,12370,87550
+1432,United States,Sri Lanka,12404,12371,23
+1433,United States,Suriname,12404,12377,16
+1434,United States,Sweden,12404,12380,100
+1435,United States,Taiwan,12404,12383,11812
+1436,United States,Thailand,12404,12386,356
+1437,United States,Trinidad and Tobago,12404,12392,145
+1438,United States,United Arab Emirates,12404,12402,131
+1439,United States,United Kingdom,12404,12403,130120
+1440,United States,Uruguay,12404,12405,436
+1441,United States,Venezuela,12404,12409,1683
+1442,United States,Vietnam,12404,12410,2400
+1443,Uruguay,Argentina,12405,12175,731
+1444,Uruguay,Brazil,12405,12195,437
+1445,Uruguay,United States,12405,12404,436
+1446,Venezuela,Brazil,12409,12195,2
+1447,Venezuela,Colombia,12409,12213,291
+1448,Venezuela,Cuba,12409,12221,3
+1449,Venezuela,Panama,12409,12336,142
+1450,Venezuela,United States,12409,12404,1683
+1451,Vietnam,Australia,12410,12178,1
+1452,Vietnam,Cambodia,12410,12202,68
+1453,Vietnam,China,12410,12210,15214
+1454,Vietnam,France,12410,12240,44
+1455,Vietnam,Germany,12410,12247,56
+1456,Vietnam,Japan,12410,12274,442
+1457,Vietnam,Netherlands,12410,12319,33
+1458,Vietnam,Singapore,12410,12360,7796
+1459,Vietnam,South Korea,12410,12367,115
+1460,Vietnam,Taiwan,12410,12383,2
+1461,Vietnam,United Kingdom,12410,12403,22
+1462,Vietnam,United States,12410,12404,2400
+1463,Yemen,Djibouti,12413,12226,16
+1464,Yemen,France,12413,12240,49
+1465,Yemen,Italy,12413,12272,16
+1466,Yemen,Oman,12413,12332,164
+1467,Yemen,Saudi Arabia,12413,12355,8
+1468,Yemen,United Arab Emirates,12413,12402,38
+1469,Yemen,United Kingdom,12413,12403,33
