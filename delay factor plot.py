@@ -16,7 +16,7 @@ plt.figure(figsize=(8, 5))
 plt.bar(df["Country"], df["Pct_Increase"], color="blue")
 plt.ylabel("Percentage Increase (Max vs Mean) [%]")
 #plt.xlabel("Country")
-plt.title("Percentage Increase between Max and Mean Avg. Delay Factor")
+plt.title("Percentage increase between max and mean avg. delay factor")
 plt.ylim(0, df["Pct_Increase"].max() + 10)
 
 # Add value labels on bars
