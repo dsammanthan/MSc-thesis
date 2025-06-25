@@ -19,14 +19,14 @@ line_values = [1.94, 1.68, 0.14, 0.33, 1.33]
 plt.figure(figsize=(8, 5))
 
 # Bar plot
-plt.bar(df["Country"], df["Std.dev_proportion"], color="blue", label="Std. dev. of avg. VOC as a percentage of mean")
+plt.bar(df["Country"], df["Std.dev_proportion"], color="blue", label="Std. dev. of avg. delay factor as a percentage of mean")
 
 # Line plot with red markers
 plt.plot(df["Country"], line_values, color='red', marker='o', linestyle='-', linewidth=2, markersize=8, label='Std. dev. of capital-to-capital links used')
 
 #plt.ylabel("Percentage (%)")
 #plt.xlabel("Country")
-plt.title("Std. Dev. Proportion for VOC and for capital-to-capital link usage")
+plt.title("Std. dev. proportion for delay factor and for capital-to-capital link usage")
 plt.ylim(0, max(df["Std.dev_proportion"].max(), max(line_values)) + 1)
 
 # Add value labels on bars
