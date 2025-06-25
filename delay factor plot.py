@@ -15,13 +15,13 @@ df["Pct_Increase"] = ((df["Max"] - df["Mean"]) / df["Mean"]) * 100
 plt.figure(figsize=(8, 5))
 plt.bar(df["Country"], df["Pct_Increase"], color="blue")
 plt.ylabel("Percentage Increase (Max vs Mean) [%]")
-plt.xlabel("Country")
+#plt.xlabel("Country")
 plt.title("Percentage Increase between Max and Mean Avg. Delay Factor")
 plt.ylim(0, df["Pct_Increase"].max() + 10)
 
 # Add value labels on bars
 for idx, value in enumerate(df["Pct_Increase"]):
-    plt.text(idx, value + 0.5, f"{value:.1f}%", ha='center', va='bottom')
+    plt.text(idx, value + 0.5, f"{value:.1f}", ha='center', va='bottom')
 
 plt.tight_layout()
 plt.show()
