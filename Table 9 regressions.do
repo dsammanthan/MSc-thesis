@@ -1,4 +1,4 @@
-* This file runs the regressions for the model in equation (6) and produces the results shown in table (21)
+* This file runs the regressions for the model in equation (6) and produces the results shown in table (9)
 
 * Import excel file containing all results of TAs run
 import excel "combined_TA_results_all_scenarios.xlsx", sheet("Sheet1") firstrow clear
