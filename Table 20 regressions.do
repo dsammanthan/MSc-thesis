@@ -24,23 +24,22 @@ encode OriginCountry, gen(origin_country)
 * regress AvgDelay_factor_Max /// 
 	NumUniqueSystem_IDs ///
     UsesCapitalLink ///
-	AdjustedAveragedistancetravel
+	Numberofoutages
 	
 * Regression (3)	
 * regress AvgDelay_factor_Max /// 
 	NumUniqueSystem_IDs ///
     UsesCapitalLink ///
 	Numberofoutages ///
-	AdjustedAveragedistancetravel
+	NumCapitalLinksUsed
 	
 * Regression (4)	
 * regress AvgDelay_factor_Max /// 
 	NumUniqueSystem_IDs ///
-    UsesCapitalLink ///
 	NumCapitalLinksUsed ///
 	Numberofoutages ///
 	i.origin_country ///
-	AdjustedAveragedistancetravel
+	NumLinksUsed
 	
 * Regression (5)	
 regress AvgDelay_factor_Max /// 
@@ -48,5 +47,4 @@ regress AvgDelay_factor_Max ///
     UsesCapitalLink ///
 	NumCapitalLinksUsed ///
 	NumLinksUsed ///
-	i.origin_country ///
-	AdjustedAveragedistancetravel
+	i.origin_country

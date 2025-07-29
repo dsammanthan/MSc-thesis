@@ -19,13 +19,11 @@ encode OriginCountry, gen(origin_country)
 * logit UsesCapitalLink ///
     NumUniqueSystem_IDs /// 
 	Numberofoutages /// 
-	NumLinksUsed /// 
-	AdjustedAveragedistancetravel
+	NumLinksUsed 
 	
 * Regression (2)	
 * logit UsesCapitalLink ///
     NumUniqueSystem_IDs /// 
-	Numberofoutages /// 
 	NumLinksUsed /// 
 	i.origin_country
 	
@@ -34,5 +32,4 @@ logit UsesCapitalLink ///
     NumUniqueSystem_IDs /// 
 	Numberofoutages /// 
 	NumLinksUsed /// 
-	i.origin_country ///
-	AdjustedAveragedistancetravel
+	i.origin_country
