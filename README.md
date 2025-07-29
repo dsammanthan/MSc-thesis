@@ -10,6 +10,6 @@ This repository contains the following files and code used for the MSc thesis of
 6. CSV files used in the traffic assignments on the full global network in 2024 titled "2024FullNetworkEdges.csv" and "2024FullNetworkNodes.csv".
 7. A notebook which compiles all the results into a single excel file titled "combined_TA_results_all_scenarios.xlsx".
 8. The full compiled results of all traffic assignments titled "combined_TA_results_all_scenarios.xlsx".
-9. Five Stata format do files producing the results shown in tables 5, 6, 19, 20, and 21.
+9. Five Stata format do files producing the results shown in tables 5, 6, 7, 8, and 9.
 
 Please refer to ```system requirements.txt``` for the required packages to run the Jupyter notebooks and Python scripts. For all system directories in the various codes, please adjust accordingly to your local system. The supervisors of this thesis are Prof. Dr. Christoph Trebesch, Prof. Dr. Jan-Egbert Sturm, and Dr. Michael Porcellacchia.
